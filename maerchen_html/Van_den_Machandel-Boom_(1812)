@@ -1,0 +1,629 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" dir="ltr">
+<head>
+<title>Van den Machandel-Boom (1812) – Wikisource</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (de)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikisource“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?283-16" type="text/css" media="print" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?117" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://de.wikisource.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Van_den_Machandel-Boom_(1812)",
+wgTitle="Van den Machandel-Boom (1812)",
+wgAction="view",
+wgArticleId=24694,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="de",
+wgContentLanguage="de",
+wgBreakFrames=false,
+wgCurRevisionId=1168842,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=[",	.", ".	,"],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Hauptseite",
+wgFormattedNamespaces={"-2": "Media", "-1": "Spezial", "0": "", "1": "Diskussion", "2": "Benutzer", "3": "Benutzer Diskussion", "4": "Wikisource", "5": "Wikisource Diskussion", "6": "Datei", "7": "Datei Diskussion", "8": "MediaWiki", "9": "MediaWiki Diskussion", "10": "Vorlage", "11": "Vorlage Diskussion", "12": "Hilfe", "13": "Hilfe Diskussion", "14": "Kategorie", "15": "Kategorie Diskussion", "102": "Seite", "103": "Seite Diskussion", "104": "Index", "105": "Index Diskussion"},
+wgNamespaceIds={"media": -2, "spezial": -1, "": 0, "diskussion": 1, "benutzer": 2, "benutzer_diskussion": 3, "wikisource": 4, "wikisource_diskussion": 5, "datei": 6, "datei_diskussion": 7, "mediawiki": 8, "mediawiki_diskussion": 9, "vorlage": 10, "vorlage_diskussion": 11, "hilfe": 12, "hilfe_diskussion": 13, "kategorie": 14, "kategorie_diskussion": 15, "seite": 102, "seite_diskussion": 103, "index": 104, "index_diskussion": 105, "bild": 6, "bild_diskussion": 7, "ws": 4, "image": 6, "image_talk": 7},
+wgSiteName="Wikisource",
+wgCategories=["Fertig", "Werke", "1810er Jahre", "Deutschland", "Märchen", "Märchen Grimm (1812–1815)", "Deutsche Philologie", "Niederdeutsch"],
+wgDBname="dewikisource",
+wgMWSuggestTemplate="http://de.wikisource.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0, 102, 104],
+wgMWSuggestMessages=["mit Vorschlägen", "keine Vorschläge"],
+wgRestrictionEdit=["autoconfirmed"],
+wgRestrictionMove=["autoconfirmed"],
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+Geo={"city": "", "country": ""},
+wgNoticeProject="wikisource";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?283-16"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="/w/extensions/ProofreadPage/proofread_article.js?26"></script>
+<script type="text/javascript"> 
+var prp_source = "Quelle";
+var prp_source_message = "Zur Erstellung dieses Texts wurde die gescannte Ausgabe benutzt.";
+</script>
+
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?283-16" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'Weitere Sprachen','vector-editwarning-warning':'Das Verlassen dieser Seite kann dazu führen, dass die Änderungen verloren gehen.\nAls angemeldeter Benutzer kann das Anzeigen dieser Warnung im „Bearbeiten“-Bereich der Einstellungen abgeschaltet werden.','vector-simplesearch-search':'Suche','vector-simplesearch-containing':'Volltextsuche nach …'});</script>
+<script src="/w/index.php?title=Spezial:BannerController&amp;cache=/cn.js&amp;283-16" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;283-16" type="text/javascript"></script>
+
+</head>
+<body class="mediawiki ltr capitalize-all-nouns ns-0 ns-subject page-Van_den_Machandel-Boom_1812 skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Van den Machandel-Boom (1812)</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">aus Wikisource, der freien Quellensammlung</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"><table style="line-height:40%;visibility:hidden;" border=0 cellpadding=0 cellspacing=0 ><tr>
+<td align=center > </td>
+<td align=center class='quality4' width="100"></td>
+<td align=center class='quality3' width="0"></td>
+<td align=center class='quality2' width="0"></td>
+<td align=center class='quality1' width="0"></td>
+<td align=center class='quality0' width="0"></td>
+<!-- <td ><span id=pr_index style="visibility:hidden;"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_2_(1815)" title="Index:Kinder- und Haus-Märchen Band 2 (1815)">[index]</a></span></td> -->
+</tr></table></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Wechseln zu: <a href="#mw-head">Navigation</a>,
+					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div id="textdaten" style="float:right;" class="noprint">
+<table width="280px" style="margin:0;margin-left:0.5em;margin-bottom:0.5em;">
+<tr>
+<td>
+<table width="100%" border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse; border-style:1px solid; border-color:#AAAAAA; background-color:#fff; font-size:100%; color:#191919">
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Textdaten</th>
+</tr>
+<tr valign="top">
+<th width="50%" align="left"><a href="/wiki/Fitchers_Vogel_(1812)" title="Fitchers Vogel (1812)"><b>&lt;&lt;&lt;</b></a></th>
+<th width="50%" align="right"><a href="/wiki/Der_alte_Sultan_(1812)" title="Der alte Sultan (1812)"><b>&gt;&gt;&gt;</b></a></th>
+</tr>
+<tr valign="top">
+<td width="40%">Autor:</td>
+<td width="60%"><b><a href="/wiki/Br%C3%BCder_Grimm" title="Brüder Grimm">Brüder Grimm</a></b></td>
+</tr>
+<tr valign="top">
+<td>Titel:</td>
+<td><b>Van den Machandel-Boom</b></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Untertitel:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>aus:</td>
+<td><a href="/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1812)" title="Kinder- und Haus-Märchen Band 1 (1812)">Kinder- und Haus-Märchen Band 1</a>, Große Ausgabe.<br />
+S. <a href="http://commons.wikimedia.org/wiki/Image:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_203.jpg" class="extiw" title="commons:Image:Kinder und Hausmärchen (Grimm) 1812 I 203.jpg">203</a>-217</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Herausgeber:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Auflage:</td>
+<td>1. Auflage</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Entstehungsdatum:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsdatum:</td>
+<td>1812</td>
+</tr>
+<tr valign="top">
+<td>Verlag:</td>
+<td>Realschulbuchhandlung</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Drucker:</td>
+<td>{{{DRUCKER}}}</td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsort:</td>
+<td>Berlin</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Übersetzer:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originaltitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalsubtitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalherkunft:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Quelle:</td>
+<td><a href="http://www.grimms.de/khm/khmhexa.php" class="external text" rel="nofollow">grimms.de</a> und <a href="http://commons.wikimedia.org/wiki/Category:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I" class="extiw" title="commons:Category:Kinder und Hausmärchen (Grimm) 1812 I">Scans auf Commons</a></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Kurzbeschreibung:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td colspan="2">seit 1812: KHM 47</td>
+</tr>
+<tr valign="top">
+<td colspan="2">
+<center><a href="/wiki/Datei:Wikipedia-logo.png" class="image"><img alt="Wikipedia-logo.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/20px-Wikipedia-logo.png" width="20" height="20" /></a> <a href="http://de.wikipedia.org/wiki/Vom_Machandelbaum" class="extiw" title="w:Vom Machandelbaum">Artikel in der Wikipedia</a></center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center>[[Bild:|250px]]</center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center><span class="extimg"><a href="/wiki/Datei:Wikimedia-button-for-homepage.png" class="image" title="{{{EXTERNESBILD}}}"><img alt="{{{EXTERNESBILD}}}" src="http://upload.wikimedia.org/wikipedia/commons/8/8b/Wikimedia-button-for-homepage.png" width="250" height="88" /></a></span></center>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Bearbeitungsstand</th>
+</tr>
+<tr>
+<td colspan="2" align="center"><span style="color:#669966;"><b>fertig</b></span></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color: #f3f3f3;" align="justify">
+<div style="font-size:80%; height:auto; color:#669966;"><b>Fertig!</b> Dieser Text wurde zweimal anhand der Quelle <a href="/wiki/Hilfe:Korrekturlesen" title="Hilfe:Korrekturlesen">Korrektur gelesen</a>. Die Schreibweise folgt dem Originaltext.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9"><span style="font-size:85%; color:#009900">Um eine Seite zu bearbeiten, brauchst du nur auf die entsprechende [Seitenzahl] zu klicken. Weitere Informationen findest du hier: <a href="/wiki/Wikisource:Proofread" title="Wikisource:Proofread"><b>Hilfe</b></a></span></th>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9" align="center"><span id="textdaten_index"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1812)" title="Index:Kinder- und Haus-Märchen Band 1 (1812)">Link zur Indexseite</a></span></th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-bottom: solid 1px #aaa; font-size: 95%; padding-bottom:0.5em">
+<table style="background-color: transparent;">
+<tr>
+<td style="width: 50px; vertical-align: middle"><a href="/wiki/Datei:Disambig-dark.svg" class="image" title="Begriffsklärung"><img alt="Begriffsklärung" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Disambig-dark.svg/30px-Disambig-dark.svg.png" width="30" height="23" /></a></td>
+<td>Andere Ausgaben unter diesem Titel siehe unter: <b><a href="/wiki/Vom_Machandelbaum" title="Vom Machandelbaum">Vom Machandelbaum</a></b>.</td>
+</tr>
+</table>
+</div>
+<p><br /></p>
+<table>
+<tr>
+<td valign="top" style="text-align:justify; padding-left:10px; padding-right:10px; position:relative;"><span class="PageNumber" id="Seite_203" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_203.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 203.jpg">203</a></b>]</span>
+<div style="text-align:center"><b>47.</b></div>
+<br />
+<div style="text-align:center"><b>Van den Machandel-Boom.</b></div>
+<br />
+<p>Dat is nu all lang her, woll twee dusent Joor, do was daar een riik Mann, de hadde eene schöne frame Fru, un se hadden sick beede seer leef, hadden averst kene Kinner, se wünschten sick averst seer welke, un de Fru bedt’ so <span class="PageNumber" id="Seite_204" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_204.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 204.jpg">204</a></b>]</span> veel dorum Dag un Nacht, man se kregen keen und kregen keen. Vör eeren Huse was een Hoff, darup stund een Machandelboom, ünner den stund de Fru eens in’n Winter, un schellt sick eenen Appel, un as se sick den Appel so schellt, so sneet se sick in’n Finger, un dat Blood feel in den Snee – ach! sed de Fru, un süft so recht hoch up, un sach dat Blood för sick an, un was so recht wehmödig, hadd ick doch een Kind so rood as Blood un so witt as Snee! – un as se dat sed, so wurd eer so recht frölich to Moode, eer was recht, as sull dat wat warden; daar ging se to den Huse un ging een Maand hen, de Snee vörging, un twee Maand, daar was dat grön, un dree Maand, daar kemen de Blömer ut de Eerde, un veer Maand, daar drungen sick alle Bömer in dat Holt, un de grönen Twige weeren all in een anner wussen; daar sungen de Vägelkens, dat dat ganze Holt schallt, un de Bleujten felen van de Bömer, daar was de fyfte Maand weg, un se stund ünner den Machandelboom, de rook so schön; do sprung eer dat Hart vör Freuden, un se feel up eere Knee un kunde sick nich laten, un as de söste Maand vörbi was, daar wurden de Früchte dick un stark, do wurd se ganz still, un de söwende Maand, do greep se na de Machandelbeeren un att se so nidsch, do wurd se trurig un krank; daar ging de achte <span class="PageNumber" id="Seite_205" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_205.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 205.jpg">205</a></b>]</span> Maand hen, un se reep eeren Mann, un weende un sed: wenn ick starve, so begrave my ünner den Machandelboom! do wurde se ganz getrost un freute sick, bett de neegte Maand vörby was, daar kreeg se een Kind, so witt as Snee un so rood as Blood; un as se dat sach, so freute se sick so, dat se sturv.</p>
+<p>Daar begroof eer Maan se ünner den Machandelboom, un he fung an to weenen so seer; eene Tyd lang do wurd dat wat sachter, un daar he noch wat weend hadd, do heel he up, un noch eene Tyd, do nam he sick wedder eene Fru.</p>
+<p>Mit de tweete Fru kreeg he eene Dochter, dat Kind averst van de eerste Fru was een lüttje Sön, un was so rood as Blood un so witt as Snee. Wenn de Fru eere Dochter so ansah, so had se se so lleef, averst denn sach se den lüttjen Jung an, un dat ging eer so dorch’t Hart, un eer dücht, as stund he eer allerwegen in’n Weg, un dacht denn man ümmer, wo se eer Dochter all dat Vörmögent towenden wull, un de Böse gav eer dat in, dat se den lüttjen Jung ganz gram wurd, un stöd em herüm van een Ek in de anner, un bust em hier un knuft em daar, so dat dat arme Kind ümmer in Angst was; wenn he denn ut de School kam, so hadd he keene ruhige Stede.</p>
+<p>Eens was de Fru up de Kamer gaan, do <span class="PageNumber" id="Seite_206" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_206.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 206.jpg">206</a></b>]</span> kamm de lüttje Dochter ook herup un sed: Moder giv my eenen Appel! Ja myn Kind, sed de Fru, un gav eer eenen schönen Appel uut de Kist, de Kist averst had eenen grooten swaaren Deckel mit een groot schaarp ysern Slott. Moder, sed de lüttje Dochter, schall Broder nich ook eenen hebben? Dat vördrot de Fru, doch sed se: ja, wenn he ut de School kümmt; un as se ut dat Finster gewaar wurde, dat he kamm, so was dat recht, as wenn de Böse över eer kamm, un se grapst to, un nam eerer Dochter den Appel wedder weg un sed: „du sast nich eer eenen hebben, as Broder.“ Daar smeet se den Appel in de Kist un maakt de Kist to; daar kamm de lüttje Jung in de Dör, daar gav eer de Böse in, dat se früntlich to em sed: „myn Sön, wist du eenen Appel hebben?“ un sach em so hastig an. „Moder, sed de lüttje Jung, wat sühst du gresig ut, ja giv my eenen Appel!“ Daar was eer, as sull se em toreden: „kumm mit my,“ sed se, un maakt den Dekkel up, „haal dy eenen Appel herut,“ un as sick de lütt Jung henin bückt, so reet eer de Böse, bratsch – sloog se den Dekkel to, dat de Kop af floog un ünner de rooden Appel seel. Daar äverleep eer dat in de Angst, un dacht: „kund ick dat van my bringen.“ Daar ging se baben na eere Stuve na eeren Draagkasten un haalt ut de bävelste <span class="PageNumber" id="Seite_207" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_207.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 207.jpg">207</a></b>]</span> Schuuflade eenen witten Dook, un sett den Kopp wedder up den Hals un bund den Halsbook so um, dat man niks seen kund, un sett em vör de Dör up eenen Stool un gav em den Appel in de Hand.</p>
+<p>Daar kamm daarna Marleenken to eere Moder in de Köke, de stund by den Füür un had eenen Pott mit heet Water för sik, den rüürt se ümmer um: „Moder, sed Marleenken, Broder sitt vör de Döör un süüt ganz witt ut, un hedd eenen Appel in de Hand, ick hev em beden, he sull my den Appel geven, averst he antwoord my nich, da wurd my ganz gruulig.“ „Ga nochmal hen, sed de Moder, un wenn he dy nich antwoorden will, so giv em eens an de Ooren!“ Daar ging Marleenken hen un sed: „Broder giv my den Appel!“ averst he sweeg still, daar gav se em eens up de Ooren, daar feel de Kop herünn, daräver varschrak se sick, un fung an to weenen un to raaren, un leep to eere Moder un sed: „ach, Moder, ick hebb minen Broder den Kopp afslagen!“ un weend un weend un wull sick nich tofreden geven: „Marleenken, sed de Moder, wat hest du daan – averst swig man still, dat et keen Minsch markt, dat is nu doch nich to ännern; wi willen em in suur kaaken.“ Daar nam de Moder den lüttjen Jungen un hackt em in Stükken, ded de in den Pott un kaakt em in <span class="PageNumber" id="Seite_208" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_208.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 208.jpg">208</a></b>]</span> suur; Marleenken averst stund daarby un weend un weend, un de Traanen feelen all in den Pott, un se bruukten gar keen Solt.</p>
+<p>Daar kamm de Vader to Huus un sett sick to Disch, un sed: „wo is denn min Sön?“ Dar drog de Moder eene groote, groote Schöttel op mit swart Suur, un Marleenken weend un kund sick nich hollen. Da sed de Vader wedder: „wo is den min Sön?“ „Ach, sed de Moder, he is över Land gaan, na Mütten eer groot Oem, he wull daar wat bliven.“ „wat deit he denn daar? un hed my nich mal Adjüs segd?“ „o he wuld geern hen, un bed my, ob he daar woll sös Weken bliven kun, he is so woll daar uphaben.“ „Ach, sed de Mann, my is so recht trurig, dat is doch nich recht, he had my doch Adjüs seggen schullt.“ Mit des fung he an to eeten un sed: „Marleenken, wat weenst du? Broder ward woll wedder kamen.“ „Ach Fru, sed he do, wat smeckt my dat Eten schön, giv my meer!“ un je meer he at, je meer wuld he hebben, un sed: „gevt my meer, gy sölt niks daaraf hebben, dat is as wenn dat all myn weer,“ un he att un att, un de Knaken smeet he all unner den Disch, bett he alles up had. Marleenken averst ging hen na eere Commode un namm uut de unnerste Schuuf eeren besten syden Dook, un haalt all de Beenken un Knaken ünner den Disch herut, un <span class="PageNumber" id="Seite_209" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_209.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 209.jpg">209</a></b>]</span> bund se in den syden Dook, un drog se vör de Döör, un weente cere blödigen Traanen; daar legd se se unner den Machandelboom in dat gröne Gras, un as se se daar henlegd hadd, so was eer mit eenmal so recht licht, un weente nich meer, do fung de Machandelboom an sich to bewegen, un de Twyge deden sich ümmer so recht van eenanner, un denn wedder tohop, so recht, as wenn sick eener so recht fröit un mit de Hände so deit. Mit des, so ging daar so’n Newel van den Boom, un recht in den Newel da brennt dat as Füür, un ut dat Füür daar flog so’n schönen Vagel herut, de sung so herlich un flog hoch in de Luft, un as he weg was, do was de Machandelboom, as he vörheer west was, un de Dook mit de Knaken was weg, – Marleenken averst was so recht licht un vergnögt, recht as wenn de Broder noch leeft, daar ging se wedder ganz lustig in dat Huus by Disch un att.</p>
+<p>De Vagel averst floog weg, un sett’ sick up eenen Goldsmitt siin Hus un fung an to singen:</p>
+<div class="poem">
+<p>Min Moder de mi slacht’t,<br />
+min Vader de mi att,<br />
+min Swester de Marleeniken<br />
+söcht alle mine Beeniken,<br />
+un bindt se in een siden Dook,<br />
+legts unner den Machandelboom;<br />
+kywitt, kywitt! ach watt een schön Vagel bin ick!</p>
+</div>
+<p><span class="PageNumber" id="Seite_210" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_210.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 210.jpg">210</a></b>]</span> De Goldsmitt satt in sine Warkstede un maakt eene goldne Kede, daar hörd he den Vagel, de up sin Dack satt un sung, un dat dünkt em so schön; daar stund he up, un as he äver den Süll ging, so vörloor he eenen Tüffel; he ging aver so recht midden up de Strate, eenen Tüffel un een Sock an, sin Schortfell had he vör, un in de een Hand had he de golden Kede, un in de anner de Tang, un de Sünn schiint so hell up de Strate, daar ging he recht so staan un sach den Vagel an: „Vagel, segd he do, wo schön kanst du singen, sing my dat Stük nochmal.“ – Nee, segd de Vagel, tweemal sing ick nich umsünst, giv mi de golden Kede, so wil ick di et nochmal singen. „Da, segd de Goldsmitt, hest du de golden Kede, nu sing mi dat nochmal.“ Daar kam de Vagel un nam de golden Ked so in de rechte Krall, un ging vör den Goldsmitt sitten un sung:</p>
+<div class="poem">
+<p>Min Moder de mi slacht’t,<br />
+min Vader de mi att,<br />
+min Swester de Marleeniken<br />
+söcht alle mine Beeniken<br />
+un bindt se in een siden Dook<br />
+legts unner den Machandelboom,<br />
+kywitt, kywitt! ach watt een schön Vagel bin ick.</p>
+</div>
+<p>Daar flog de Vagel weg na eenen Schooster un sett sick up den siin Dack un sung:</p>
+<div style="position:relative;"><span class="seitennummer PageNumber" id="Seite_211">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_211.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 211.jpg">211</a></b>]</span></div>
+<div class="poem">
+<p>Min Moder de mi slacht’t,<br />
+min Vader de mi att,<br />
+min Swester de Marleeniken,<br />
+söcht alle mine Beeniken<br />
+un bindt se in een siden Dook,<br />
+legts unner den Machandelboom,<br />
+kywitt, kywitt! ach watt een schön Vagel bin ick!</p>
+</div>
+<p>de Schooster hörd dat, un leep vör sin Döör, in Hemdsarmel und sach na siin Dack, un must de Hand vör de Oogen holln, dat de Sünn em nich blendt: „Vagel, segd he, wat kanst du schön singen!“ Da reep he in siin Döör herin: „Fru, kumm mal herut, daar is een Vagel, sü mal den Vagel de kann mal schön singen, da reep he siin Dochter un Kinner un Gesellen, Jung un Magd, un keemen all up de Straat, un segen den Vagel an, wo schön he was, un he hadd so recht roode, un gröne Feddern, un um den Hals was dat as luter Gold, un de Oogen blinkten em in Kopp, as Steern.“ „Vagel, sed de Schoster, nu sing mi dat Stük nochmal.“ Nee, segd de Vagel, twee mal sing ick nich umsünst, du möst my wat schenken. „Fru sed de Mann, ga na de Dön-böhn up den bövelsten Boord, do staan een paar roode Scho, de bring herunn;“ daar ging de Fru hen un haalt de Scho. „Da Vagel, sed de Mann, nu sing mi dat Stük noch mal,“ daar kamm de Vagel <span class="PageNumber" id="Seite_212" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_212.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 212.jpg">212</a></b>]</span> un namm de Scho in de linke Klau, und flog wedder up dat Dack un sung:</p>
+<div class="poem">
+<p>Min Moder de mi slacht’t<br />
+min Vader de mi att,<br />
+min Swester de Marleeniken,<br />
+söcht alle mine Beeniken,<br />
+un bindt se in een siden Dook<br />
+legts unner den Machandelboom,<br />
+kywitt, kywitt! ach wat een schön Vagel bin ick:</p>
+</div>
+<p>un as he utsungen hadd, so floog he weg, de Kede hadd he in de rechte un de Scho in de linke Klau, un he floog wyt weg na eene Mähl, un de Mähl ging klippe klappe, – klippe klappe – klippe klappe – un in de Mähl daar seeten twintig Mählenburschen, de haugten eenen Steen un hackten hick hack – hick hack – hick hack, un de Mähl ging klippe klappe, klippe klappe, klippe klappe. Daar ging de Vagel up eenen Lindenboom sitten, de vör de Mähl stund un sung:</p>
+<div class="poem">
+<p>„Min Moder de mi slacht’t“</p>
+</div>
+<p>do hörte een up,</p>
+<div class="poem">
+<p>„min Vader de mi att“</p>
+</div>
+<p>do hörten noch twee up, un hörten dat:</p>
+<div class="poem">
+<p>„min Swester de Marleeniken“</p>
+</div>
+<p>do hörten wedder veer up,</p>
+<div class="poem">
+<p>„söcht alle mine Beeniken</p>
+</div>
+<div style="position:relative;"><span class="seitennummer PageNumber" id="Seite_213">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_213.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 213.jpg">213</a></b>]</span></div>
+<div class="poem">
+<p>un bindt se in een siden Dook“</p>
+</div>
+<p>nu hackten noch man acht</p>
+<div class="poem">
+<p>„legts unner<br />
+nu noch man fyve<br />
+den Machandelboom<br />
+nu noch man een<br />
+kywitt, kywitt! ach wat een schön Vagel bin ick.“</p>
+</div>
+<p>daar heel de lezte ook up, un hadd dat lezte noch hörd. „Vagel, segd he, wat singst du schön, laat my dat ook hören, sing my dat noch mal!“ Nee, segd de Vagel, twee mal sing ick nich umsünst, giv my den Mählensteen, so will ick dat noch mal singen. „Ja, segd he, wenn he mi allen hörd, so sust du em hebben,“ „ja, seden de annern, wenn he nochmal singt, so sall he em hebben;“ dar kamm de Vagel herün, un de Möllers faat’n all twintig mit Bööm an, un böörten den Steen up, hu uh up, hu uh ihp! – hu uuh uhp! daar stack de Vagel den Hals döör dat Lock, un nam üm as eenen Kragen un floog wedder up den Boom, un sung:</p>
+<div class="poem">
+<p>Min Moder de mi slacht’t<br />
+min Vader de mi att,<br />
+min Swester de Marleeniken,<br />
+söcht alle mine Beeniken,<br />
+un bindt se in een siden Dook,<br />
+legts unner den Machandelboom,<br />
+kywitt, kywitt! ach wat een schön Vagel bin ick!</p>
+</div>
+<p><span class="PageNumber" id="Seite_214" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_214.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 214.jpg">214</a></b>]</span> un as he dat utsungen hadd, da ded he de Flünk van eenanner, un had in de rechte Klau de Kede un in de linke de Scho un üm den Hals den Mählensteen un floog wiit weg na sines Vaders Huse. –</p>
+<p>In de Stuve satt de Vader, de Moder un Marleenken by Disch, un de Vader sed: ach wat waart mi licht, mi is recht so good to Mode – nee! sed de Moder, my is so angst, so recht, as wenn een swaar Gewitter kümmt. Marleenken averst satt un weend un weend, daar kamm de Vagel auflegen, un as he sick up dat Dack sett – ach segd de Vader, mi is so recht freudig un de Sünn schiint buten so schön, my is recht as süll ick eenen ollen Bekannten wedderseen, – nee, sed de Fru, my is so Angst, de Teene klappern mi un dat is mi as Füür in de Adern, un se reet sick eer Liifken up un so meer; averst Marleenken satt in een Eck un weende un had eeren Platen vor de Oogen, un weende den Platen gans messnatt; daar sett sick de Vagel up den Machandelboom un sung:</p>
+<div class="poem">
+<p>Min Moder de mi slacht’t</p>
+</div>
+<p>daar heel de Moder de Ooren to, un kneep de Oogen to, un wold nich seen un hören, aver dat bruuste eer in de Ooren, as de allerstarkst Storm, un de Oogen brennten eer un zackten as Bliz:</p>
+<div style="position:relative;"><span class="seitennummer PageNumber" id="Seite_215">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_215.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 215.jpg">215</a></b>]</span></div>
+<div class="poem">
+<p>min Vader de mi att,</p>
+</div>
+<p>Ach Moder, segd de Mann, daar is een schön Vagel, de singt so herlich, de Sünn schiint so warm, un dat rückt as luter Zinnemamen</p>
+<div class="poem">
+<p>min Swester de Marleeniken</p>
+</div>
+<p>daar led Marleenken den Kopp up de Knee un weende in eens weg, de Mann averst sed: ick ga herut, ick mut den Vagel dicht by sehn; – „ach, ga nich, sed de Fru, my is as bevt dat ganze Huus, un stünn in Flammen;“ aver de Mann ging herut un sach den Vagel an:</p>
+<div class="poem">
+<p>söcht alle mine Beeniken<br />
+un bindt se in een siden Dook,<br />
+legts unner den Machandelboom,<br />
+kywitt, kywitt! ach wat een schön Vagel bin ick!</p>
+</div>
+<p>mit des leet de Vagel de golden Kede fallen, un se feel den Mann jüst um den Hals, so recht hier herüm, dat se recht so schön past; daar ging he herin un sed: „sü wat is dat vör een schön Vagel, hett mi so ne schöne goldne Kede schenkt, un süht so schöne ut;“ de Fru aver was so Angst un feel langs in de Stuve hen, un de Mütz feel eer van den Kopp – daar sung de Vagel wedder:</p>
+<div class="poem">
+<p>Min Moder de mi slacht’t</p>
+</div>
+<p>ach dat ick dusend Fuder unner de Eerde weer, dat ick dat nich hören sull!</p>
+<div style="position:relative;"><span class="seitennummer PageNumber" id="Seite_216">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_216.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 216.jpg">216</a></b>]</span></div>
+<div class="poem">
+<p>min Vader de mi att,</p>
+</div>
+<p>daar feel de Fru vör dood nedder,</p>
+<div class="poem">
+<p>min Swester de Marleeniken,</p>
+</div>
+<p>ach, sed Marleenken, ick wil ook herut gan un seen op de Vagel mi wat schenkt, daar ging se herut,</p>
+<div class="poem">
+<p>söcht alle mine Beeniken<br />
+und bindt se in een siden Dook,</p>
+</div>
+<p>daar smeet he eer de Scho herun</p>
+<div class="poem">
+<p>legts unner den Machandelboom,<br />
+kywitt, kywitt! ach wat een schön Vagel bin ick!</p>
+</div>
+<p>Daar was eer so licht un frölich, daar truck se de nien rooden Scho an, un danst un spring herinn; ach, sed se, ick was so trurig as ick herut ging, un nu is mi so licht, dat is mal een herlichen Vagel, het mi een Paar roode Scho schenkt! „nee,“ sed de Fru, un sprung up, un de Har stunnen eer to Barge as Füürsflammen, „mi is as sull de Werld unner gahn, ick wil ook herut, op mi lichter warden sull,“ un as se ut de Döör kamm – bratsch! – smeet eer de Vagel den Mählensteen up den Kopp, dat se ganz tomatsch; de Vader un Marleenken hörden dat un gingen herut, dar ging een Damp un Flam un Füür up van de Steed, un as dat vorby was, da stund de lüttje Broder, un he namm sinen Vader un Marleenken bi de Hand, <span class="PageNumber" id="Seite_217" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_217.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 217.jpg">217</a></b>]</span> un weeren alldree so recht vergnögt un gingen in dat Huus by Disch un eeten.</p>
+<h2><span class="mw-headline" id="Anhang_Band_1">Anhang Band 1</span></h2>
+<span class="PageNumber" id="Seite_XXIX" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_417.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 417.jpg">XXIX</a></b>]</span>
+<div style="text-align:center"><b>Zum Machandelboom. No. 47.</b></div>
+<br />
+<p><i>Machandel</i> ist Wachholder (nicht Mandel), <i>Marleenken</i> Marianchen, Marie Annchen. Dieses wunderschöne Märchen ist uns von <i>Runge</i> mitgetheilt worden. Die Geschichte wird auch in hiesigen Gegenden häufig, selten aber so vollständig erzählt, so daß sich etwa nur noch hinzusetzen ließe, daß das Schwesterchen die Knochen an einem rothseidenen Faden zusammenreiht. Der Vers lautet:</p>
+<div class="poem">
+<p>meine Mutter kocht mich,<br />
+mein Vater aß mich,<br />
+Schwesterchen unterm Tische saß,<br />
+die Knöchlein all all auflas,<br />
+warf sie übern Birnbaum hinaus,<br />
+da ward ein Vögelein draus,<br />
+das singet Tag und Nacht.</p>
+</div>
+<p>In einer Stelle von Göthes Faust S. 225, wozu unser Märchen den Commentar liefert, und die der Dichter unstreitig aus altem Hörensagen aufnahm, lautet es so:</p>
+<div class="poem">
+<p>meine Mutter die Hur,<br />
+die mich umgebracht hat,<br />
+mein Vater der Schelm,<br />
+der mich gessen hat,<br />
+mein Schwesterlein klein<br />
+hub auf die Bein,<br />
+an einem kühlen Ort,<br />
+da ward ich ein schönes Waldvögelein,<br />
+fliege fort, fliege fort!</p>
+</div>
+<p>Die <i>böse Stiefmutter,</i> wovon ein altes Sprichwort (Stiefmutter, Teufels Unterfutter) verweist <span class="PageNumber" id="Seite_XXX" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_418.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 418.jpg">XXX</a></b>]</span> an gar viel andere Mährchen, der Eingang vom in <i>Fingerschneiden</i> an Sneewittchen, und an eine merkwürdige Stelle im altdeutschen Gedicht Parcifal, worüber mit Zuziehung vieler anderer Parallelsagen nächstens ein umständlicher Commentar gegeben werden soll. – Das <i>Sammeln der zerstreuten Knochen</i> ist in den Mythen von Osiris, Orpheus, und der Legende von Adalbert. Das <i>Wiederbeleben</i> in vielen andern, z.B. der Negersage von Nanni, den seine Mutter lehrt, das Fleisch eines jungen Huhns zu essen und die Federn und Beine wieder zusammen zu setzen. So sammelt Thor die Knochen der gegessenen Ziegen und belebt sie rüttelnd. (s. auch von Arnliot in der Heimskringla und manche andere Sage, die hier anzuführen zu umständlich wäre).</p>
+<h2><span class="mw-headline" id="Anhang_Band_2">Anhang Band 2</span></h2>
+<p><span class="PageNumber" id="Seite_LXVI" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_II_356.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 II 356.jpg">LXVI</a></b>]</span> <i>Num</i>. 47. (der Machandel-Boom.) Daß dies Märchen auch in Schottland herumgeht, zeigt folgender Reim, den Leyden aus einem <tt>nursery tale</tt> aufbewahrt: <tt>the spirit of a child in the form of a <i>bird</i> whistle the following verse to its father</tt>:</p>
+<div class="poem">
+<p>„<tt>pew wew, pew wew</tt>, (pipi, wiwi,)<br />
+<tt>my minny me slew</tt>.“</p>
+</div>
+</td>
+</tr>
+</table>
+<p><span class="AndereVersion" id="av_Van_den_Machandel-Boom_.281819.29" title="Van den Machandel-Boom (1819)|Ausgabe 1819" style="display:none;"></span> <span class="AndereVersion" id="av_Van_den_Machandelboom_.281837.29" title="Van den Machandelboom (1837)|Ausgabe 1837" style="display:none;"></span> <span class="AndereVersion" id="av_Van_den_Machandelboom_.281840.29" title="Van den Machandelboom (1840)|Ausgabe 1840" style="display:none;"></span> <span class="AndereVersion" id="av_Von_dem_Machandelboom_.281843.29" title="Von dem Machandelboom (1843)|Ausgabe 1843" style="display:none;"></span> <span class="AndereVersion" id="av_Von_dem_Machandelboom_.281850.29" title="Von dem Machandelboom (1850)|Ausgabe 1850" style="display:none;"></span> <span class="AndereVersion" id="av_Von_dem_Machandelboom_.281857.29" title="Von dem Machandelboom (1857)|Ausgabe 1857" style="display:none;"></span> <span class="AndereVersion" title="_line" id="_line" style="display:none;"></span> <span class="AndereVersion" id="av_Kinder-_und_Haus-M.C3.A4rchen_Band_3_.281856.29.2FAnmerkungen.2347" title="Kinder- und Haus-Märchen Band 3 (1856)/Anmerkungen#47|Kommentar 1856" style="display:none;"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1592/1000000
+Post-expand include size: 64755/2048000 bytes
+Template argument size: 5823/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key dewikisource:pcache:idhash:24694-0!1!0!!de!4!edit=0 and timestamp 20101211132144 -->
+<div class="printfooter">
+Von „<a href="http://de.wikisource.org/wiki/Van_den_Machandel-Boom_(1812)">http://de.wikisource.org/wiki/Van_den_Machandel-Boom_(1812)</a>“</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Spezial:Kategorien" title="Spezial:Kategorien">Kategorien</a>: <span dir='ltr'><a href="/wiki/Kategorie:Fertig" title="Kategorie:Fertig">Fertig</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Werke" title="Kategorie:Werke">Werke</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:1810er_Jahre" title="Kategorie:1810er Jahre">1810er Jahre</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutschland" title="Kategorie:Deutschland">Deutschland</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen" title="Kategorie:Märchen">Märchen</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen_Grimm_(1812%E2%80%931815)" title="Kategorie:Märchen Grimm (1812–1815)">Märchen Grimm (1812–1815)</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutsche_Philologie" title="Kategorie:Deutsche Philologie">Deutsche Philologie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Niederdeutsch" title="Kategorie:Niederdeutsch">Niederdeutsch</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Persönliche Werkzeuge</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Van_den_Machandel-Boom_(1812)" title="Sich anzumelden wird zwar gerne gesehen, ist aber keine Pflicht. [o]" accesskey="o">Anmelden / Benutzerkonto erstellen</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namensräume</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/Van_den_Machandel-Boom_(1812)"  title="Seiteninhalt anzeigen [c]" accesskey="c"><span>Quellentext</span></a></li>
+					<li  id="ca-talk"><a href="/wiki/Diskussion:Van_den_Machandel-Boom_(1812)"  title="Diskussion zum Seiteninhalt [t]" accesskey="t"><span>Diskussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Varianten</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Ansichten</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Van_den_Machandel-Boom_(1812)" ><span>Lesen</span></a></li>
+					<li id="ca-viewsource"><a href="/w/index.php?title=Van_den_Machandel-Boom_(1812)&amp;action=edit"  title="Diese Seite ist geschützt. Der Quelltext kann angesehen werden. [e]" accesskey="e"><span>Quelltext anzeigen</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Van_den_Machandel-Boom_(1812)&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h"><span>Versionsgeschichte</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Aktionen</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Suche</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Spezial:Suche"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Wikisource durchsuchen [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Suche nach Seiten, die diesen Text enthalten"><img src="http://bits.wikimedia.org/skins-1.5/vector/images/search-ltr.png?283-16" alt="Suchen" /></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikisource/de/b/bc/Wiki.png);" href="/wiki/Hauptseite"  title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="/wiki/Hauptseite" title="Hauptseite anzeigen [z]" accesskey="z">Hauptseite</a></li>
+					<li id="n-contents"><a href="/wiki/Wikisource:Systematik">Systematischer Einstieg</a></li>
+					<li id="n-authors"><a href="/wiki/Kategorie:Autoren">Autorenindex</a></li>
+					<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite [x]" accesskey="x">Zufällige Seite</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Mitmachen -->
+<div class="portal" id='p-Mitmachen'>
+	<h5>Mitmachen</h5>
+	<div class="body">
+				<ul>
+					<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikisource [r]" accesskey="r">Letzte Änderungen</a></li>
+					<li id="n-Neuer-Artikel"><a href="/wiki/Vorlage:Neuer_Artikel">Neuer Artikel</a></li>
+					<li id="n-Korrekturen-des-Monats"><a href="/wiki/Vorlage:Reviewtext">Korrekturen des Monats</a></li>
+					<li id="n-Portal"><a href="/wiki/Wikisource:Portal">Gemeinschafts-Portal</a></li>
+					<li id="n-Skriptorium"><a href="/wiki/Wikisource:Skriptorium">Skriptorium</a></li>
+					<li id="n-Auskunft"><a href="/wiki/Wikisource:Auskunft">Auskunft</a></li>
+					<li id="n-Hilfe"><a href="/wiki/Wikisource:Hilfe">Hilfe</a></li>
+					<li id="n-Spenden"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=de&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001">Spenden</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /Mitmachen -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Drucken/exportieren</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=book_creator&amp;referer=Van+den+Machandel-Boom+%281812%29" title="Ein Buch oder eine Artikelsammlung erstellen" rel="nofollow">Buch erstellen</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=render_article&amp;arttitle=Van+den+Machandel-Boom+%281812%29&amp;oldid=1168842&amp;writer=rl" title="Eine PDF-Version dieser Wikiseite herunterladen" rel="nofollow">Als PDF herunterladen</a></li><li id="t-print"><a href="/w/index.php?title=Van_den_Machandel-Boom_(1812)&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Werkzeuge</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Van_den_Machandel-Boom_(1812)" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Van_den_Machandel-Boom_(1812)" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+																																					<li id="t-upload"><a href="http://commons.wikimedia.org/wiki/Special:Upload?uselang=de" title="Dateien hochladen [u]" accesskey="u">Datei hochladen</a></li>
+											<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Van_den_Machandel-Boom_(1812)&amp;oldid=1168842" title="Dauerhafter Link zu dieser Seitenversion">dauerhafter Link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Van_den_Machandel-Boom_(1812)&amp;id=1168842" title="Hinweis, wie diese Seite zitiert werden kann">Diese Seite zitieren</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 11. Juli 2010 um 19:21 Uhr geändert.</li>
+																							<li id="footer-info-copyright"> </li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://de.wikipedia.org/wiki/Wikipedia:Datenschutz" title="w:Wikipedia:Datenschutz">Datenschutz</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikisource:%C3%9Cber" title="Wikisource:Über">Über Wikisource</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:Impressum" title="Wikisource:Impressum">Impressum</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- Served by srv261 in 0.480 secs. -->			</body>
+</html>

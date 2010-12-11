@@ -1,0 +1,491 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" dir="ltr">
+<head>
+<title>Brüderchen und Schwesterchen (1819) – Wikisource</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (de)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikisource“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?283-16" type="text/css" media="print" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?117" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://de.wikisource.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Brüderchen_und_Schwesterchen_(1819)",
+wgTitle="Brüderchen und Schwesterchen (1819)",
+wgAction="view",
+wgArticleId=128571,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="de",
+wgContentLanguage="de",
+wgBreakFrames=false,
+wgCurRevisionId=1167011,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=[",	.", ".	,"],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Hauptseite",
+wgFormattedNamespaces={"-2": "Media", "-1": "Spezial", "0": "", "1": "Diskussion", "2": "Benutzer", "3": "Benutzer Diskussion", "4": "Wikisource", "5": "Wikisource Diskussion", "6": "Datei", "7": "Datei Diskussion", "8": "MediaWiki", "9": "MediaWiki Diskussion", "10": "Vorlage", "11": "Vorlage Diskussion", "12": "Hilfe", "13": "Hilfe Diskussion", "14": "Kategorie", "15": "Kategorie Diskussion", "102": "Seite", "103": "Seite Diskussion", "104": "Index", "105": "Index Diskussion"},
+wgNamespaceIds={"media": -2, "spezial": -1, "": 0, "diskussion": 1, "benutzer": 2, "benutzer_diskussion": 3, "wikisource": 4, "wikisource_diskussion": 5, "datei": 6, "datei_diskussion": 7, "mediawiki": 8, "mediawiki_diskussion": 9, "vorlage": 10, "vorlage_diskussion": 11, "hilfe": 12, "hilfe_diskussion": 13, "kategorie": 14, "kategorie_diskussion": 15, "seite": 102, "seite_diskussion": 103, "index": 104, "index_diskussion": 105, "bild": 6, "bild_diskussion": 7, "ws": 4, "image": 6, "image_talk": 7},
+wgSiteName="Wikisource",
+wgCategories=["Fertig", "Werke", "1810er Jahre", "Deutschland", "Märchen", "Märchen Grimm (1819)", "Deutsche Philologie", "Neuhochdeutsch"],
+wgDBname="dewikisource",
+wgMWSuggestTemplate="http://de.wikisource.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0, 102, 104],
+wgMWSuggestMessages=["mit Vorschlägen", "keine Vorschläge"],
+wgRestrictionEdit=["autoconfirmed"],
+wgRestrictionMove=["autoconfirmed"],
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+Geo={"city": "", "country": ""},
+wgNoticeProject="wikisource";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?283-16"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="/w/extensions/ProofreadPage/proofread_article.js?26"></script>
+<script type="text/javascript"> 
+var prp_source = "Quelle";
+var prp_source_message = "Zur Erstellung dieses Texts wurde die gescannte Ausgabe benutzt.";
+</script>
+
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?283-16" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'Weitere Sprachen','vector-editwarning-warning':'Das Verlassen dieser Seite kann dazu führen, dass die Änderungen verloren gehen.\nAls angemeldeter Benutzer kann das Anzeigen dieser Warnung im „Bearbeiten“-Bereich der Einstellungen abgeschaltet werden.','vector-simplesearch-search':'Suche','vector-simplesearch-containing':'Volltextsuche nach …'});</script>
+<script src="/w/index.php?title=Spezial:BannerController&amp;cache=/cn.js&amp;283-16" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;283-16" type="text/javascript"></script>
+
+</head>
+<body class="mediawiki ltr capitalize-all-nouns ns-0 ns-subject page-Brüderchen_und_Schwesterchen_1819 skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Brüderchen und Schwesterchen (1819)</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">aus Wikisource, der freien Quellensammlung</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"><table style="line-height:40%;visibility:hidden;" border=0 cellpadding=0 cellspacing=0 ><tr>
+<td align=center > </td>
+<td align=center class='quality4' width="100"></td>
+<td align=center class='quality3' width="0"></td>
+<td align=center class='quality2' width="0"></td>
+<td align=center class='quality1' width="0"></td>
+<td align=center class='quality0' width="0"></td>
+<!-- <td ><span id=pr_index style="visibility:hidden;"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1819)" title="Index:Kinder- und Haus-Märchen Band 1 (1819)">[index]</a></span></td> -->
+</tr></table></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Wechseln zu: <a href="#mw-head">Navigation</a>,
+					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div id="textdaten" style="float:right;" class="noprint">
+<table width="280px" style="margin:0;margin-left:0.5em;margin-bottom:0.5em;">
+<tr>
+<td>
+<table width="100%" border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse; border-style:1px solid; border-color:#AAAAAA; background-color:#fff; font-size:100%; color:#191919">
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Textdaten</th>
+</tr>
+<tr valign="top">
+<th width="50%" align="left"><a href="/wiki/Das_Lumpengesindel_(1819)" title="Das Lumpengesindel (1819)"><b>&lt;&lt;&lt;</b></a></th>
+<th width="50%" align="right"><a href="/wiki/Rapunzel_(1819)" title="Rapunzel (1819)"><b>&gt;&gt;&gt;</b></a></th>
+</tr>
+<tr valign="top">
+<td width="40%">Autor:</td>
+<td width="60%"><b><a href="/wiki/Br%C3%BCder_Grimm" title="Brüder Grimm">Brüder Grimm</a></b></td>
+</tr>
+<tr valign="top">
+<td>Titel:</td>
+<td><b>Brüderchen und Schwesterchen</b></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Untertitel:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>aus:</td>
+<td><a href="/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1819)" title="Kinder- und Haus-Märchen Band 1 (1819)">Kinder- und Haus-Märchen Band 1</a>, Große Ausgabe.<br />
+S. <a href="http://commons.wikimedia.org/wiki/Image:De_Kinder_und_Hausm%C3%A4rchen_Grimm_1819_V1_057.jpg" class="extiw" title="commons:Image:De Kinder und Hausmärchen Grimm 1819 V1 057.jpg">57</a>-66</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Herausgeber:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Auflage:</td>
+<td>2. Auflage</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Entstehungsdatum:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsdatum:</td>
+<td>1819</td>
+</tr>
+<tr valign="top">
+<td>Verlag:</td>
+<td>G. Reimer</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Drucker:</td>
+<td>{{{DRUCKER}}}</td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsort:</td>
+<td>Berlin</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Übersetzer:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originaltitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalsubtitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalherkunft:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Quelle:</td>
+<td><a href="http://commons.wikimedia.org/wiki/Category:De_M%C3%A4rchen_Grimm_Band_1_(1819)" class="extiw" title="commons:Category:De Märchen Grimm Band 1 (1819)">Scans auf Commons</a></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Kurzbeschreibung:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td colspan="2">seit 1812: KHM 12</td>
+</tr>
+<tr valign="top">
+<td colspan="2">
+<center><a href="/wiki/Datei:Wikipedia-logo.png" class="image"><img alt="Wikipedia-logo.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/20px-Wikipedia-logo.png" width="20" height="20" /></a> <a href="http://de.wikipedia.org/wiki/Br%C3%BCderchen_und_Schwesterchen" class="extiw" title="w:Brüderchen und Schwesterchen">Artikel in der Wikipedia</a></center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center>[[Bild:|250px]]</center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center><span class="extimg"><a href="/wiki/Datei:Wikimedia-button-for-homepage.png" class="image" title="{{{EXTERNESBILD}}}"><img alt="{{{EXTERNESBILD}}}" src="http://upload.wikimedia.org/wikipedia/commons/8/8b/Wikimedia-button-for-homepage.png" width="250" height="88" /></a></span></center>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Bearbeitungsstand</th>
+</tr>
+<tr>
+<td colspan="2" align="center"><span style="color:#669966;"><b>fertig</b></span></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color: #f3f3f3;" align="justify">
+<div style="font-size:80%; height:auto; color:#669966;"><b>Fertig!</b> Dieser Text wurde zweimal anhand der Quelle <a href="/wiki/Hilfe:Korrekturlesen" title="Hilfe:Korrekturlesen">Korrektur gelesen</a>. Die Schreibweise folgt dem Originaltext.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9"><span style="font-size:85%; color:#009900">Um eine Seite zu bearbeiten, brauchst du nur auf die entsprechende [Seitenzahl] zu klicken. Weitere Informationen findest du hier: <a href="/wiki/Wikisource:Proofread" title="Wikisource:Proofread"><b>Hilfe</b></a></span></th>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9" align="center"><span id="textdaten_index"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1819)" title="Index:Kinder- und Haus-Märchen Band 1 (1819)">Link zur Indexseite</a></span></th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-bottom: solid 1px #aaa; font-size: 95%; padding-bottom:0.5em">
+<table style="background-color: transparent;">
+<tr>
+<td style="width: 50px; vertical-align: middle"><a href="/wiki/Datei:Disambig-dark.svg" class="image" title="Begriffsklärung"><img alt="Begriffsklärung" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Disambig-dark.svg/30px-Disambig-dark.svg.png" width="30" height="23" /></a></td>
+<td>Andere Ausgaben unter diesem Titel siehe unter: <b><a href="/wiki/Br%C3%BCderchen_und_Schwesterchen" title="Brüderchen und Schwesterchen">Brüderchen und Schwesterchen</a></b>.</td>
+</tr>
+</table>
+</div>
+<p><br /></p>
+<table>
+<tr>
+<td valign="top" style="text-align:justify; padding-left:10px; padding-right:10px; position:relative;"><span class="PageNumber" id="Seite_57" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:De_Kinder_und_Hausm%C3%A4rchen_Grimm_1819_V1_057.jpg" title="Seite:De Kinder und Hausmärchen Grimm 1819 V1 057.jpg">57</a></b>]</span>
+<div style="text-align:center"><b>11.</b></div>
+<br />
+<div style="text-align:center"><b>Brüderchen und Schwesterchen.</b></div>
+<br />
+<p>Brüderchen nahm sein Schwesterchen an der Hand und sprach: „Seit die Mutter todt ist, haben wir keine gute Stunde mehr; die Stiefmutter schlägt uns alle Tage und wenn wir zu ihr kommen, stößt sie uns mit den Füßen fort. Die harten Brotkrusten, die übrig bleiben, sind unsere Speise und dem Hündlein unter dem Tisch geht’s besser; dem wirft sie doch manchmal was Gutes zu. Das Gott erbarm, wenn das unsere Mutter wüßte! Komm, wir <span class="PageNumber" id="Seite_58" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:De_Kinder_und_Hausm%C3%A4rchen_Grimm_1819_V1_058.jpg" title="Seite:De Kinder und Hausmärchen Grimm 1819 V1 058.jpg">58</a></b>]</span> wollen miteinander in die weite Welt gehen.“ Sie gingen den ganzen Tag über Wiesen, Felder und Steine und wenn es regnete, sprach das Schwesterchen: „Gott und unsere Herzen, die weinen zusammen!“ Abends kamen sie in einen großen Wald und waren so müd von Jammer, Hunger und dem langen Weg, daß sie sich in einen hohlen Baum setzten und einschliefen.</p>
+<p>Am andern Morgen, als sie aufwachten, stand die Sonne schon hoch über den Bäumen und schien heiß in den Baum hinein. Da sprach das Brüderchen: „Schwesterchen, mich dürstet, wenn ich ein Brünnlein wüßte, ich ging’ und tränk’ einmal; ich mein’, ich hört’ eins rauschen.“ Brüderchen stand auf, nahm Schwesterchen an der Hand und sie wollten das Brünnlein suchen. Die böse Stiefmutter aber war ein Hexe und hatte wohl gesehen, wie die beiden Kinder fortgegangen waren, war ihnen nachgeschlichen, heimlich, wie die Hexen schleichen und hatte alle Brunnen im Wald verwünscht. Als sie nun ein Brünnlein fanden, das so glitzerig über die Steine sprang, wollte das Brüderchen daraus trinken; aber das Schwesterchen hörte, wie es im Rauschen sprach: „Wer aus mir trinkt, wird ein Tiger! wer aus mir trinkt, wird ein Tiger!“ Da rief das Schwesterchen: Ach, ich bitt’ dich, Brüderchen, trink’ nicht, sonst wirst du ein wildes Thier und zerreißest mich.“ Das Brüderchen trank nicht, ob es gleich so großen Durst hatte und sprach: „Ich will warten bis zur nächsten Quelle.“ Als sie zum zweiten Brünnlein kamen, hörte das Schwesterchen, wie auch dieses sprach: „Wer aus mir trinkt, wird ein Wolf! wer aus mir trinkt, wird ein Wolf!“ Da rief das Schwesterchen: <span class="PageNumber" id="Seite_59" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:De_Kinder_und_Hausm%C3%A4rchen_Grimm_1819_V1_059.jpg" title="Seite:De Kinder und Hausmärchen Grimm 1819 V1 059.jpg">59</a></b>]</span> Ach, Brüderchen, ich bitt dich, trink’ nicht, sonst wirst du ein Wolf und frissest mich.“ Das Brüderchen trank nicht und sprach: „Ich will warten, bis wir zur nächsten Quelle kommen, aber dann muß ich trinken, du magst sagen, was du willst; mein Durst ist gar zu groß.“ Und als sie zum dritten Brünnlein kamen, hörte das Schwesterlein, wie es im Rauschen sprach: „Wer aus mir trinkt, wird ein Reh! wer aus mir trinkt, wird ein Reh!“ Das Schwesterchen sprach: „Ach, Brüderchen, ich bitt’ dich, trink’ nicht, sonst wirst du ein Reh und läufst mir fort.“ Aber das Brüderchen hatte sich gleich bei dem Brünnlein nieder geknieet, hinab gebeugt und von dem Wasser getrunken und wie die ersten Tropfen auf seine Lippen gekommen waren, lag es da als ein Rehkälbchen.</p>
+<p>Nun weinte das Schwesterchen über das arme, verwünschte Brüderchen und das Rehchen weinte auch und saß so traurig neben ihm. Da sprach das Mädchen endlich: „Sey still, liebes Rehchen, ich will dich ja nimmermehr verlassen.“ Dann band es sein goldenes Strumpfband ab und that es dem Rehchen um den Hals und rupfte Binsen und flocht ein weiches Seil daraus. Daran band es das Thierchen und führte es weiter und ging immer tiefer in den Wald hinein. Und als sie lang, lang gegangen waren, kamen sie endlich in ein kleines Haus und das Mädchen schaute hinein und weil es leer war, dachte es, hier können wir bleiben und wohnen. Da suchte es dem Rehchen Laub und Moos zu einem weichen Lager und jeden Morgen ging es aus und sammelte sich Wurzeln, Beeren und Nüsse und für das Rehchen brachte es <span class="PageNumber" id="Seite_60" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:De_Kinder_und_Hausm%C3%A4rchen_Grimm_1819_V1_060.jpg" title="Seite:De Kinder und Hausmärchen Grimm 1819 V1 060.jpg">60</a></b>]</span> zartes Gras mit, das fraß es ihm aus der Hand und war vergnügt und spielte vor ihm herum. Abends wenn Schwesterchen müd war und sein Gebet gesagt hatte, legte es seinen Kopf auf den Rücken des Rehkälbchens, das war sein Kissen, darauf es sanft schlief. Und hätte das Brüderchen nur seine menschliche Gestalt gehabt, es wäre ein herrliches Leben gewesen.</p>
+<p>Das dauerte nun eine Zeitlang, daß sie so allein in der Wildniß waren, da trug es sich zu, daß der König des Landes eine große Jagd in dem Wald hielt. Da schallte darin das Hörnerblasen, Hundegebell und das lustige Geschrei und das Rehlein hörte es und wär’ gar zu gern dabei gewesen. „Ach, sprach es zum Schwesterlein, laß mich hinaus in die Jagd, ich kann’s nicht länger mehr aushalten“ und bat so lange, bis es einwilligte. „Aber, sprach es zu ihm, komm mir ja Abends wieder, vor den wilden Jägern schließ ich mein Thürlein; und damit ich dich kenne, so klopf und sprich: Mein Schwesterlein, laß mich herein! und wenn du nicht so sprichst, so schließ ich mein Thürlein nicht auf.“ Nun sprang das Rehchen hinaus und war ihm so wohl, und war so lustig in freier Luft. Der König und seine Jäger sahen das schöne Thierlein und setzten ihm nach, aber sie konnten es nicht einholen und wenn sie meinten, sie hätten es gewiß, da sprang es über das Gebüsch weg und war verschwunden. Wie’s dunkel ward, lief es zu dem Häuschen, klopfte und sprach: „Mein Schwesterlein, laß mich herein!“ Da ward ihm die kleine Thüre aufgethan, es sprang hinein und ruhte sich die ganze Nacht auf seinem weichen Lager aus. Am andern Morgen ging die Jagd von neuem an, und als <span class="PageNumber" id="Seite_61" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:De_Kinder_und_Hausm%C3%A4rchen_Grimm_1819_V1_061.jpg" title="Seite:De Kinder und Hausmärchen Grimm 1819 V1 061.jpg">61</a></b>]</span> das Rehlein wieder das Hüfthorn hörte und das ho! ho! der Jäger, da hatte es keine Ruh und sprach: „Schwesterchen, mach mir auf, ich muß hinaus.“ Das Schwesterchen öffnete ihm die Thüre und sprach: „Aber zu Abend mußt du wieder da seyn und dein Sprüchlein sagen.“ Als der König und seine Jäger das Rehlein mit dem goldenen Halsband wieder sahen, jagten sie ihm Alle nach, aber es war ihnen zu schnell und behend. Das währte den ganzen Tag; endlich aber hatten es die Jäger Abends umzingelt und einer verwundete es ein wenig am Fuß, so daß es hinken mußte und langsam fortlief. Da schlich er ihm nach bis zu dem Häuschen und hörte, wie es rief: „Mein Schwesterlein, laß mich herein!“ und sah, daß ihm die Thüre gleich aufgethan und alsbald wieder zugeschlossen wurde. Der Jäger behielt das Alles wohl im Sinn, ging zum König und erzählte ihm, was er gesehn und gehört hatte. Da sprach der König: „Morgen soll noch einmal gejagt werden.“</p>
+<p>Das Schwesterchen aber war recht erschrocken, als das Rehkälbchen verwundet herein kam; es wusch ihm das Blut ab, legte Kräuter auf und sprach: „Geh auf dein Lager, lieb Rehchen, daß du wieder heil wirst.“ Die Wunde war aber so gering, daß das Rehchen am Morgen nichts mehr davon spürte und als es die Jagdlust wieder anheben hörte, sprach es: „Ich kann’s nicht aushalten, ich muß dabei seyn; so bald soll mich auch Keiner kriegen.“ Das Schwesterchen weinte und sprach: „Nun werden sie dich tödten, ich laß dich nicht hinaus.“ „So sterb ich dir hier vor Betrübniß, wenn du mich abhältst, antwortete es: wenn ich <span class="PageNumber" id="Seite_62" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:De_Kinder_und_Hausm%C3%A4rchen_Grimm_1819_V1_062.jpg" title="Seite:De Kinder und Hausmärchen Grimm 1819 V1 062.jpg">62</a></b>]</span> das Hüfthorn höre, so mein’ ich, ich müßt’ aus den Schuhen springen!“ Da konnte das Schwesterchen nicht anders und schloß ihm mit schwerem Herzen die Thüre auf und das Rehchen sprang ganz gesund und fröhlich in den Wald. Als es der König erblickte, sprach er zu seinen Jägern: „Nun jagt ihm nach den ganzen Tag bis in die Nacht, aber daß ihm Keiner etwas zu Leid thut.“ Wie die Sonne untergegangen war, da sprach der König zum Jäger: „nun komm und zeig mir das Waldhäuschen.“ Und als er vor dem Thürlein war, klopfte er an und rief: „Lieb Schwesterlein, laß mich herein!“ Da ging die Thüre auf und der König trat hinein und da stand ein Mädchen, das war so schön, wie er noch keins gesehen hatte. Das Mädchen aber war erschrocken, daß nicht sein Rehlein, sondern ein König mit goldener Krone herein gekommen war. Aber der König sah es freundlich an, reichte ihm die Hand und sprach: „Willst du mit mir gehen auf mein Schloß und meine liebe Frau werden?“ „Ach ja, antwortete das Mädchen, aber das Rehchen muß auch mit, das verlaß ich nicht.“ Sprach der König: „Es soll bei dir bleiben, so lange du lebst und soll ihm an nichts fehlen.“ Indem kam es herein gesprungen, da band es das Schwesterchen wieder an das Binsenseil, nahm es selbst in die Hand und ging mit ihm zum Waldhäuschen hinaus.</p>
+<p>Der König führte das schöne Mädchen in sein Schloß, wo die Hochzeit mit großer Pracht gefeiert wurde und war es nun die Frau Königin und lebten sie lange Zeit vergnügt zusammen; das Rehlein ward gehegt und gepflegt und sprang in dem Schloßgarten <span class="PageNumber" id="Seite_63" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:De_Kinder_und_Hausm%C3%A4rchen_Grimm_1819_V1_063.jpg" title="Seite:De Kinder und Hausmärchen Grimm 1819 V1 063.jpg">63</a></b>]</span> herum. Die böse Stiefmutter aber, um derentwillen die Kinder in die Welt hinein gegangen waren, die meinte nicht anders als Schwesterchen wäre von den wilden Thieren im Walde zerrissen worden und Brüderchen als ein Rehkalb von den Jägern todt geschossen. Als sie nun hörte, daß sie so glücklich waren und es ihnen so wohl ging, da wurden Neid und Mißgunst in ihrem Herzen reg und zwickten und nagten es, und sie hatte keinen andern Gedanken, als wie sie die Beiden doch noch ins Unglück bringen könnte. Ihre rechte Tochter, die häßlich war wie die Nacht und nur ein Auge hatte, die machte ihr Vorwürfe und sprach: „Eine Königin zu werden, das Glück hätte mir gebührt!“ „Sey nur still, sagte die Alte und sprach sie zufrieden, wenn’s Zeit ist, will ich schon bei der Hand seyn.“ Als nun die Zeit heran gerückt war und die Königin ein schönes Knäbchen zur Welt gebracht hatte, und der König gerade auf der Jagd war, da nahm die alte Hexe die Gestalt der Kammerfrau an, trat in die Stube, wo die Königin lag und sprach zu der Kranken: „Kommt, das Bad ist fertig, das soll euch wohlthun und stärken, geschwind, eh es kalt wird.“ Ihre Tochter war auch bei der Hand und sie trugen die schwache Königin in die Badstube, legten sie hinein, gingen schnell fort und schlossen die Thüre ab. In der Badstube aber hatten sie ein rechtes Höllenfeuer angemacht, daß die schöne junge Königin bald ersticken mußte.</p>
+<p>Als das geschehen war, nahm die Alte ihre Tochter und setzte ihr eine Haube auf und legte sie ins Bett an der Königin Stelle. Sie gab ihr auch die Gestalt und das Ansehen der Königin, nur <span class="PageNumber" id="Seite_64" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:De_Kinder_und_Hausm%C3%A4rchen_Grimm_1819_V1_064.jpg" title="Seite:De Kinder und Hausmärchen Grimm 1819 V1 064.jpg">64</a></b>]</span> das verlorene Auge konnte sie ihr nicht wieder geben; damit aber der König nichts merken sollte, mußte sie sich auf die Seite legen, wo sie kein Aug’ hatte. Am Abend, als der König heim kam und hörte, daß ihm ein Söhnlein geboren war, freute er sich herzlich und wollte ans Bett zu seiner lieben Frau gehen und wollte sehen, was sie machte. Da rief die Alte geschwind: „Bei Leibe, laßt die Vorhänge zu, die Königin darf noch nicht ins Licht sehen und muß Ruhe haben.“ Der König ging zuruck, und wußte nicht, daß eine falsche Königin im Bette lag.</p>
+<p>Als es aber Mitternacht war und alles schlief, da sah die Kinderfrau, die in der Kinderstube neben der Wiege saß und allein noch wachte: wie die Thüre aufging und die rechte Königin herein trat; sie nahm das Kind aus der Wiege, legte es in ihren Arm und gab ihm zu trinken. Dann schüttelte sie ihm sein Kißchen und legte es wieder hinein und deckte es mit dem Deckbettchen zu. Sie vergaß aber auch das Rehchen nicht, ging in die Ecke, wo es lag, und streichelte ihm über den Rücken. Darauf ging sie ganz stillschweigend wieder zur Thüre hinaus und die Kinderfrau fragte am andern Morgen die Wächter, ob sie Jemand in der Nacht ins Schloß gehen gesehen; aber sie antworteten: „Nein, wir haben niemand gesehen!“ So kam sie viele Nächte und sprach niemals ein Wort dabei; die Kinderfrau sah sie immer, aber sie getraute nicht Jemand etwas davon zu sagen.</p>
+<p>Als nun so eine Zeit verflossen war, da hub die Königin in der Nacht an zu reden und sprach:</p>
+<div style="position:relative;"><span class="seitennummer PageNumber" id="Seite_65">[<b><a href="/wiki/Seite:De_Kinder_und_Hausm%C3%A4rchen_Grimm_1819_V1_065.jpg" title="Seite:De Kinder und Hausmärchen Grimm 1819 V1 065.jpg">65</a></b>]</span></div>
+<div class="poem">
+<p>„Was macht mein Kind? Was macht mein Reh?<br />
+Nun komm ich noch zweimal und dann nimmermehr!“</p>
+</div>
+<p>Die Kinderfrau antwortete ihr nicht, aber als sie wieder verschwunden war, ging sie zum König und erzählte ihm Alles. Sprach der König: Ach Gott! was ist das! Ich will in der nächsten Nacht bei dem Kind wachen.“ Abends ging er auch in die Kinderstube, aber um Mitternacht erschien die Königin wieder und sprach:</p>
+<div class="poem">
+<p>„Was macht mein Kind? Was macht mein Reh?<br />
+Nun komm ich noch einmal und dann nimmermehr!“</p>
+</div>
+<p>und pflegte dann des Kindes wie gewöhnlich, eh sie wieder verschwand. Der König getraute sich nicht, sie anzureden; aber die folgende Nacht wachte er wieder, da sprach sie abermals:</p>
+<div class="poem">
+<p>„Was macht mein Kind? Was macht mein Reh?<br />
+Nun komm ich noch diesmal und dann nimmermehr!“</p>
+</div>
+<p>Da konnte sich der König nicht zurückhalten, sprang zu ihr und sprach: „du kannst niemand anders seyn, als meine liebe Frau?“ Da antwortete sie: „Ja, ich bin deine liebe Frau!“ und hatte in dem Augenblick durch Gottes Gnade das Leben wieder erhalten, war frisch, roth und gesund. Darauf erzählte sie dem König den Frevel, den die böse Hexe und ihre Tochter an ihr begangen hatten. Der König ließ Beide vor Gericht führen und sie wurden verurtheilt; die Tochter ward in den Wald geführt, wo sie die wilden Thiere zerrissen, wie sie sie erblickten; die Hexe aber ward ins Feuer gelegt und mußte jammervoll verbrennen. Und wie sie davon verzehrt war, verwandelte sich auch das Rehkälbchen und <span class="PageNumber" id="Seite_66" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:De_Kinder_und_Hausm%C3%A4rchen_Grimm_1819_V1_066.jpg" title="Seite:De Kinder und Hausmärchen Grimm 1819 V1 066.jpg">66</a></b>]</span> erhielt seine menschliche Gestalt wieder und Schwesterchen und Brüderchen lebten glücklich zusammen, bis an ihr Ende.</p>
+</td>
+</tr>
+</table>
+<p><span class="AndereVersion" id="av_Br.C3.BCderchen_und_Schwesterchen_.281812.29" title="Brüderchen und Schwesterchen (1812)|Ausgabe 1812" style="display:none;"></span> <span class="AndereVersion" id="av_Br.C3.BCderchen_und_Schwesterchen_.281837.29" title="Brüderchen und Schwesterchen (1837)|Ausgabe 1837" style="display:none;"></span> <span class="AndereVersion" id="av_Br.C3.BCderchen_und_Schwesterchen_.281840.29" title="Brüderchen und Schwesterchen (1840)|Ausgabe 1840" style="display:none;"></span> <span class="AndereVersion" id="av_Br.C3.BCderchen_und_Schwesterchen_.281843.29" title="Brüderchen und Schwesterchen (1843)|Ausgabe 1843" style="display:none;"></span> <span class="AndereVersion" id="av_Br.C3.BCderchen_und_Schwesterchen_.281850.29" title="Brüderchen und Schwesterchen (1850)|Ausgabe 1850" style="display:none;"></span> <span class="AndereVersion" id="av_Br.C3.BCderchen_und_Schwesterchen_.281857.29" title="Brüderchen und Schwesterchen (1857)|Ausgabe 1857" style="display:none;"></span> <span class="AndereVersion" title="_line" id="_line" style="display:none;"></span> <span class="AndereVersion" id="av_Kinder-_und_Haus-M.C3.A4rchen_Band_3_.281856.29.2FAnmerkungen.2311" title="Kinder- und Haus-Märchen Band 3 (1856)/Anmerkungen#11|Kommentar 1856" style="display:none;"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1009/1000000
+Post-expand include size: 52469/2048000 bytes
+Template argument size: 4569/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key dewikisource:pcache:idhash:128571-0!1!0!!de!4!edit=0 and timestamp 20101209032145 -->
+<div class="printfooter">
+Von „<a href="http://de.wikisource.org/wiki/Br%C3%BCderchen_und_Schwesterchen_(1819)">http://de.wikisource.org/wiki/Br%C3%BCderchen_und_Schwesterchen_(1819)</a>“</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Spezial:Kategorien" title="Spezial:Kategorien">Kategorien</a>: <span dir='ltr'><a href="/wiki/Kategorie:Fertig" title="Kategorie:Fertig">Fertig</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Werke" title="Kategorie:Werke">Werke</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:1810er_Jahre" title="Kategorie:1810er Jahre">1810er Jahre</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutschland" title="Kategorie:Deutschland">Deutschland</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen" title="Kategorie:Märchen">Märchen</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen_Grimm_(1819)" title="Kategorie:Märchen Grimm (1819)">Märchen Grimm (1819)</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutsche_Philologie" title="Kategorie:Deutsche Philologie">Deutsche Philologie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Neuhochdeutsch" title="Kategorie:Neuhochdeutsch">Neuhochdeutsch</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Persönliche Werkzeuge</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Br%C3%BCderchen_und_Schwesterchen_(1819)" title="Sich anzumelden wird zwar gerne gesehen, ist aber keine Pflicht. [o]" accesskey="o">Anmelden / Benutzerkonto erstellen</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namensräume</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/Br%C3%BCderchen_und_Schwesterchen_(1819)"  title="Seiteninhalt anzeigen [c]" accesskey="c"><span>Quellentext</span></a></li>
+					<li  id="ca-talk" class="new"><a href="/w/index.php?title=Diskussion:Br%C3%BCderchen_und_Schwesterchen_(1819)&amp;action=edit&amp;redlink=1"  title="Diskussion zum Seiteninhalt [t]" accesskey="t"><span>Diskussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Varianten</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Ansichten</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Br%C3%BCderchen_und_Schwesterchen_(1819)" ><span>Lesen</span></a></li>
+					<li id="ca-viewsource"><a href="/w/index.php?title=Br%C3%BCderchen_und_Schwesterchen_(1819)&amp;action=edit"  title="Diese Seite ist geschützt. Der Quelltext kann angesehen werden. [e]" accesskey="e"><span>Quelltext anzeigen</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Br%C3%BCderchen_und_Schwesterchen_(1819)&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h"><span>Versionsgeschichte</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Aktionen</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Suche</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Spezial:Suche"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Wikisource durchsuchen [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Suche nach Seiten, die diesen Text enthalten"><img src="http://bits.wikimedia.org/skins-1.5/vector/images/search-ltr.png?283-16" alt="Suchen" /></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikisource/de/b/bc/Wiki.png);" href="/wiki/Hauptseite"  title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="/wiki/Hauptseite" title="Hauptseite anzeigen [z]" accesskey="z">Hauptseite</a></li>
+					<li id="n-contents"><a href="/wiki/Wikisource:Systematik">Systematischer Einstieg</a></li>
+					<li id="n-authors"><a href="/wiki/Kategorie:Autoren">Autorenindex</a></li>
+					<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite [x]" accesskey="x">Zufällige Seite</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Mitmachen -->
+<div class="portal" id='p-Mitmachen'>
+	<h5>Mitmachen</h5>
+	<div class="body">
+				<ul>
+					<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikisource [r]" accesskey="r">Letzte Änderungen</a></li>
+					<li id="n-Neuer-Artikel"><a href="/wiki/Vorlage:Neuer_Artikel">Neuer Artikel</a></li>
+					<li id="n-Korrekturen-des-Monats"><a href="/wiki/Vorlage:Reviewtext">Korrekturen des Monats</a></li>
+					<li id="n-Portal"><a href="/wiki/Wikisource:Portal">Gemeinschafts-Portal</a></li>
+					<li id="n-Skriptorium"><a href="/wiki/Wikisource:Skriptorium">Skriptorium</a></li>
+					<li id="n-Auskunft"><a href="/wiki/Wikisource:Auskunft">Auskunft</a></li>
+					<li id="n-Hilfe"><a href="/wiki/Wikisource:Hilfe">Hilfe</a></li>
+					<li id="n-Spenden"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=de&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001">Spenden</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /Mitmachen -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Drucken/exportieren</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=book_creator&amp;referer=Br%C3%BCderchen+und+Schwesterchen+%281819%29" title="Ein Buch oder eine Artikelsammlung erstellen" rel="nofollow">Buch erstellen</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=render_article&amp;arttitle=Br%C3%BCderchen+und+Schwesterchen+%281819%29&amp;oldid=1167011&amp;writer=rl" title="Eine PDF-Version dieser Wikiseite herunterladen" rel="nofollow">Als PDF herunterladen</a></li><li id="t-print"><a href="/w/index.php?title=Br%C3%BCderchen_und_Schwesterchen_(1819)&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Werkzeuge</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Br%C3%BCderchen_und_Schwesterchen_(1819)" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Br%C3%BCderchen_und_Schwesterchen_(1819)" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+																																					<li id="t-upload"><a href="http://commons.wikimedia.org/wiki/Special:Upload?uselang=de" title="Dateien hochladen [u]" accesskey="u">Datei hochladen</a></li>
+											<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Br%C3%BCderchen_und_Schwesterchen_(1819)&amp;oldid=1167011" title="Dauerhafter Link zu dieser Seitenversion">dauerhafter Link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Br%C3%BCderchen_und_Schwesterchen_(1819)&amp;id=1167011" title="Hinweis, wie diese Seite zitiert werden kann">Diese Seite zitieren</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 9. Juli 2010 um 21:09 Uhr geändert.</li>
+																							<li id="footer-info-copyright"> </li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://de.wikipedia.org/wiki/Wikipedia:Datenschutz" title="w:Wikipedia:Datenschutz">Datenschutz</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikisource:%C3%9Cber" title="Wikisource:Über">Über Wikisource</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:Impressum" title="Wikisource:Impressum">Impressum</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- Served by srv186 in 0.566 secs. -->			</body>
+</html>

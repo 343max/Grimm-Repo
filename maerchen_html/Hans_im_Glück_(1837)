@@ -1,0 +1,486 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" dir="ltr">
+<head>
+<title>Hans im Glück (1837) – Wikisource</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (de)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikisource“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?283-16" type="text/css" media="print" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?117" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://de.wikisource.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Hans_im_Glück_(1837)",
+wgTitle="Hans im Glück (1837)",
+wgAction="view",
+wgArticleId=1495,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="de",
+wgContentLanguage="de",
+wgBreakFrames=false,
+wgCurRevisionId=1205299,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=[",	.", ".	,"],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Hauptseite",
+wgFormattedNamespaces={"-2": "Media", "-1": "Spezial", "0": "", "1": "Diskussion", "2": "Benutzer", "3": "Benutzer Diskussion", "4": "Wikisource", "5": "Wikisource Diskussion", "6": "Datei", "7": "Datei Diskussion", "8": "MediaWiki", "9": "MediaWiki Diskussion", "10": "Vorlage", "11": "Vorlage Diskussion", "12": "Hilfe", "13": "Hilfe Diskussion", "14": "Kategorie", "15": "Kategorie Diskussion", "102": "Seite", "103": "Seite Diskussion", "104": "Index", "105": "Index Diskussion"},
+wgNamespaceIds={"media": -2, "spezial": -1, "": 0, "diskussion": 1, "benutzer": 2, "benutzer_diskussion": 3, "wikisource": 4, "wikisource_diskussion": 5, "datei": 6, "datei_diskussion": 7, "mediawiki": 8, "mediawiki_diskussion": 9, "vorlage": 10, "vorlage_diskussion": 11, "hilfe": 12, "hilfe_diskussion": 13, "kategorie": 14, "kategorie_diskussion": 15, "seite": 102, "seite_diskussion": 103, "index": 104, "index_diskussion": 105, "bild": 6, "bild_diskussion": 7, "ws": 4, "image": 6, "image_talk": 7},
+wgSiteName="Wikisource",
+wgCategories=["Fertig", "Werke", "1830er Jahre", "Deutschland", "Märchen", "Märchen Grimm (1837)", "Deutsche Philologie", "Neuhochdeutsch"],
+wgDBname="dewikisource",
+wgMWSuggestTemplate="http://de.wikisource.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0, 102, 104],
+wgMWSuggestMessages=["mit Vorschlägen", "keine Vorschläge"],
+wgRestrictionEdit=["autoconfirmed"],
+wgRestrictionMove=["autoconfirmed"],
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+Geo={"city": "", "country": ""},
+wgNoticeProject="wikisource";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?283-16"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="/w/extensions/ProofreadPage/proofread_article.js?26"></script>
+<script type="text/javascript"> 
+var prp_source = "Quelle";
+var prp_source_message = "Zur Erstellung dieses Texts wurde die gescannte Ausgabe benutzt.";
+</script>
+
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?283-16" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'Weitere Sprachen','vector-editwarning-warning':'Das Verlassen dieser Seite kann dazu führen, dass die Änderungen verloren gehen.\nAls angemeldeter Benutzer kann das Anzeigen dieser Warnung im „Bearbeiten“-Bereich der Einstellungen abgeschaltet werden.','vector-simplesearch-search':'Suche','vector-simplesearch-containing':'Volltextsuche nach …'});</script>
+<script src="/w/index.php?title=Spezial:BannerController&amp;cache=/cn.js&amp;283-16" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;283-16" type="text/javascript"></script>
+
+</head>
+<body class="mediawiki ltr capitalize-all-nouns ns-0 ns-subject page-Hans_im_Glück_1837 skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Hans im Glück (1837)</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">aus Wikisource, der freien Quellensammlung</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"><table style="line-height:40%;visibility:hidden;" border=0 cellpadding=0 cellspacing=0 ><tr>
+<td align=center > </td>
+<td align=center class='quality4' width="100"></td>
+<td align=center class='quality3' width="0"></td>
+<td align=center class='quality2' width="0"></td>
+<td align=center class='quality1' width="0"></td>
+<td align=center class='quality0' width="0"></td>
+<!-- <td ><span id=pr_index style="visibility:hidden;"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1837)" title="Index:Kinder- und Haus-Märchen Band 1 (1837)">[index]</a></span></td> -->
+</tr></table></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Wechseln zu: <a href="#mw-head">Navigation</a>,
+					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div id="textdaten" style="float:right;" class="noprint">
+<table width="280px" style="margin:0;margin-left:0.5em;margin-bottom:0.5em;">
+<tr>
+<td>
+<table width="100%" border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse; border-style:1px solid; border-color:#AAAAAA; background-color:#fff; font-size:100%; color:#191919">
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Textdaten</th>
+</tr>
+<tr valign="top">
+<th width="50%" align="left"><a href="/wiki/De_Spielhansl_(1837)" title="De Spielhansl (1837)"><b>&lt;&lt;&lt;</b></a></th>
+<th width="50%" align="right"><a href="/wiki/Hans_heirathet_(1837)" title="Hans heirathet (1837)"><b>&gt;&gt;&gt;</b></a></th>
+</tr>
+<tr valign="top">
+<td width="40%">Autor:</td>
+<td width="60%"><b><a href="/wiki/Br%C3%BCder_Grimm" title="Brüder Grimm">Brüder Grimm</a></b></td>
+</tr>
+<tr valign="top">
+<td>Titel:</td>
+<td><b>Hans im Glück</b></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Untertitel:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>aus:</td>
+<td><a href="/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1837)" title="Kinder- und Haus-Märchen Band 1 (1837)">Kinder- und Hausmärchen</a>.<br />
+Große Ausgabe.<br />
+Bd. 1, S. 496-503</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Herausgeber:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Auflage:</td>
+<td>3. Auflage</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Entstehungsdatum:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsdatum:</td>
+<td>1837</td>
+</tr>
+<tr valign="top">
+<td>Verlag:</td>
+<td>Dieterische Buchhandlung</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Drucker:</td>
+<td>{{{DRUCKER}}}</td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsort:</td>
+<td>Göttingen</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Übersetzer:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originaltitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalsubtitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalherkunft:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Quelle:</td>
+<td><a href="http://resolver.sub.uni-goettingen.de/purl?PPN51480114X" class="external text" rel="nofollow">DigiWunschbuch</a> und <a href="http://commons.wikimedia.org/wiki/Category:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1" class="extiw" title="commons:Category:Kinder und Hausmärchen (Grimm) 1837 V1">Scans auf Commons</a></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Kurzbeschreibung:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td colspan="2">seit 1819: KHM 83</td>
+</tr>
+<tr valign="top">
+<td colspan="2">
+<center><a href="/wiki/Datei:Wikipedia-logo.png" class="image"><img alt="Wikipedia-logo.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/20px-Wikipedia-logo.png" width="20" height="20" /></a> <a href="http://de.wikipedia.org/wiki/Hans_im_Gl%C3%BCck" class="extiw" title="w:Hans im Glück">Artikel in der Wikipedia</a></center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center>[[Bild:|250px]]</center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center><span class="extimg"><a href="/wiki/Datei:Wikimedia-button-for-homepage.png" class="image" title="{{{EXTERNESBILD}}}"><img alt="{{{EXTERNESBILD}}}" src="http://upload.wikimedia.org/wikipedia/commons/8/8b/Wikimedia-button-for-homepage.png" width="250" height="88" /></a></span></center>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Bearbeitungsstand</th>
+</tr>
+<tr>
+<td colspan="2" align="center"><span style="color:#669966;"><b>fertig</b></span></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color: #f3f3f3;" align="justify">
+<div style="font-size:80%; height:auto; color:#669966;"><b>Fertig!</b> Dieser Text wurde zweimal anhand der Quelle <a href="/wiki/Hilfe:Korrekturlesen" title="Hilfe:Korrekturlesen">Korrektur gelesen</a>. Die Schreibweise folgt dem Originaltext.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9"><span style="font-size:85%; color:#009900">Um eine Seite zu bearbeiten, brauchst du nur auf die entsprechende [Seitenzahl] zu klicken. Weitere Informationen findest du hier: <a href="/wiki/Wikisource:Proofread" title="Wikisource:Proofread"><b>Hilfe</b></a></span></th>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9" align="center"><span id="textdaten_index"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1837)" title="Index:Kinder- und Haus-Märchen Band 1 (1837)">Link zur Indexseite</a></span></th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-bottom: solid 1px #aaa; font-size: 95%; padding-bottom:0.5em">
+<table style="background-color: transparent;">
+<tr>
+<td style="width: 50px; vertical-align: middle"><a href="/wiki/Datei:Disambig-dark.svg" class="image" title="Begriffsklärung"><img alt="Begriffsklärung" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Disambig-dark.svg/30px-Disambig-dark.svg.png" width="30" height="23" /></a></td>
+<td>Andere Ausgaben unter diesem Titel siehe unter: <b><a href="/wiki/Hans_im_Gl%C3%BCck" title="Hans im Glück">Hans im Glück</a></b>.</td>
+</tr>
+</table>
+</div>
+<p><br /></p>
+<table>
+<tr>
+<td valign="top" style="text-align:justify; padding-left:10px; padding-right:10px; position:relative;"><span class="PageNumber" id="Seite_496" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_496.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 496.jpg">496</a></b>]</span>
+<div style="text-align:center"><b>83.</b></div>
+<br />
+<div style="text-align:center"><b>Hans im Glück.</b></div>
+<br />
+<p>Hans hatte sieben Jahre bei seinem Herrn gedient, da sprach er zu ihm „Herr, meine Zeit ist herum, nun wollte ich gerne wieder heim zu meiner Mutter, gebt mir meinen Lohn“. Der Herr antwortete „du hast mir treu und ehrlich gedient, wie der Dienst so soll der Lohn seyn“, und gab ihm ein Stück Gold, das so groß als Hansens Kopf war. Hans zog sein Tüchlein, wickelte den Klumpen hinein, setzte ihn auf die Schulter, und machte sich auf den Weg nach Haus. Wie er so dahin gieng, und immer ein Bein vor das andere setzte, kam ihm ein Reiter in die Augen, der frisch und fröhlich auf einem muntern Pferd vorbei trabte. „Ach“, sprach Hans ganz laut,“ was das Reiten ein schönes Ding ist! da sitzt einer wie auf einem Stuhl, stößt sich an keinen Stein, spart die Schuh, und kommt fort, er weiß nicht wie.“ Der Reiter, der das gehört hatte, rief ihm zu „ei, Hans, warum laufst du auch zu Fuß?“. „Ach, da muß ich den Klumpen heim tragen, es ist zwar Gold, aber ich kann den Kopf dabei nicht gerad halten, auch drückt mirs auf die Schulter.“ „Weißt du was“, sagte der Reiter und hielt an, „wir wollen tauschen: ich gebe dir mein Pferd, und du giebst mir deinen Klumpen.“ „Von Herzen gern“, sprach Hans, „aber <span class="PageNumber" id="Seite_497" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_497.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 497.jpg">497</a></b>]</span> ich sage euch ihr müßt euch damit schleppen.“ Der Reiter stieg ab, nahm das Gold, und half dem Hans hinauf, gab ihm die Zügel fest in die Hände, und sprach „wenns nun recht geschwind soll gehen, so mußt du mit der Zunge schnalzen, und hopp, hopp rufen“.</p>
+<p>Hans war seelenfroh, als er auf dem Pferde saß, und so frank und frei dahin ritt. Ueber ein Weilchen fiels ihm ein, es sollte noch schneller gehen, und er fieng an mit der Zunge zu schnalzen, und hopp, hopp zu rufen. Das Pferd setzte sich in starken Trab, und ehe sichs Hans versah, war er abgeworfen, und lag in einem Graben, der die Aecker von der Landstraße trennte. Das Pferd wäre auch durchgegangen, wenn es nicht ein Bauer aufgehalten hätte, der des Weges kam, und eine Kuh vor sich trieb. Hans suchte seine Glieder zusammen, und machte sich wieder auf die Beine. Er war aber verdrießlich, und sprach zu dem Bauer „es ist ein schlechter Spaß, das Reiten, zumal, wenn man auf so eine Mähre geräth wie diese, die stößt, und einen herabwirft, daß man den Hals brechen kann; ich setze mich nun und nimmermehr wieder auf. Da lob ich mir eure Kuh, da kann einer mit Gemächlichkeit hinter her gehen, und hat obendrein seine Milch, Butter und Käse jeden Tag gewiß. Was gäb ich drum, wenn ich so eine Kuh hätte!“ „Nun“, sprach der Bauer, „geschieht euch so ein großer Gefallen, so will ich euch wohl die Kuh für das Pferd vertauschen.“ Hans willigte mit tausend Freuden ein; der Bauer schwang sich aufs Pferd, und ritt eilig davon. <span class="PageNumber" id="Seite_498" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_498.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 498.jpg">498</a></b>]</span><br /></p>
+<p>Hans trieb seine Kuh ruhig vor sich her, und bedachte den glücklichen Handel. „Hab ich nur ein Stück Brot, und daran wird mirs doch nicht fehlen, so kann ich, so oft mirs beliebt, Butter und Käse dazu essen; hab ich Durst, so melk ich meine Kuh und trinke Milch. Herz, was verlangst du mehr?“ Als er zu einem Wirthshaus kam, machte er Halt, aß in der großen Freude alles, was er bei sich hatte, sein Mittags- und Abendbrot rein auf, und ließ sich für seine letzten paar Heller ein halbes Glas Bier einschenken. Dann trieb er seine Kuh weiter, immer nach dem Dorfe seiner Mutter zu. Die Hitze wurde aber drückender, je näher der Mittag kam, und Hans befand sich in einer Heide, die wohl noch eine Stunde dauerte. Da ward es ihm ganz heiß, so daß ihm vor Durst die Zunge am Gaumen klebte. „Dem Ding ist zu helfen“, dachte Hans, „jetzt will ich meine Kuh melken, und mich an der Milch laben.“ Er band sie an einen dürren Baum, und stellte seine Ledermütze unter, aber, so sehr er sich auch abmühte, es kam kein Tropfen Milch zum Vorschein. Weil er sich aber ungeschickt dabei anstellte, so gab ihm das ungeduldige Thier endlich mit einem der Hinterfüße einen solchen Schlag vor den Kopf, daß er zu Boden taumelte, und eine Zeitlang sich gar nicht besinnen konnte wo er war. Glücklicherweise kam gerade ein Metzger des Weges, der auf einem Schubkarren ein junges Schwein liegen hatte. „Was sind das für Streiche!“ rief er, und half dem guten Hans auf. Hans erzählte was vorgefallen war. Der Metzger reichte ihm seine Flasche, und <span class="PageNumber" id="Seite_499" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_499.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 499.jpg">499</a></b>]</span> sprach „da trinkt einmal, und erholt euch. Die Kuh will wohl keine Milch geben, daß ist ein altes Thier, das höchstens noch zum Ziehen taugt oder zum Schlachten.“ „Ei, ei“, sprach Hans, und strich sich die Haare über den Kopf, „wer hätte das gedacht! es ist freilich gut, wenn man so ein Thier ins Haus abschlachten kann, was giebts für Fleisch! aber ich mache mir aus dem Kuhfleisch nicht viel, es ist mir nicht saftig genug. Ja, wer so ein junges Schwein hätte! das schmeckt anders, dabei noch die Würste.“ „Hört, Hans“, sprach da der Metzger, „euch zu Liebe will ich tauschen, und will euch das Schwein für die Kuh lassen.“ „Gott lohn euch eure Freundschaft“ sprach Hans, übergab ihm die Kuh, und ließ sich das Schweinchen vom Karren losmachen, und den Strick, woran es gebunden war, in die Hand geben.</p>
+<p>Hans zog weiter, und überdachte wie ihm doch alles nach Wunsch gienge, begegnete ihm je eine Verdrießlichkeit, so würde sie doch gleich wieder gut gemacht. Es gesellte sich darnach ein Bursch zu ihm, der trug eine schöne weiße Gans unter dem Arm. Sie boten einander die Zeit, und Hans fieng an ihm von seinem Glück zu erzählen, und wie er immer so vortheilhaft getauscht hätte. Der Bursch sagte daß er die Gans zu einem Kindtaufschmaus brächte. „Hebt einmal“, fuhr er fort, und packte sie bei den Flügeln, „wie sie schwer ist, sie ist aber auch acht Wochen lang genudelt worden. Wer in den Braten beißt, muß sich das Fett von beiden Seiten abwischen.“ <span class="PageNumber" id="Seite_500" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_500.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 500.jpg">500</a></b>]</span> „Ja“, sprach Hans, und wog sie mit der einen Hand, „die hat ihr Gewicht, aber mein Schwein ist auch keine Sau.“ Indessen sah sich der Bursch nach allen Seiten ganz bedenklich um, schüttelte auch wohl mit dem Kopf. „Hört“, fieng er darauf an, „mit eurem Schweine mags nicht ganz richtig sein. In dem Dorfe, durch das ich gekommen bin, ist eben dem Schulzen eins aus dem Stall gestohlen worden. Ich fürchte, ich fürchte, ihr habts da in der Hand; es wäre ein schlimmer Handel, wenn sie euch damit fängen, das geringste ist, daß ihr ins finstere Loch gesteckt werdet.“ Dem guten Hans ward bang, „ach Gott“, sprach er, „helft mir aus der Noth, ihr wißt hier herum bessern Bescheid, nehmt mein Schwein da, und laßt mir eure Gans.“ „Ich muß schon etwas aufs Spiel setzen“, antwortete der Bursche, „aber ich will doch nicht Schuld sein daß ihr ins Unglück gerathet.“ Er nahm also das Seil in die Hand, und trieb das Schwein schnell auf einem Seitenweg fort: der gute Hans aber gieng, seiner Sorgen entledigt, mit der Gans unter dem Arme seiner Heimath zu. „Wenn ichs recht überlege“, sprach er mit sich selbst, „habe ich noch Vortheil bei dem Tausch; erstlich den guten Braten, hernach die Menge von Fett, die herausträufeln wird, das giebt Gänsefettbrot auf ein Vierteljahr; und endlich die schönen weißen Federn, die laß ich mir in mein Kopfkissen stopfen, und darauf will ich wohl ungewiegt einschlafen. Was wird meine Mutter eine Freude haben!“</p>
+<p>Als er durch das letzte Dorf gekommen war, stand da ein <span class="PageNumber" id="Seite_501" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_501.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 501.jpg">501</a></b>]</span> Scheerenschleifer mit seinem Karren, sein Rad schnurrte, und er sang dazu</p>
+<dl>
+<dd>„ich schleife die Scheere, und drehe geschwind,</dd>
+<dd>und hänge mein Mäntelchen nach dem Wind“.</dd>
+</dl>
+<p>Hans blieb stehen, und sah ihm zu; endlich redete er ihn an, und sprach „euch gehts wohl, weil ihr so lustig bei eurem Schleifen seyd“. „Ja“, antwortete der Scheerenschleifer, „das Handwerk hat einen güldenen Boden. Ein rechter Schleifer ist ein Mann, der, so oft er in die Tasche greift, auch Geld darin findet. Aber wo habt ihr die schöne Gans gekauft?“ „Die hab ich nicht gekauft, sondern für mein Schwein eingetauscht.“ „Und das Schwein?“ „Das hab ich für eine Kuh gekriegt.“ „Und die Kuh?“ „Die hab ich für ein Pferd bekommen.“ „Und das Pferd?“ „Dafür hab ich einen Klumpen Gold, so groß als mein Kopf, gegeben.“ „Und das Gold?“ „Ei, das war mein Lohn für sieben Jahre Dienst.“ „Ihr habt euch jederzeit zu helfen gewußt“, sprach der Schleifer, „könnt ihrs nun dahin bringen, daß ihr das Geld in der Tasche springen hört, wenn ihr aufsteht, so habt ihr euer Glück gemacht.“ „Wie soll ich das anfangen?“ sprach Hans. „Ihr müßt ein Schleifer werden, wie ich; dazu gehört eigentlich nichts, als ein Wetzstein, das andere findet sich schon von selbst. Da hab ich einen, der ist ein wenig schadhaft, dafür sollt ihr mir aber auch weiter nichts als eure Gans geben; wollt ihr das?“ „Wie könnt ihr noch fragen“, antwortete Hans, „ich werde ja zum glücklichsten Menschen auf Erden; habe ich Geld, so oft ich in die <span class="PageNumber" id="Seite_502" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_502.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 502.jpg">502</a></b>]</span> Tasche greife, was brauche ich da länger zu sorgen?“ reichte ihm die Gans hin, und nahm den Wetzstein in Empfang. „Nun“, sprach der Schleifer, und hob einen gewöhnlichen schweren Feldstein, der neben ihm lag, auf, „da habt ihr noch einen tüchtigen Stein dazu, auf dem sichs gut schlagen läßt, und ihr eure alten Nägel gerade klopfen könnt. Nehmt ihn, und hebt ihn ordentlich auf.“</p>
+<p>Hans lud den Stein auf, und gieng mit vergnügtem Herzen weiter; seine Augen leuchteten vor Freude, „ich muß in einer Glückshaut geboren seyn“, rief er aus, „alles was ich wünsche trifft mir ein, wie einem Sonntagskind“. Indessen, weil er seit Tagesanbruch auf den Beinen gewesen war, begann er müde zu werden; auch plagte ihn der Hunger, da er allen Vorrath auf einmal in der Freude über die erhandelte Kuh aufgezehrt hatte. Er konnte endlich nur mit Mühe weiter gehen, und mußte jeden Augenblick Halt machen, dabei drückten ihn die Steine ganz erbärmlich. Da konnte er sich des Gedankens nicht erwehren, wie gut es wäre, wenn er sie gerade jetzt nicht zu tragen brauchte. Wie eine Schnecke kam er zu einem Feldbrunnen geschlichen, da wollte er ruhen, und sich mit einem frischen Trunk laben; damit er aber die Steine im Niedersitzen nicht beschädigte, legte er sie bedächtig neben sich auf den Rand des Brunnens. Darauf drehte er sich, und wollte sich zum Trinken bücken, da versah ers, stieß ein klein wenig an, und beide Steine plumpten hinab. Hans, als er sie mit seinen Augen in die Tiefe hatte versinken sehen, sprang vor Freuden auf, kniete dann nieder, und dankte Gott mit <span class="PageNumber" id="Seite_503" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_503.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 503.jpg">503</a></b>]</span> Thränen in den Augen daß er ihm auch diese Gnade erwiesen, und ihn auf eine so gute Art, und ohne daß er sich einen Vorwurf zu machen brauchte, von den schweren Steinen befreit hätte: das sey das einzige, was ihm noch hinderlich gewesen wäre. „So glücklich wie ich“, rief er aus, „giebt es keinen Menschen unter der Sonne.“ Mit leichtem Herzen und frei von aller Last sprang er nun, bis er daheim bei seiner Mutter war.</p>
+</td>
+</tr>
+</table>
+<p><span class="AndereVersion" id="av_Hans_im_Gl.C3.BCck_.281819.29" title="Hans im Glück (1819)|Ausgabe 1819" style="display:none;"></span> <span class="AndereVersion" id="av_Hans_im_Gl.C3.BCck_.281840.29" title="Hans im Glück (1840)|Ausgabe 1840" style="display:none;"></span> <span class="AndereVersion" id="av_Hans_im_Gl.C3.BCck_.281843.29" title="Hans im Glück (1843)|Ausgabe 1843" style="display:none;"></span> <span class="AndereVersion" id="av_Hans_im_Gl.C3.BCck_.281850.29" title="Hans im Glück (1850)|Ausgabe 1850" style="display:none;"></span> <span class="AndereVersion" id="av_Hans_im_Gl.C3.BCck_.281857.29" title="Hans im Glück (1857)|Ausgabe 1857" style="display:none;"></span> <span class="AndereVersion" title="_line" id="_line" style="display:none;"></span> <span class="AndereVersion" id="av_Kinder-_und_Haus-M.C3.A4rchen_Band_3_.281856.29.2FAnmerkungen.2383" title="Kinder- und Haus-Märchen Band 3 (1856)/Anmerkungen#83|Kommentar 1856" style="display:none;"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 812/1000000
+Post-expand include size: 44374/2048000 bytes
+Template argument size: 3652/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key dewikisource:pcache:idhash:1495-0!1!0!!de!4!edit=0 and timestamp 20101211132627 -->
+<div class="printfooter">
+Von „<a href="http://de.wikisource.org/wiki/Hans_im_Gl%C3%BCck_(1837)">http://de.wikisource.org/wiki/Hans_im_Gl%C3%BCck_(1837)</a>“</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Spezial:Kategorien" title="Spezial:Kategorien">Kategorien</a>: <span dir='ltr'><a href="/wiki/Kategorie:Fertig" title="Kategorie:Fertig">Fertig</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Werke" title="Kategorie:Werke">Werke</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:1830er_Jahre" title="Kategorie:1830er Jahre">1830er Jahre</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutschland" title="Kategorie:Deutschland">Deutschland</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen" title="Kategorie:Märchen">Märchen</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen_Grimm_(1837)" title="Kategorie:Märchen Grimm (1837)">Märchen Grimm (1837)</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutsche_Philologie" title="Kategorie:Deutsche Philologie">Deutsche Philologie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Neuhochdeutsch" title="Kategorie:Neuhochdeutsch">Neuhochdeutsch</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Persönliche Werkzeuge</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Hans_im_Gl%C3%BCck_(1837)" title="Sich anzumelden wird zwar gerne gesehen, ist aber keine Pflicht. [o]" accesskey="o">Anmelden / Benutzerkonto erstellen</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namensräume</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/Hans_im_Gl%C3%BCck_(1837)"  title="Seiteninhalt anzeigen [c]" accesskey="c"><span>Quellentext</span></a></li>
+					<li  id="ca-talk"><a href="/wiki/Diskussion:Hans_im_Gl%C3%BCck_(1837)"  title="Diskussion zum Seiteninhalt [t]" accesskey="t"><span>Diskussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Varianten</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Ansichten</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Hans_im_Gl%C3%BCck_(1837)" ><span>Lesen</span></a></li>
+					<li id="ca-viewsource"><a href="/w/index.php?title=Hans_im_Gl%C3%BCck_(1837)&amp;action=edit"  title="Diese Seite ist geschützt. Der Quelltext kann angesehen werden. [e]" accesskey="e"><span>Quelltext anzeigen</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Hans_im_Gl%C3%BCck_(1837)&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h"><span>Versionsgeschichte</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Aktionen</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Suche</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Spezial:Suche"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Wikisource durchsuchen [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Suche nach Seiten, die diesen Text enthalten"><img src="http://bits.wikimedia.org/skins-1.5/vector/images/search-ltr.png?283-16" alt="Suchen" /></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikisource/de/b/bc/Wiki.png);" href="/wiki/Hauptseite"  title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="/wiki/Hauptseite" title="Hauptseite anzeigen [z]" accesskey="z">Hauptseite</a></li>
+					<li id="n-contents"><a href="/wiki/Wikisource:Systematik">Systematischer Einstieg</a></li>
+					<li id="n-authors"><a href="/wiki/Kategorie:Autoren">Autorenindex</a></li>
+					<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite [x]" accesskey="x">Zufällige Seite</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Mitmachen -->
+<div class="portal" id='p-Mitmachen'>
+	<h5>Mitmachen</h5>
+	<div class="body">
+				<ul>
+					<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikisource [r]" accesskey="r">Letzte Änderungen</a></li>
+					<li id="n-Neuer-Artikel"><a href="/wiki/Vorlage:Neuer_Artikel">Neuer Artikel</a></li>
+					<li id="n-Korrekturen-des-Monats"><a href="/wiki/Vorlage:Reviewtext">Korrekturen des Monats</a></li>
+					<li id="n-Portal"><a href="/wiki/Wikisource:Portal">Gemeinschafts-Portal</a></li>
+					<li id="n-Skriptorium"><a href="/wiki/Wikisource:Skriptorium">Skriptorium</a></li>
+					<li id="n-Auskunft"><a href="/wiki/Wikisource:Auskunft">Auskunft</a></li>
+					<li id="n-Hilfe"><a href="/wiki/Wikisource:Hilfe">Hilfe</a></li>
+					<li id="n-Spenden"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=de&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001">Spenden</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /Mitmachen -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Drucken/exportieren</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=book_creator&amp;referer=Hans+im+Gl%C3%BCck+%281837%29" title="Ein Buch oder eine Artikelsammlung erstellen" rel="nofollow">Buch erstellen</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=render_article&amp;arttitle=Hans+im+Gl%C3%BCck+%281837%29&amp;oldid=1205299&amp;writer=rl" title="Eine PDF-Version dieser Wikiseite herunterladen" rel="nofollow">Als PDF herunterladen</a></li><li id="t-print"><a href="/w/index.php?title=Hans_im_Gl%C3%BCck_(1837)&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Werkzeuge</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Hans_im_Gl%C3%BCck_(1837)" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Hans_im_Gl%C3%BCck_(1837)" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+																																					<li id="t-upload"><a href="http://commons.wikimedia.org/wiki/Special:Upload?uselang=de" title="Dateien hochladen [u]" accesskey="u">Datei hochladen</a></li>
+											<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Hans_im_Gl%C3%BCck_(1837)&amp;oldid=1205299" title="Dauerhafter Link zu dieser Seitenversion">dauerhafter Link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Hans_im_Gl%C3%BCck_(1837)&amp;id=1205299" title="Hinweis, wie diese Seite zitiert werden kann">Diese Seite zitieren</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+<div class="portal" id="p-lang">
+	<h5>In anderen Sprachen</h5>
+	<div class="body">
+		<ul>
+					<li class="interwiki-en"><a href="http://en.wikisource.org/wiki/Hans_in_Luck" title="Hans in Luck">English</a></li>
+				</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 20. August 2010 um 12:26 Uhr geändert.</li>
+																							<li id="footer-info-copyright"> </li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://de.wikipedia.org/wiki/Wikipedia:Datenschutz" title="w:Wikipedia:Datenschutz">Datenschutz</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikisource:%C3%9Cber" title="Wikisource:Über">Über Wikisource</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:Impressum" title="Wikisource:Impressum">Impressum</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- Served by srv168 in 0.473 secs. -->			</body>
+</html>

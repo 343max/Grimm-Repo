@@ -1,0 +1,472 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" dir="ltr">
+<head>
+<title>Der junge Riese (1857) – Wikisource</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (de)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikisource“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?283-16" type="text/css" media="print" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?117" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://de.wikisource.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Der_junge_Riese_(1857)",
+wgTitle="Der junge Riese (1857)",
+wgAction="view",
+wgArticleId=6475,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="de",
+wgContentLanguage="de",
+wgBreakFrames=false,
+wgCurRevisionId=1159340,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=[",	.", ".	,"],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Hauptseite",
+wgFormattedNamespaces={"-2": "Media", "-1": "Spezial", "0": "", "1": "Diskussion", "2": "Benutzer", "3": "Benutzer Diskussion", "4": "Wikisource", "5": "Wikisource Diskussion", "6": "Datei", "7": "Datei Diskussion", "8": "MediaWiki", "9": "MediaWiki Diskussion", "10": "Vorlage", "11": "Vorlage Diskussion", "12": "Hilfe", "13": "Hilfe Diskussion", "14": "Kategorie", "15": "Kategorie Diskussion", "102": "Seite", "103": "Seite Diskussion", "104": "Index", "105": "Index Diskussion"},
+wgNamespaceIds={"media": -2, "spezial": -1, "": 0, "diskussion": 1, "benutzer": 2, "benutzer_diskussion": 3, "wikisource": 4, "wikisource_diskussion": 5, "datei": 6, "datei_diskussion": 7, "mediawiki": 8, "mediawiki_diskussion": 9, "vorlage": 10, "vorlage_diskussion": 11, "hilfe": 12, "hilfe_diskussion": 13, "kategorie": 14, "kategorie_diskussion": 15, "seite": 102, "seite_diskussion": 103, "index": 104, "index_diskussion": 105, "bild": 6, "bild_diskussion": 7, "ws": 4, "image": 6, "image_talk": 7},
+wgSiteName="Wikisource",
+wgCategories=["Fertig", "Werke", "1850er Jahre", "Deutschland", "Märchen", "Märchen Grimm (1857)", "Deutsche Philologie", "Neuhochdeutsch"],
+wgDBname="dewikisource",
+wgMWSuggestTemplate="http://de.wikisource.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0, 102, 104],
+wgMWSuggestMessages=["mit Vorschlägen", "keine Vorschläge"],
+wgRestrictionEdit=["autoconfirmed"],
+wgRestrictionMove=["autoconfirmed"],
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+Geo={"city": "", "country": ""},
+wgNoticeProject="wikisource";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?283-16"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="/w/extensions/ProofreadPage/proofread_article.js?26"></script>
+<script type="text/javascript"> 
+var prp_source = "Quelle";
+var prp_source_message = "Zur Erstellung dieses Texts wurde die gescannte Ausgabe benutzt.";
+</script>
+
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?283-16" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'Weitere Sprachen','vector-editwarning-warning':'Das Verlassen dieser Seite kann dazu führen, dass die Änderungen verloren gehen.\nAls angemeldeter Benutzer kann das Anzeigen dieser Warnung im „Bearbeiten“-Bereich der Einstellungen abgeschaltet werden.','vector-simplesearch-search':'Suche','vector-simplesearch-containing':'Volltextsuche nach …'});</script>
+<script src="/w/index.php?title=Spezial:BannerController&amp;cache=/cn.js&amp;283-16" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;283-16" type="text/javascript"></script>
+
+</head>
+<body class="mediawiki ltr capitalize-all-nouns ns-0 ns-subject page-Der_junge_Riese_1857 skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Der junge Riese (1857)</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">aus Wikisource, der freien Quellensammlung</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"><table style="line-height:40%;visibility:hidden;" border=0 cellpadding=0 cellspacing=0 ><tr>
+<td align=center > </td>
+<td align=center class='quality4' width="100"></td>
+<td align=center class='quality3' width="0"></td>
+<td align=center class='quality2' width="0"></td>
+<td align=center class='quality1' width="0"></td>
+<td align=center class='quality0' width="0"></td>
+<!-- <td ><span id=pr_index style="visibility:hidden;"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_2_(1857)" title="Index:Kinder- und Haus-Märchen Band 2 (1857)">[index]</a></span></td> -->
+</tr></table></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Wechseln zu: <a href="#mw-head">Navigation</a>,
+					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div id="textdaten" style="float:right;" class="noprint">
+<table width="280px" style="margin:0;margin-left:0.5em;margin-bottom:0.5em;">
+<tr>
+<td>
+<table width="100%" border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse; border-style:1px solid; border-color:#AAAAAA; background-color:#fff; font-size:100%; color:#191919">
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Textdaten</th>
+</tr>
+<tr valign="top">
+<th width="50%" align="left"><a href="/wiki/Die_G%C3%A4nsemagd_(1857)" title="Die Gänsemagd (1857)"><b>&lt;&lt;&lt;</b></a></th>
+<th width="50%" align="right"><a href="/wiki/Dat_Erdm%C3%A4nneken_(1857)" title="Dat Erdmänneken (1857)"><b>&gt;&gt;&gt;</b></a></th>
+</tr>
+<tr valign="top">
+<td width="40%">Autor:</td>
+<td width="60%"><b><a href="/wiki/Br%C3%BCder_Grimm" title="Brüder Grimm">Brüder Grimm</a></b></td>
+</tr>
+<tr valign="top">
+<td>Titel:</td>
+<td><b>Der junge Riese</b></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Untertitel:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>aus:</td>
+<td><a href="/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_2_(1857)" title="Kinder- und Haus-Märchen Band 2 (1857)">Kinder- und Haus-Märchen Band 2</a>, Große Ausgabe.<br />
+S. <a href="http://commons.wikimedia.org/wiki/Image:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_II_020.jpg" class="extiw" title="commons:Image:Kinder und Hausmärchen (Grimm) 1857 II 020.jpg">20</a>-28</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Herausgeber:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Auflage:</td>
+<td>7. Auflage<br />
+(Ausgabe letzter Hand)</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Entstehungsdatum:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsdatum:</td>
+<td>1857</td>
+</tr>
+<tr valign="top">
+<td>Verlag:</td>
+<td>Dieterich</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Drucker:</td>
+<td>{{{DRUCKER}}}</td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsort:</td>
+<td>Göttingen</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Übersetzer:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originaltitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalsubtitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalherkunft:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Quelle:</td>
+<td><a href="http://books.google.com/books?id=vUQWAAAAYAAJ" class="external text" rel="nofollow">Google</a> und <a href="http://commons.wikimedia.org/wiki/Category:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_II" class="extiw" title="commons:Category:Kinder und Hausmärchen (Grimm) 1857 II">Scans auf Commons</a></td>
+</tr>
+<tr valign="top">
+<td>Kurzbeschreibung:</td>
+<td>seit 1815: KHM 90</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td colspan="2">
+<center><a href="/wiki/Datei:Wikipedia-logo.png" class="image"><img alt="Wikipedia-logo.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/20px-Wikipedia-logo.png" width="20" height="20" /></a> <a href="http://de.wikipedia.org/wiki/Der_junge_Riese" class="extiw" title="w:Der junge Riese">Artikel in der Wikipedia</a></center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center>[[Bild:|250px]]</center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center><span class="extimg"><a href="/wiki/Datei:Wikimedia-button-for-homepage.png" class="image" title="{{{EXTERNESBILD}}}"><img alt="{{{EXTERNESBILD}}}" src="http://upload.wikimedia.org/wikipedia/commons/8/8b/Wikimedia-button-for-homepage.png" width="250" height="88" /></a></span></center>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Bearbeitungsstand</th>
+</tr>
+<tr>
+<td colspan="2" align="center"><span style="color:#669966;"><b>fertig</b></span></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color: #f3f3f3;" align="justify">
+<div style="font-size:80%; height:auto; color:#669966;"><b>Fertig!</b> Dieser Text wurde zweimal anhand der Quelle <a href="/wiki/Hilfe:Korrekturlesen" title="Hilfe:Korrekturlesen">Korrektur gelesen</a>. Die Schreibweise folgt dem Originaltext.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9"><span style="font-size:85%; color:#009900">Um eine Seite zu bearbeiten, brauchst du nur auf die entsprechende [Seitenzahl] zu klicken. Weitere Informationen findest du hier: <a href="/wiki/Wikisource:Proofread" title="Wikisource:Proofread"><b>Hilfe</b></a></span></th>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9" align="center"><span id="textdaten_index"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_2_(1857)" title="Index:Kinder- und Haus-Märchen Band 2 (1857)">Link zur Indexseite</a></span></th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-bottom: solid 1px #aaa; font-size: 95%; padding-bottom:0.5em">
+<table style="background-color: transparent;">
+<tr>
+<td style="width: 50px; vertical-align: middle"><a href="/wiki/Datei:Disambig-dark.svg" class="image" title="Begriffsklärung"><img alt="Begriffsklärung" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Disambig-dark.svg/30px-Disambig-dark.svg.png" width="30" height="23" /></a></td>
+<td>Andere Ausgaben unter diesem Titel siehe unter: <b><a href="/wiki/Der_junge_Riese" title="Der junge Riese">Der junge Riese</a></b>.</td>
+</tr>
+</table>
+</div>
+<p><br /></p>
+<table>
+<tr>
+<td valign="top" style="text-align:justify; padding-left:10px; padding-right:10px; position:relative;"><span class="PageNumber" id="Seite_20" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_II_020.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1857 II 020.jpg">20</a></b>]</span>
+<div style="text-align:center"><b>90.</b></div>
+<br />
+<div style="text-align:center"><b>Der junge Riese.</b></div>
+<br />
+<p>Ein Bauersmann hatte einen Sohn, der war so groß wie ein Daumen und ward gar nicht größer und wuchs in etlichen Jahren nicht ein Haarbreit. Einmal wollte der Bauer ins Feld gehen und pflügen, da sagte der Kleine „Vater, ich will mit hinaus.“ „Du willst mit hinaus?“ sprach der Vater, „bleib du hier, dort bist du zu nichts nutz: du könntest mir auch verloren gehen.“ Da fieng der Däumling an zu weinen, und um Ruhe zu haben, steckte ihn der Vater in die Tasche und nahm ihn mit. Draußen auf dem Felde holte er ihn wieder heraus und setzte ihn in eine frische Furche. Wie er da so saß, kam über den Berg ein großer Riese daher. „Siehst du dort den großen Butzemann?“ sagte der Vater, und wollte den Kleinen schrecken, damit er artig wäre, „der kommt und holt dich.“ Der Riese aber hatte mit seinen langen Beinen kaum ein paar Schritte gethan, so war er bei der Furche. Er hob den kleinen Däumling mit zwei Fingern behutsam in die Höhe, betrachtete ihn und gieng ohne ein Wort zu sprechen, mit ihm fort. Der Vater stand dabei, konnte vor Schrecken keinen Laut hervor bringen und dachte nicht anders als sein Kind für verloren, also daß ers sein Lebtag nicht wieder mit Augen sehen würde.</p>
+<p>Der Riese aber trug es heim und ließ es an seiner Brust saugen, und der Däumling wuchs und ward groß und stark nach Art der Riesen. Nach Verlauf von zwei Jahren gieng der Alte mit ihm in den Wald, wollte ihn versuchen und sprach „zieh dir <span class="PageNumber" id="Seite_21" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_II_021.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1857 II 021.jpg">21</a></b>]</span> eine Gerte heraus.“ Da war der Knabe schon so stark, daß er einen jungen Baum mit den Wurzeln aus der Erde riß. Der Riese aber meinte „das muß besser kommen,“ nahm ihn wieder mit, und säugte ihn noch zwei Jahre. Als er ihn versuchte, hatte seine Kraft schon so zugenommen, daß er einen alten Baum aus der Erde brechen konnte. Das war dem Riesen noch immer nicht genug, er säugte ihn abermals zwei Jahre, und als er dann mit ihm in den Wald gieng, und sprach „nun reiß einmal eine ordentliche Gerte aus,“ so riß der Junge den dicksten Eichenbaum aus der Erde, daß er krachte, und war ihm nur ein Spaß. „Nun ists genug,“ sprach der Riese, „du hast ausgelernt,“ und führte ihn zurück auf den Acker, wo er ihn geholt hatte. Sein Vater stand da hinter dem Pflug, der junge Riese gieng auf ihn zu und sprach „sieht er wohl, Vater, was sein Sohn für ein Mann geworden ist.“ Der Bauer erschrack, und sagte „nein, du bist mein Sohn nicht, ich will dich nicht, geh weg von mir.“ „Freilich bin ich sein Sohn, laß er mich an die Arbeit, ich kann pflügen so gut als er und noch besser.“ „Nein, nein, du bist mein Sohn nicht, du kannst auch nicht pflügen, geh weg von mir.“ Weil er sich aber vor dem großen Mann fürchtete, ließ er den Pflug los, trat zurück und setzte sich zur Seite ans Land. Da nahm der Junge das Geschirr und drückte blos mit einer Hand darauf, aber der Druck war so gewaltig, daß der Pflug tief in die Erde gieng. Der Bauer konnte das nicht mit ansehen und rief ihm zu „wenn du pflügen willst, mußt du nicht so gewaltig drücken, das gibt schlechte Arbeit.“ Der Junge aber spannte die Pferde aus, zog selber den Pflug und sagte „geh er nur nach Haus, Vater, und laß er die Mutter eine große Schüssel voll Essen kochen; ich will derweil den Acker schon umreißen.“ Da gieng der Bauer heim und bestellte das Essen bei seiner Frau: der Junge aber pflügte das Feld, zwei Morgen groß, ganz allein, und dann spannte er <span class="PageNumber" id="Seite_22" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_II_022.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1857 II 022.jpg">22</a></b>]</span> sich auch selber vor die Egge und eggte alles mit zwei Eggen zugleich. Wie er fertig war, gieng er in den Wald und riß zwei Eichenbäume aus, legte sie auf die Schultern, und hinten und vorn eine Egge darauf, und hinten und vorn auch ein Pferd, und trug das alles, als wär es ein Bund Stroh, nach seiner Eltern Haus. Wie er in den Hof kam, erkannte ihn seine Mutter nicht und fragte „wer ist der entsetzliche, große Mann?“ Der Bauer sagte „das ist unser Sohn.“ Sie sprach „nein, unser Sohn ist das nimmermehr, so groß haben wir keinen gehabt, unser war ein kleines Ding.“ Sie rief ihm zu „geh fort, wir wollen dich nicht.“ Der Junge schwieg still, zog seine Pferde in den Stall, gab ihnen Hafer und Heu, alles wie sichs gehörte. Als er fertig war, gieng er in die Stube, setzte sich auf die Bank und sagte „Mutter, nun hätte ich Lust zu essen, ists bald fertig?“ Da sagte sie „ja“ und brachte zwei große große Schüsseln voll herein, daran hätten sie und ihr Mann acht Tage lang satt gehabt. Der Junge aber aß sie allein auf und fragte ob sie nicht mehr vorsetzen könnte? „Nein,“ sagte sie, „das ist alles, was wir haben.“ „Das war ja nur zum Schmecken, ich muß mehr haben.“ Sie getraute nicht ihm zu widerstehen, gieng hin und setzte einen großen Schweinekessel voll übers Feuer, und wie es gahr war, trug sie es herein. „Endlich kommen noch ein paar Brocken“ sagte er und aß alles hinein; es war aber doch nicht genug seinen Hunger zu stillen. Da sprach er „Vater, ich sehe wohl, bei ihm werd ich nicht satt, will er mir einen Stab von Eisen verschaffen, der stark ist, und den ich vor meinen Knien nicht zerbrechen kann, so will ich fort in die Welt gehen.“ Der Bauer war froh, spannte seine zwei Pferde vor den Wagen und holte bei dem Schmied einen Stab so groß und dick, als ihn die zwei Pferde nur fort schaffen konnten. Der Junge nahm ihn vor die Knie, und ratsch! brach er ihn wie eine Bohnenstange in der Mitte entzwei und warf ihn weg. Der Vater <span class="PageNumber" id="Seite_23" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_II_023.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1857 II 023.jpg">23</a></b>]</span> spannte vier Pferde vor und holte einen Stab so groß und dick, als ihn die vier Pferde fort schaffen konnten. Der Sohn knickte auch diesen vor dem Knie entzwei, warf ihn hin und sprach „Vater, der kann mir nicht helfen, er muß besser vorspannen und einen stärkern Stab holen.“ Da spannte der Vater acht Pferde vor und holte einen so groß und dick, als ihn die acht Pferde herbei fahren konnten. Wie der Sohn den in die Hand nahm, brach er gleich oben ein Stück davon ab und sagte „Vater, ich sehe er kann mir keinen Stab anschaffen wie ich ihn brauche, ich will nicht länger bei ihm bleiben.“</p>
+<p>Da gieng er fort und gab sich für einen Schmiedegesellen aus. Er kam in ein Dorf, darin wohnte ein Schmied, der war ein Geizmann, gönnte keinem Menschen etwas und wollte alles allein haben; zu dem trat er in die Schmiede und fragte ob er keinen Gesellen brauchte. „Ja“ sagte der Schmied, sah ihn an und dachte „das ist ein tüchtiger Kerl, der wird gut vorschlagen und sein Brot verdienen.“ Er fragte „wie viel willst du Lohn haben?“ „Gar keinen will ich haben,“ antwortete er, „nur alle vierzehn Tage, wenn die andern Gesellen ihren Lohn bezahlt kriegen, will ich dir zwei Streiche geben, die mußt du aushalten.“ Das war der Geizmann von Herzen zufrieden und dachte damit viel Geld zu sparen. Am andern Morgen sollte der fremde Geselle zuerst vorschlagen, wie aber der Meister den glühenden Stab brachte und jener den ersten Schlag that, so flog das Eisen von einander und der Ambos sank in die Erde, so tief, daß sie ihn gar nicht wieder heraus bringen konnten. Da ward der Geizmann bös und sagte „ei was, dich kann ich nicht brauchen, du schlägst gar zu grob, was willst du für den einen Zuschlag haben?“ Da sprach er „ich will dir nur einen ganz kleinen Streich geben, weiter nichts.“ Und hob seinen Fuß auf und gab ihm einen Tritt, daß er über vier Fuder Heu hinausflog. Darauf suchte er sich den dicksten <span class="PageNumber" id="Seite_24" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_II_024.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1857 II 024.jpg">24</a></b>]</span> Eisenstab aus, der in der Schmiede war, nahm ihn als einen Stock in die Hand und gieng weiter.</p>
+<p>Als er eine Weile gezogen war, kam er zu einem Vorwerk und fragte den Amtmann ob er keinen Großknecht nöthig hätte. „Ja,“ sagte der Amtmann, „ich kann einen brauchen: du siehst aus wie ein tüchtiger Kerl, der schon was vermag, wie viel willst du Jahrslohn haben?“ Er antwortete wiederum er verlangte gar keinen Lohn, aber alle Jahre wollte er ihm drei Streiche geben, die müßte er aushalten. Das war der Amtmann zufrieden, denn er war auch ein Geizhals. Am andern Morgen, da sollten die Knechte ins Holz fahren, und die andern Knechte waren schon auf, er aber lag noch im Bett. Da rief ihn einer an „steh auf, es ist Zeit, wir wollen ins Holz, und du mußt mit.“ „Ach,“ sagte er ganz grob und trotzig, „geht ihr nur hin, ich komme doch eher wieder als ihr alle mit einander.“ Da giengen die andern zum Amtmann und erzählten ihm der Großknecht läge noch im Bett und wollte nicht mit ins Holz fahren. Der Amtmann sagte sie sollten ihn noch einmal wecken und ihn heißen die Pferde vorspannen. Der Großknecht sprach aber wie vorher „geht ihr nur hin, ich komme doch eher wieder als ihr alle mit einander.“ Darauf blieb er noch zwei Stunden liegen, da stieg er endlich aus den Federn, holte sich aber erst zwei Scheffel voll Erbsen vom Boden, kochte sich einen Brei und aß den mit guter Ruhe, und wie das alles geschehen war, gieng er hin, spannte die Pferde vor und fuhr ins Holz. Nicht weit vor dem Holz war ein Hohlweg, wo er durch mußte, da fuhr er den Wagen erst vorwärts, dann mußten die Pferde stille halten, und er gieng hinter den Wagen, nahm Bäume und Reisig und machte da eine große Hucke (Verhack), so daß kein Pferd durchkommen konnte. Wie er nun vors Holz kam, fuhren die andern eben mit ihren beladenen Wagen heraus und wollten heim, da sprach er zu ihnen „fahrt nur hin, ich komme doch <span class="PageNumber" id="Seite_25" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_II_025.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1857 II 025.jpg">25</a></b>]</span> eher als ihr nach Haus.“ Er fuhr gar nicht weit ins Holz, riß gleich zwei der allergrößten Bäume aus der Erde, warf sie auf den Wagen und drehte um. Als er vor der Hucke anlangte, standen die andern noch da und konnten nicht durch. „Seht ihr wohl,“ sprach er, „wärt ihr bei mir geblieben, so wärt ihr eben so schnell nach Haus gekommen und hättet noch eine Stunde schlafen können.“ Er wollte nun zufahren, aber seine Pferde konnten sich nicht durcharbeiten, da spannte er sie aus, legte sie oben auf den Wagen, nahm selber die Deichsel in die Hand, und hüf! zog er alles durch, und das gieng so leicht als hätt er Federn geladen. Wie er drüben war, sprach er zu den andern „seht ihr wohl, ich bin schneller hindurch als ihr,“ fuhr weiter, und die andern mußten stehen bleiben. In dem Hof aber nahm er einen Baum in die Hand, zeigte ihn dem Amtmann und sagte „ist das nicht ein schönes Klafterstück?“ Da sprach der Amtmann zu seiner Frau „der Knecht ist gut; wenn er auch lang schläft, er ist doch eher wieder da als die andern.“</p>
+<p>Nun diente er dem Amtmann ein Jahr: wie das herum war, und die andern Knechte ihren Lohn kriegten, sprach er es wäre Zeit, er wollte sich auch seinen Lohn nehmen. Dem Amtmann ward aber angst vor den Streichen, die er kriegen sollte, und bat ihn inständig er möchte sie ihm schenken, lieber wollte er selbst Großknecht werden, und er sollte Amtmann sein. „Nein,“ sprach er, „ich will kein Amtmann werden, ich bin Großknecht und wills bleiben, ich will aber austheilen was bedungen ist.“ Der Amtmann wollte ihm geben, was er nur verlangte, aber es half nichts, der Großknecht sprach zu allem „nein.“ Da wußte sich der Amtmann nicht zu helfen und bat ihn um vierzehn Tage Frist, er wollte sich auf etwas besinnen. Der Großknecht sprach die Frist sollte er haben. Der Amtmann berief alle seine Schreiber zusammen, sie sollten sich bedenken und ihm einen Rath geben. Die <span class="PageNumber" id="Seite_26" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_II_026.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1857 II 026.jpg">26</a></b>]</span> Schreiber besannen sich lange, endlich sagten sie vor dem Großknecht wäre niemand seines Lebens sicher, der schlüge einen Menschen wie eine Mücke todt. Er sollte ihn heißen in den Brunnen steigen und ihn reinigen, wenn er unten wäre, wollten sie einen von den Mühlensteinen, die da lägen, herbei rollen und ihm auf den Kopf werfen, dann würde er nicht wieder an des Tages Licht kommen. Der Rath gefiel dem Amtmann, und der Großknecht war bereit in den Brunnen hinab zu steigen. Als er unten auf dem Grund stand, rollten sie den größten Mühlstein hinab, und meinten der Kopf wäre ihm eingeschlagen, aber er rief „jagt die Hühner vom Brunnen weg, die kratzen da oben im Sand und werfen mir die Körner in die Augen, daß ich nicht sehen kann.“ Da rief der Amtmann „husch! husch!“ und that als scheuchte er die Hühner weg. Als der Großknecht mit seiner Arbeit fertig war, stieg er herauf und sagte „seht einmal, ich habe doch ein schönes Halsband um,“ da war es der Mühlenstein, den er um den Hals trug. Der Großknecht wollte jetzt seinen Lohn nehmen, aber der Amtmann bat wieder um vierzehn Tage Bedenkzeit. Die Schreiber kamen zusammen und gaben den Rath er sollte den Großknecht in die verwünschte Mühle schicken um dort in der Nacht Korn zu mahlen: von da wäre noch kein Mensch Morgens lebendig herausgekommen. Der Anschlag gefiel dem Amtmann, er rief den Großknecht noch denselben Abend und hieß ihn acht Malter Korn in die Mühle fahren und in der Nacht noch mahlen; sie hättens nöthig. Da gieng der Großknecht auf den Boden und that zwei Malter in seine rechte Tasche, zwei in die linke, vier nahm er in einem Quersack halb auf den Rücken, halb auf die Brust, und gieng also beladen nach der verwünschten Mühle. Der Müller sagte ihm bei Tag könnte er recht gut da mahlen, aber nicht in der Nacht, da wäre die Mühle verwünscht, und wer da noch hinein gegangen wäre, den hätte man am Morgen <span class="PageNumber" id="Seite_27" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_II_027.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1857 II 027.jpg">27</a></b>]</span> todt darin gefunden. Er sprach „ich will schon durchkommen, macht euch nur fort und legt euch aufs Ohr.“ Darauf gieng er in die Mühle und schüttete das Korn auf. Gegen elf Uhr gieng er in die Müllerstube und setzte sich auf die Bank. Als er ein Weilchen da gesessen hatte, that sich auf einmal die Thür auf und kam eine große große Tafel herein, und auf die Tafel stellte sich Wein und Braten, und viel gutes Essen, alles von selber, denn es war niemand da, ders auftrug. Und danach rückten sich die Stühle herbei, aber es kamen keine Leute, bis auf einmal sah er Finger, die handthierten mit den Messern und Gabeln und legten Speisen auf die Teller, aber sonst konnte er nichts sehen. Da er hungrig war und die Speisen sah, so setzte er sich auch an die Tafel, aß mit und ließ sichs gut schmecken. Als er satt war und die andern ihre Schüsseln auch ganz leer gemacht hatten, da wurden die Lichter auf einmal alle ausgeputzt, das hörte er deutlich, und wies nun stockfinster war, so kriegte er so etwas wie eine Ohrfeige ins Gesicht. Da sprach er „wenn noch einmal so etwas kommt, so theil ich auch wieder aus.“ Und wie er zum zweiten Mal eine Ohrfeige kriegte, da schlug er gleichfalls mit hinein. Und so gieng das fort die ganze Nacht, er nahm nichts umsonst, sondern gab reichlich zurück und schlug nicht faul um sich herum: bei Tagesanbruch aber hörte alles auf. Wie der Müller aufgestanden war, wollt er nach ihm sehen und verwunderte sich daß er noch lebte. Da sprach er „ich habe mich satt gegessen, habe Ohrfeigen gekriegt, aber ich habe auch Ohrfeigen ausgetheilt.“ Der Müller freute sich und sagte nun wäre die Mühle erlöst, und wollte ihm gern zur Belohnung viel Geld geben. Er sprach aber „Geld will ich nicht, ich habe doch genug.“ Dann nahm er sein Mehl auf den Rücken, gieng nach Haus und sagte dem Amtmann er hätte die Sache ausgerichtet und wollte nun seinen bedungenen Lohn haben. Wie der Amtmann das hörte, da ward ihm erst recht <span class="PageNumber" id="Seite_28" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_II_028.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1857 II 028.jpg">28</a></b>]</span> angst: er wußte sich nicht zu lassen, gieng in der Stube auf und ab, und die Schweißtropfen liefen ihm von der Stirne herunter. Da machte er das Fenster auf nach frischer Luft, eh er sichs aber versah, hatte ihm der Großknecht einen Tritt gegeben, daß er durchs Fenster in die Luft hinein flog, immer fort, bis ihn niemand mehr sehen konnte. Da sprach der Großknecht zur Frau des Amtmanns „kommt er nicht wieder, so müßt ihr den anderen Streich hinnehmen.“ Sie rief „nein, nein, ich kanns nicht aushalten,“ und machte das andere Fenster auf, weil ihr die Schweißtropfen die Stirne herunter liefen. Da gab er ihr einen Tritt, daß sie gleichfalls hinaus flog und da sie leichter war, noch viel höher als ihr Mann. Der Mann rief „komm doch zu mir,“ sie aber rief „komm du zu mir, ich kann nicht zu dir.“ Und sie schwebten da in der Luft, und konnte keins zum andern kommen, und ob sie da noch schweben, das weiß ich nicht; der junge Riese aber nahm seine Eisenstange und gieng weiter.</p>
+</td>
+</tr>
+</table>
+<p><span class="AndereVersion" id="av_Von_einem_jungen_Riesen_.281815.29" title="Von einem jungen Riesen (1815)|Ausgabe 1815" style="display:none;"></span> <span class="AndereVersion" id="av_Der_junge_Riese_.281819.29" title="Der junge Riese (1819)|Ausgabe 1819" style="display:none;"></span> <span class="AndereVersion" id="av_Der_junge_Riese_.281837.29" title="Der junge Riese (1837)|Ausgabe 1837" style="display:none;"></span> <span class="AndereVersion" id="av_Der_junge_Riese_.281840.29" title="Der junge Riese (1840)|Ausgabe 1840" style="display:none;"></span> <span class="AndereVersion" id="av_Der_junge_Riese_.281843.29" title="Der junge Riese (1843)|Ausgabe 1843" style="display:none;"></span> <span class="AndereVersion" id="av_Der_junge_Riese_.281850.29" title="Der junge Riese (1850)|Ausgabe 1850" style="display:none;"></span> <span class="AndereVersion" title="_line" id="_line" style="display:none;"></span> <span class="AndereVersion" id="av_Kinder-_und_Haus-M.C3.A4rchen_Band_3_.281856.29.2FAnmerkungen.2390" title="Kinder- und Haus-Märchen Band 3 (1856)/Anmerkungen#90|Kommentar 1856" style="display:none;"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 947/1000000
+Post-expand include size: 60907/2048000 bytes
+Template argument size: 4317/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key dewikisource:pcache:idhash:6475-0!1!0!!de!4!edit=0 and timestamp 20101211132719 -->
+<div class="printfooter">
+Von „<a href="http://de.wikisource.org/wiki/Der_junge_Riese_(1857)">http://de.wikisource.org/wiki/Der_junge_Riese_(1857)</a>“</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Spezial:Kategorien" title="Spezial:Kategorien">Kategorien</a>: <span dir='ltr'><a href="/wiki/Kategorie:Fertig" title="Kategorie:Fertig">Fertig</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Werke" title="Kategorie:Werke">Werke</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:1850er_Jahre" title="Kategorie:1850er Jahre">1850er Jahre</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutschland" title="Kategorie:Deutschland">Deutschland</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen" title="Kategorie:Märchen">Märchen</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen_Grimm_(1857)" title="Kategorie:Märchen Grimm (1857)">Märchen Grimm (1857)</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutsche_Philologie" title="Kategorie:Deutsche Philologie">Deutsche Philologie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Neuhochdeutsch" title="Kategorie:Neuhochdeutsch">Neuhochdeutsch</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Persönliche Werkzeuge</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Der_junge_Riese_(1857)" title="Sich anzumelden wird zwar gerne gesehen, ist aber keine Pflicht. [o]" accesskey="o">Anmelden / Benutzerkonto erstellen</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namensräume</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/Der_junge_Riese_(1857)"  title="Seiteninhalt anzeigen [c]" accesskey="c"><span>Quellentext</span></a></li>
+					<li  id="ca-talk" class="new"><a href="/w/index.php?title=Diskussion:Der_junge_Riese_(1857)&amp;action=edit&amp;redlink=1"  title="Diskussion zum Seiteninhalt [t]" accesskey="t"><span>Diskussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Varianten</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Ansichten</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Der_junge_Riese_(1857)" ><span>Lesen</span></a></li>
+					<li id="ca-viewsource"><a href="/w/index.php?title=Der_junge_Riese_(1857)&amp;action=edit"  title="Diese Seite ist geschützt. Der Quelltext kann angesehen werden. [e]" accesskey="e"><span>Quelltext anzeigen</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Der_junge_Riese_(1857)&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h"><span>Versionsgeschichte</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Aktionen</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Suche</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Spezial:Suche"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Wikisource durchsuchen [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Suche nach Seiten, die diesen Text enthalten"><img src="http://bits.wikimedia.org/skins-1.5/vector/images/search-ltr.png?283-16" alt="Suchen" /></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikisource/de/b/bc/Wiki.png);" href="/wiki/Hauptseite"  title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="/wiki/Hauptseite" title="Hauptseite anzeigen [z]" accesskey="z">Hauptseite</a></li>
+					<li id="n-contents"><a href="/wiki/Wikisource:Systematik">Systematischer Einstieg</a></li>
+					<li id="n-authors"><a href="/wiki/Kategorie:Autoren">Autorenindex</a></li>
+					<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite [x]" accesskey="x">Zufällige Seite</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Mitmachen -->
+<div class="portal" id='p-Mitmachen'>
+	<h5>Mitmachen</h5>
+	<div class="body">
+				<ul>
+					<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikisource [r]" accesskey="r">Letzte Änderungen</a></li>
+					<li id="n-Neuer-Artikel"><a href="/wiki/Vorlage:Neuer_Artikel">Neuer Artikel</a></li>
+					<li id="n-Korrekturen-des-Monats"><a href="/wiki/Vorlage:Reviewtext">Korrekturen des Monats</a></li>
+					<li id="n-Portal"><a href="/wiki/Wikisource:Portal">Gemeinschafts-Portal</a></li>
+					<li id="n-Skriptorium"><a href="/wiki/Wikisource:Skriptorium">Skriptorium</a></li>
+					<li id="n-Auskunft"><a href="/wiki/Wikisource:Auskunft">Auskunft</a></li>
+					<li id="n-Hilfe"><a href="/wiki/Wikisource:Hilfe">Hilfe</a></li>
+					<li id="n-Spenden"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=de&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001">Spenden</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /Mitmachen -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Drucken/exportieren</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=book_creator&amp;referer=Der+junge+Riese+%281857%29" title="Ein Buch oder eine Artikelsammlung erstellen" rel="nofollow">Buch erstellen</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=render_article&amp;arttitle=Der+junge+Riese+%281857%29&amp;oldid=1159340&amp;writer=rl" title="Eine PDF-Version dieser Wikiseite herunterladen" rel="nofollow">Als PDF herunterladen</a></li><li id="t-print"><a href="/w/index.php?title=Der_junge_Riese_(1857)&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Werkzeuge</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Der_junge_Riese_(1857)" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Der_junge_Riese_(1857)" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+																																					<li id="t-upload"><a href="http://commons.wikimedia.org/wiki/Special:Upload?uselang=de" title="Dateien hochladen [u]" accesskey="u">Datei hochladen</a></li>
+											<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Der_junge_Riese_(1857)&amp;oldid=1159340" title="Dauerhafter Link zu dieser Seitenversion">dauerhafter Link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Der_junge_Riese_(1857)&amp;id=1159340" title="Hinweis, wie diese Seite zitiert werden kann">Diese Seite zitieren</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 3. Juli 2010 um 00:34 Uhr geändert.</li>
+																							<li id="footer-info-copyright"> </li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://de.wikipedia.org/wiki/Wikipedia:Datenschutz" title="w:Wikipedia:Datenschutz">Datenschutz</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikisource:%C3%9Cber" title="Wikisource:Über">Über Wikisource</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:Impressum" title="Wikisource:Impressum">Impressum</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- Served by srv208 in 0.483 secs. -->			</body>
+</html>

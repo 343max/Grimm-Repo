@@ -1,0 +1,487 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" dir="ltr">
+<head>
+<title>Die beiden Wanderer (1843) – Wikisource</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (de)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikisource“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?283-16" type="text/css" media="print" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?117" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://de.wikisource.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Die_beiden_Wanderer_(1843)",
+wgTitle="Die beiden Wanderer (1843)",
+wgAction="view",
+wgArticleId=135260,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="de",
+wgContentLanguage="de",
+wgBreakFrames=false,
+wgCurRevisionId=1159199,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=[",	.", ".	,"],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Hauptseite",
+wgFormattedNamespaces={"-2": "Media", "-1": "Spezial", "0": "", "1": "Diskussion", "2": "Benutzer", "3": "Benutzer Diskussion", "4": "Wikisource", "5": "Wikisource Diskussion", "6": "Datei", "7": "Datei Diskussion", "8": "MediaWiki", "9": "MediaWiki Diskussion", "10": "Vorlage", "11": "Vorlage Diskussion", "12": "Hilfe", "13": "Hilfe Diskussion", "14": "Kategorie", "15": "Kategorie Diskussion", "102": "Seite", "103": "Seite Diskussion", "104": "Index", "105": "Index Diskussion"},
+wgNamespaceIds={"media": -2, "spezial": -1, "": 0, "diskussion": 1, "benutzer": 2, "benutzer_diskussion": 3, "wikisource": 4, "wikisource_diskussion": 5, "datei": 6, "datei_diskussion": 7, "mediawiki": 8, "mediawiki_diskussion": 9, "vorlage": 10, "vorlage_diskussion": 11, "hilfe": 12, "hilfe_diskussion": 13, "kategorie": 14, "kategorie_diskussion": 15, "seite": 102, "seite_diskussion": 103, "index": 104, "index_diskussion": 105, "bild": 6, "bild_diskussion": 7, "ws": 4, "image": 6, "image_talk": 7},
+wgSiteName="Wikisource",
+wgCategories=["Fertig", "Werke", "1840er Jahre", "Deutschland", "Märchen", "Märchen Grimm (1843)", "Deutsche Philologie", "Neuhochdeutsch"],
+wgDBname="dewikisource",
+wgMWSuggestTemplate="http://de.wikisource.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0, 102, 104],
+wgMWSuggestMessages=["mit Vorschlägen", "keine Vorschläge"],
+wgRestrictionEdit=["autoconfirmed"],
+wgRestrictionMove=["autoconfirmed"],
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+Geo={"city": "", "country": ""},
+wgNoticeProject="wikisource";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?283-16"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="/w/extensions/ProofreadPage/proofread_article.js?26"></script>
+<script type="text/javascript"> 
+var prp_source = "Quelle";
+var prp_source_message = "Zur Erstellung dieses Texts wurde die gescannte Ausgabe benutzt.";
+</script>
+
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?283-16" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'Weitere Sprachen','vector-editwarning-warning':'Das Verlassen dieser Seite kann dazu führen, dass die Änderungen verloren gehen.\nAls angemeldeter Benutzer kann das Anzeigen dieser Warnung im „Bearbeiten“-Bereich der Einstellungen abgeschaltet werden.','vector-simplesearch-search':'Suche','vector-simplesearch-containing':'Volltextsuche nach …'});</script>
+<script src="/w/index.php?title=Spezial:BannerController&amp;cache=/cn.js&amp;283-16" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;283-16" type="text/javascript"></script>
+
+</head>
+<body class="mediawiki ltr capitalize-all-nouns ns-0 ns-subject page-Die_beiden_Wanderer_1843 skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Die beiden Wanderer (1843)</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">aus Wikisource, der freien Quellensammlung</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"><table style="line-height:40%;visibility:hidden;" border=0 cellpadding=0 cellspacing=0 ><tr>
+<td align=center > </td>
+<td align=center class='quality4' width="100"></td>
+<td align=center class='quality3' width="0"></td>
+<td align=center class='quality2' width="0"></td>
+<td align=center class='quality1' width="0"></td>
+<td align=center class='quality0' width="0"></td>
+<!-- <td ><span id=pr_index style="visibility:hidden;"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_2_(1843)" title="Index:Kinder- und Haus-Märchen Band 2 (1843)">[index]</a></span></td> -->
+</tr></table></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Wechseln zu: <a href="#mw-head">Navigation</a>,
+					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div id="textdaten" style="float:right;" class="noprint">
+<table width="280px" style="margin:0;margin-left:0.5em;margin-bottom:0.5em;">
+<tr>
+<td>
+<table width="100%" border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse; border-style:1px solid; border-color:#AAAAAA; background-color:#fff; font-size:100%; color:#191919">
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Textdaten</th>
+</tr>
+<tr valign="top">
+<th width="50%" align="left"><a href="/wiki/Der_arme_M%C3%BCllerbursch_und_das_K%C3%A4tzchen_(1843)" title="Der arme Müllerbursch und das Kätzchen (1843)"><b>&lt;&lt;&lt;</b></a></th>
+<th width="50%" align="right"><a href="/wiki/Hans_mein_Igel_(1843)" title="Hans mein Igel (1843)"><b>&gt;&gt;&gt;</b></a></th>
+</tr>
+<tr valign="top">
+<td width="40%">Autor:</td>
+<td width="60%"><b><a href="/wiki/Br%C3%BCder_Grimm" title="Brüder Grimm">Brüder Grimm</a></b></td>
+</tr>
+<tr valign="top">
+<td>Titel:</td>
+<td><b>Die beiden Wanderer</b></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Untertitel:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>aus:</td>
+<td><a href="/wiki/Kinder-_und_Hausm%C3%A4rchen" title="Kinder- und Hausmärchen">Kinder- und Hausmärchen</a>. Große Ausgabe. <a href="/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_2_(1843)" title="Kinder- und Haus-Märchen Band 2 (1843)">Band 2</a>.<br />
+S. 118-131</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Herausgeber:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Auflage:</td>
+<td>Fünfte, stark vermehrte und verbesserte Auflage</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Entstehungsdatum:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsdatum:</td>
+<td>1843</td>
+</tr>
+<tr valign="top">
+<td>Verlag:</td>
+<td>Verlag der Dieterichschen Buchhandlung</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Drucker:</td>
+<td>{{{DRUCKER}}}</td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsort:</td>
+<td>Göttingen</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Übersetzer:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originaltitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalsubtitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalherkunft:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Quelle:</td>
+<td><a href="http://commons.wikimedia.org/wiki/Category:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II" class="extiw" title="commons:Category:Kinder und Hausmärchen (Grimm) 1843 II">Scans auf Commons</a></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Kurzbeschreibung:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td colspan="2">seit 1843: KHM 107</td>
+</tr>
+<tr valign="top">
+<td colspan="2">
+<center><a href="/wiki/Datei:Wikipedia-logo.png" class="image"><img alt="Wikipedia-logo.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/20px-Wikipedia-logo.png" width="20" height="20" /></a> <a href="http://de.wikipedia.org/wiki/Die_beiden_Wanderer" class="extiw" title="w:Die beiden Wanderer">Artikel in der Wikipedia</a></center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center>[[Bild:|250px]]</center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center><span class="extimg"><a href="/wiki/Datei:Wikimedia-button-for-homepage.png" class="image" title="{{{EXTERNESBILD}}}"><img alt="{{{EXTERNESBILD}}}" src="http://upload.wikimedia.org/wikipedia/commons/8/8b/Wikimedia-button-for-homepage.png" width="250" height="88" /></a></span></center>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Bearbeitungsstand</th>
+</tr>
+<tr>
+<td colspan="2" align="center"><span style="color:#669966;"><b>fertig</b></span></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color: #f3f3f3;" align="justify">
+<div style="font-size:80%; height:auto; color:#669966;"><b>Fertig!</b> Dieser Text wurde zweimal anhand der Quelle <a href="/wiki/Hilfe:Korrekturlesen" title="Hilfe:Korrekturlesen">Korrektur gelesen</a>. Die Schreibweise folgt dem Originaltext.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9"><span style="font-size:85%; color:#009900">Um eine Seite zu bearbeiten, brauchst du nur auf die entsprechende [Seitenzahl] zu klicken. Weitere Informationen findest du hier: <a href="/wiki/Wikisource:Proofread" title="Wikisource:Proofread"><b>Hilfe</b></a></span></th>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9" align="center"><span id="textdaten_index"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_2_(1843)" title="Index:Kinder- und Haus-Märchen Band 2 (1843)">Link zur Indexseite</a></span></th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-bottom: solid 1px #aaa; font-size: 95%; padding-bottom:0.5em">
+<table style="background-color: transparent;">
+<tr>
+<td style="width: 50px; vertical-align: middle"><a href="/wiki/Datei:Disambig-dark.svg" class="image" title="Begriffsklärung"><img alt="Begriffsklärung" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Disambig-dark.svg/30px-Disambig-dark.svg.png" width="30" height="23" /></a></td>
+<td>Andere Ausgaben unter diesem Titel siehe unter: <b><a href="/wiki/Die_beiden_Wanderer" title="Die beiden Wanderer">Die beiden Wanderer</a></b>.</td>
+</tr>
+</table>
+</div>
+<p><br /></p>
+<table>
+<tr>
+<td valign="top" style="text-align:justify; padding-left:10px; padding-right:10px; position:relative;"><span class="PageNumber" id="Seite_118" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_118.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 118.jpg">118</a></b>]</span>
+<div style="text-align:center; font-size:100%; line-height:20pt"><b>107.<br />
+Die beiden Wanderer.</b></div>
+<p>Berg und Thal begegnen sich nicht, wohl aber die Menschenkinder, zumal gute und böse. Es kam auch einmal ein Schuster und ein Schneider auf der Wanderschaft zusammen. Der Schneider war ein kleiner hübscher Kerl und immer lustig und guter Dinge. Er sah den Schuster von der anderen Seite herankommen, und da er an seinem Felleisen merkte was er für ein Handwerk trieb, rief er ihm ein Spottliedchen zu,</p>
+<div class="poem">
+<p>„nähe mir die Naht,<br />
+ziehe mir den Draht,<br />
+streich ihn rechts und links mit Pech,<br />
+schlag, schlag mir fest den Zweck.“</p>
+</div>
+<p>Der Schuster aber konnte keinen Spaß vertragen, er verzog ein Gesicht, als wenn er Essig getrunken hätte, und machte Miene das Schneiderlein am Kragen zu packen. Der kleine Kerl fieng aber an zu lachen, reichte ihm seine Flasche und sprach „es ist nicht bös gemeint, trink einmal, und schluck die Galle hinunter.“ Der Schuster that einen gewaltigen Schluck, und das Gewitter auf seinem Gesicht fieng an sich zu verziehen. Er gab dem Schneider die Flasche zurück, und sagte „ich habe ihr ordentlich zugesprochen, man sagt wohl vom vielen Trinken aber nicht <span class="PageNumber" id="Seite_119" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_119.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 119.jpg">119</a></b>]</span> vom großen Durst. Wollen wir zusammen wandern?“ „Mir ists recht,“ antwortete der Schneider, „wenn du nur Lust hast in eine große Stadt zu gehen, wo es nicht an Arbeit fehlt.“ „Gerade dahin wollte ich auch,“ antwortete der Schuster, „in einem kleinen Nest ist nichts zu verdienen, und auf dem Lande gehen die Leute lieber barfuß.“ Sie wanderten also zusammen weiter, und setzten immer einen Fuß vor den andern wie die Wiesel im Schnee.</p>
+<p>Zeit genug hatten sie beide, aber wenig zu beißen und zu brechen. Wenn sie in eine Stadt kamen, so giengen sie umher, und grüßten das Handwerk, und weil das Schneiderlein so frisch und munter aussah, und so hübsche rothe Backen hatte, so gab ihm jeder gerne, und wenn das Glück gut war, so gab ihm die Meisterstochter unter der Hausthüre auch noch einen Kuß auf den Weg. Wenn er mit dem Schuster wieder zusammen traf, so hatte er immer mehr in seinem Bündel. Der griesgrämige Schuster schnitt ein schiefes Gesicht, und meinte „je größer der Schelm, je größer das Glück.“ Aber der Schneider fieng an zu lachen und zu singen, und theilte alles, was er bekam, mit seinem Cameraden. Klingelten nun ein paar Groschen in seiner Tasche, so ließ er auftragen, schlug vor Freude auf den Tisch daß die Gläser tanzten, und es hieß bei ihm „leicht verdient und leicht verthan.“</p>
+<p>Als sie eine Zeitlang gewandert waren, kamen sie an einen großen Wald, durch welchen der Weg nach der Königsstadt gieng. Es führten aber zwei Fußsteige hindurch, davon war der eine sieben Tage lang, der andere nur zwei Tage, aber niemand von ihnen wußte, welcher der kürzere Weg war. Die zwei Wanderer setzten sich unter <span class="PageNumber" id="Seite_120" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_120.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 120.jpg">120</a></b>]</span> einen Eichenbaum, und berathschlagten wie sie sich vorsehen und für wie viel Tage sie Brot mitnehmen wollten. Der Schuster sagte „man muß weiter denken als man geht, ich will für sieben Tage Brot mit nehmen.“ „Was,“ sagte der Schneider, „für sieben Tage Brot auf dem Rücken schleppen wie ein Lastthier, und sich nicht umschauen? ich halte mich an Gott, und kehre mich an nichts. Das Geld, das ich in der Tasche habe, das ist im Sommer so gut als im Winter, aber das Brot wird in der heißen Zeit trocken und obendrein schimmelig. Mein Rock geht auch nicht länger als auf die Knöchel. Warum sollen wir den richtigen Weg nicht finden? Für zwei Tage Brot und damit gut.“ Es kaufte sich also ein jeder sein Brot, und dann giengen sie auf gut Glück in den Wald hinein.</p>
+<p>In dem Wald war es so still, wie in einer Kirche. Kein Wind wehte, kein Bach rauschte, kein Vogel sang, und durch die dichtbelaubten Äste drang kein Sonnenstrahl. Der Schuster sprach kein Wort, ihn drückte das schwere Brot auf dem Rücken, daß ihm der Schweiß über sein verdrießliches und finsteres Gesicht herabfloß. Der Schneider aber war ganz munter, sprang daher, pfiff auf einem Blatt, oder sang ein Liedchen, und dachte „Gott im Himmel muß sich freuen daß ich so lustig bin.“ Zwei Tage gieng das so fort, aber als am dritten Tag der Wald kein Ende nehmen wollte, und der Schneider sein Brot aufgegessen hatte, so fiel ihm das Herz doch eine Elle tiefer herab: indessen verlor er nicht den Muth, sondern verließ sich auf Gott und auf sein Glück. Den dritten Tag legte er sich Abends hungrig unter einen Baum, und stieg den andern Morgen hungrig wieder auf. So gieng <span class="PageNumber" id="Seite_121" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_121.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 121.jpg">121</a></b>]</span> es auch den vierten Tag, und wenn der Schuster sich auf einen umgestürzten Baum setzte, und seine Mahlzeit verzehrte, so blieb dem Schneider nichts als das Zusehen. Bat er um ein Stückchen Brot, so lachte der andere höhnisch, und sagte „du bist immer so lustig gewesen, da kannst du auch einmal versuchen wies thut wenn man unlustig ist. Die Vögel die Morgens zu früh singen, die stößt Abends der Habicht,“ und war ohne Barmherzigkeit. Aber am fünften Morgen konnte der arme Schneider nicht mehr aufstehen und vor Mattigkeit kaum ein Wort herausbringen; die Backen waren ihm weiß und die Augen roth. Da sagte der Schuster zu ihm „ich will dir heute ein Stück Brot geben, aber dafür will ich dir dein rechtes Auge ausstechen.“ Der unglückliche Schneider, der doch gerne sein Leben erhalten wollte, konnte sich nicht anders helfen: er weinte noch einmal mit beiden Augen, und hielt sie dann hin, und der Schuster, der ein Herz von Stein hatte, stach ihm mit einem scharfen Messer das rechte Auge aus. Dem Schneider kam in den Sinn was ihm sonst seine Mutter gesagt hatte, wenn er in der Speisekammer genascht hatte „essen so viel man mag, und leiden was man muß.“ Als er sein theuer bezahltes Brot verzehrt hatte, machte er sich wieder auf die Beine, vergaß sein Unglück, und tröstete sich damit daß er mit einem Auge noch immer genug sehen könnte. Aber am sechsten Tag meldete sich der Hunger aufs neue, und zehrte ihm bald das Herz auf. Er fiel Abends bei einem Baum nieder, und am siebenten Morgen konnte er sich vor Mattigkeit nicht erheben, und der Tod saß ihm im Nacken. Da sagte der Schuster „ich will Barmherzigkeit ausüben, und dir <span class="PageNumber" id="Seite_122" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_122.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 122.jpg">122</a></b>]</span> nochmals Brot geben, umsonst bekommst du es nicht, ich steche dir dafür das andere Auge noch aus.“ Da erkannte der Schneider sein leichtsinniges Leben, bat den lieben Gott um Verzeihung, und sprach „thue was du mußt, ich will leiden was ich muß, aber bedenke daß unser Herrgott nicht jeden Augenblick richtet, und daß eine andere Stunde kommt, wo die böse That vergolten wird, die du an mir verübst und die ich nicht an dir verdient habe. Ich habe in guten Tagen mit dir getheilt was ich hatte. Mein Handwerk ist der Art daß Stich muß Stich vertreiben. Wenn ich keine Augen mehr habe und nicht mehr nähen kann, so muß ich betteln gehen. Laß mich nur wenn ich blind bin, hier nicht allein liegen, sonst muß ich verschmachten.“ Der Schuster aber, der Gott aus seinem Herzen vertrieben hatte, nahm das Messer, und stach ihm noch das linke Auge aus. Dann gab er ihm ein Stück Brot zu essen, reichte ihm einen Stock, und führte ihn hinter sich her.</p>
+<p>Als die Sonne untergieng, kamen sie aus dem Wald, und vor dem Wald auf dem Feld stand ein Galgen. Dahin leitete der Schuster den blinden Schneider, ließ ihn dann liegen und gieng seiner Wege. Vor Müdigkeit, Schmerz und Hunger schlief der Unglückliche ein, und schlief die ganze Nacht. Als der Tag dämmerte, erwachte er, wußte aber nicht wo er lag. An dem Galgen hingen zwei arme Sünder, und auf dem Kopfe eines jeden saß eine Krähe. Da fieng der eine an zu sprechen „Bruder, wachst du?“ „Ja, ich wache“ antwortete der zweite. „So will ich dir etwas sagen,“ fieng der erste wieder an, „der Thau der heute Nacht über uns vom Galgen herabgefallen <span class="PageNumber" id="Seite_123" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_123.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 123.jpg">123</a></b>]</span> ist, der giebt jedem, der sich damit wäscht, die Augen wieder. Wenn das die Blinden wüßten, wie mancher könnte sein Gesicht wieder haben, der nicht glaubt daß das möglich sei.“ Als der Schneider das hörte, nahm er sein Taschentuch, drückte es auf das Gras, und als es mit dem Thau befeuchtet war, wusch er seine Augenhöhlen damit. Alsbald gieng in Erfüllung was der Gehenkte gesagt hatte, und ein paar frische und gesunde Augen füllten die Höhlen. Es dauerte nicht lange, so sah der Schneider die Sonne hinter den Bergen aufsteigen: vor ihm in der Ebene lag die große Königsstadt mit ihren prächtigen Thoren und hundert Thürmen, und die goldenen Knöpfe und Kreuze, die auf den Spitzen standen, fiengen an zu glühen. Er unterschied jedes Blatt an den Bäumen, erblickte die Vögel, die vorbei flogen, und die Mücken, die in der Luft tanzten. Er holte eine Nähnadel aus der Tasche, und als er den Zwirn einfädeln konnte, so gut als er es je gekonnt hatte, so sprang sein Herz vor Freude. Er warf sich auf seine Knie, dankte Gott für die erwiesene Gnade, und sprach seinen Morgensegen: er vergaß auch nicht für die armen Sünder zu bitten, die da hiengen, wie der Schwengel in der Glocke, und die der Wind aneinander schlug. Dann nahm er seinen Bündel auf den Rücken, vergaß bald das ausgestandene Herzeleid, und gieng unter Singen und Pfeifen weiter.</p>
+<p>Das erste was ihm begegnete, war ein braunes Füllen, das frei im Felde herumsprang. Er packte es an der Mähne, wollte sich aufschwingen, und in die Stadt reiten. Das Füllen aber bat um seine Freiheit. „Ich bin noch zu jung,“ sprach es, „auch ein leichter Schneider wie <span class="PageNumber" id="Seite_124" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_124.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 124.jpg">124</a></b>]</span> du, bricht mir den Rücken entzwei, laß mich laufen bis ich stark geworden bin. Es kommt vielleicht eine Zeit, wo ich dirs lohnen kann.“ „Lauf hin,“ sagte der Schneider, „ich sehe du bist auch so ein Springinsfeld.“ Er gab ihm noch einen Hieb mit der Gerte über den Rücken, daß es vor Freude mit den Hinterbeinen ausschlug, über Hecken und Gräben setzte, und in das Feld hineinjagte.</p>
+<p>Aber das Schneiderlein hatte seit gestern nichts gegessen. „Die Sonne,“ sprach er, „füllt mir zwar die Augen, aber das Brot nicht den Mund. Das erste was mir begegnet und halbweg genießbar ist, das muß herhalten.“ Indem schritt ein Storch ganz ernsthaft über die Wiese daher. „Halt, halt,“ rief der Schneider, und packte ihn am Bein, „ich weiß nicht ob du zu genießen bist, aber mein Hunger erlaubt mir keine lange Wahl, ich muß dir den Kopf abschneiden, und dich braten.“ „Thue das nicht,“ antwortete der Storch, „ich bin ein heiliger Vogel, dem niemand ein Leid zufügt, und den Menschen großen Nutzen bringt. Läßt du mir mein Leben, so kann ich dirs ein andermal vergelten.“ „So zieh ab, Vetter Langbein“ sagte der Schneider. Der Storch erhob sich, ließ die langen Beine hängen, und flog gemächlich fort.</p>
+<p>„Was soll daraus werden?“ sagte der Schneider zu sich selbst, „mein Hunger wird immer größer und mein Magen immer leerer. Was mir jetzt in den Weg kommt, das ist verloren.“ Indem sah er auf einem Teich ein paar junge Enten daher schwimmen. „Ihr kommt ja wie gerufen,“ sagte er, packte eine davon, und wollte ihr den Hals umdrehen. Da fieng eine alte Ente, die in dem Schilf steckte, laut an zu kreischen, schwamm mit aufgesperrtem <span class="PageNumber" id="Seite_125" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_125.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 125.jpg">125</a></b>]</span> Schnabel herbei, und bat ihn flehentlich sich ihrer lieben Kinder zu erbarmen. „Denkst du nicht,“ sagte sie, „wie deine Mutter jammern würde, wenn dich einer wegholen und dir den Garaus machen wollte.“ „Sei nur still,“ sagte der gutmüthige Schneider, „du sollst deine Kinder behalten,“ und setzte die Gefangene wieder ins Wasser.</p>
+<p>Als er sich umkehrte, stand er vor einem alten Baum, der halb hohl war, und sah die wilden Bienen aus- und einfliegen. „Da finde ich gleich den Lohn für meine gute That“ sagte der Schneider, „der Honig wird mich laben.“ Aber der Weisel kam heraus, drohte und sprach „wenn du mein Volk anrührst, und mein Nest zerstörst, so sollst du so gestochen werden, daß du aus der Haut fahren möchtest. Läßt du uns aber in Ruhe, und gehst deiner Wege, so wollen wir dir ein andermal dafür einen Dienst leisten.“</p>
+<p>Das Schneiderlein sah daß auch hier nichts anzufangen war. „Drei Schüsseln leer,“ sagte er, „und auf der vierten nichts, das ist eine schlechte Mahlzeit.“ Er schleppte sich also mit seinem ausgehungerten Magen in die Stadt, und da es eben zu Mittag läutete, so war für ihn im Gasthaus schon gekocht, und er konnte sich gleich zu Tisch setzen. Als er satt war, sagte er „nun will ich auch arbeiten.“ Er gieng in der Stadt umher, suchte einen Meister, und fand auch bald ein gutes Unterkommen. Da er aber sein Handwerk von Grund aus gelernt hatte, so dauerte es nicht lange, er ward berühmt, und jeder wollte seinen neuen Rock von dem kleinen Schneider gemacht haben. Alle Tage nahm sein Ansehen zu. „Ich kann in meiner Kunst nicht weiter kommen,“ sprach er, „und <span class="PageNumber" id="Seite_126" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_126.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 126.jpg">126</a></b>]</span> doch gehts jeden Tag besser.“ Endlich bestellte ihn der König zu seinem Hofschneider.</p>
+<p>Aber wies in der Welt geht. An demselben Tag war sein ehemaliger Camerad, der Schuster, auch Hofschuster geworden. Als dieser den Schneider erblickte, und sah daß er wieder zwei gesunde Augen hatte, so peinigte ihn das Gewissen. „Ehe er Rache an mir nimmt,“ dachte er bei sich selbst, „muß ich ihm eine Grube graben.“ Wer aber andern eine Grube gräbt, fällt selbst hinein. Abends, als er Feierabend gemacht hatte, und es dämmerig geworden war, schlich er sich zu dem König, und sagte „Herr König, der Schneider ist ein übermüthiger Mensch, und hat sich vermessen er wollte die goldene Krone wieder herbei schaffen, die vor alten Zeiten ist verloren gegangen.“ „Das sollte mir lieb sein“ sprach der König, ließ den Schneider am andern Morgen vor sich fordern, und befahl ihm die Krone wieder herbeizuschaffen, oder für immer die Stadt zu verlassen. „Oho,“ dachte der Schneider, „ein Schelm giebt mehr als er hat. Wenn der murrköpfige König von mir verlangt was kein Mensch leisten kann, so will ich nicht warten bis morgen, sondern gleich heute wieder zur Stadt hinaus wandern.“ Er schnürte also sein Bündel, als er aber aus dem Thor heraus war, so that es ihm doch leid daß er sein Glück aufgeben und die Stadt, in der es ihm so wohl gegangen war, mit dem Rücken ansehen sollte. Er kam zu dem Teich, wo er mit den Enten Bekanntschaft gemacht hatte, da saß gerade die Alte, der er ihre Jungen gelassen hatte, am Ufer, und putzte sich mit dem Schnabel. Sie erkannte ihn gleich, und fragte warum er den Kopf so hängen lasse? „Du <span class="PageNumber" id="Seite_127" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_127.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 127.jpg">127</a></b>]</span> wirst dich nicht wundern, wenn du hörst was mir begegnet ist“ antwortete der Schneider, und erzählte ihr sein Schicksal. „Wenns weiter nichts ist,“ sagte die Ente, „da können wir Rath schaffen. Die Krone ist ins Wasser gefallen, und liegt unten auf dem Grund, wie bald haben wir sie wieder heraufgeholt. Breite nur derweil dein Taschentuch ans Ufer aus.“ Sie tauchte mit ihren zwölf Jungen unter, und nach fünf Minuten war sie wieder oben, und saß mitten in der Krone, die auf ihren Fittigen ruhte, und die zwölf Jungen schwammen rund herum, hatten ihre Schnäbel untergelegt, und halfen tragen. Sie schwammen ans Land, und legten die Krone auf das Tuch. Du glaubst nicht wie prächtig die Krone war, wenn die Sonne darauf schien, so glänzte sie wie hunderttausend Karfunkelsteine. Der Schneider band sein Tuch mit den vier Zipfeln zusammen, und trug sie zum König, der in einer Freude war, und dem Schneider eine goldene Kette um den Hals hieng.</p>
+<p>Als der Schuster sah daß der eine Streich mislungen war, so besann er sich auf einen zweiten, trat vor den König und sprach „Herr König, der Schneider ist wieder so übermüthig geworden, er vermißt sich das ganze königliche Schloß mit allem was darin ist, los und fest, innen und außen, in Wachs abzubilden.“ Der König ließ den Schneider kommen, und befahl ihm das ganze königliche Schloß mit allem was darin wäre, los und fest, innen und außen, in Wachs abzubilden und wenn er es nicht zu Stande brächte, oder es fehlte nur ein Nagel an der Wand, so sollte er zeitlebens unter der Erde gefangen sitzen. Der Schneider dachte „es kommt immer ärger, das hält kein <span class="PageNumber" id="Seite_128" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_128.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 128.jpg">128</a></b>]</span> Mensch aus,“ warf sein Bündel auf den Rücken, und wanderte fort. Als er an den hohlen Baum kam, setzte er sich nieder, und ließ den Kopf hängen. Die Bienen kamen heraus geflogen, und der Weisel fragte ihn ob er einen steifen Hals hätte, weil er den Kopf so schief hielt. „Ach nein,“ antwortete der Schneider, „mich drückt etwas anderes,“ und erzählte was der König von ihm gefordert hatte. Die Bienen fiengen an unter einander zu summen und zu brummen, und der Weisel sprach „geh nur wieder nach Haus, komm aber Morgen um diese Zeit wieder und bring ein großes Tuch mit, so wird alles gut gehen.“ Da kehrte er wieder um, die Bienen aber flogen nach dem königlichen Schloß, geradezu in die offenen Fenster hinein, krochen in allen Ecken herum, und besahen alles aufs genauste. Dann eilten sie zurück, und bildeten das Schloß in Wachs nach mit einer solchen Geschwindigkeit daß man meinte es wüchse einem vor den Augen. Schon am Abend war alles fertig, und als der Schneider am folgenden Morgen kam, so stand das ganze prächtige Gebäude da, und es fehlte kein Nagel an der Wand und keine Ziegel auf dem Dach; dabei war es zart und schneeweiß, und roch süß wie Honig. Der Schneider packte es vorsichtig in sein Tuch, und brachte es dem König, der aber konnte sich nicht genug verwundern, stellte es in seinem größten Saal auf, und schenkte dem Schneider dafür ein großes steinernes Haus.</p>
+<p>Der Schuster aber ließ nicht nach, gieng zum drittenmal zu dem König, und sprach „Herr König, dem Schneider ist zu Ohren gekommen daß auf dem Schloßhof kein Wasser springen will, da hat er sich vermessen es solle mitten <span class="PageNumber" id="Seite_129" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_129.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 129.jpg">129</a></b>]</span> im Hof mannshoch aufsteigen und hell sein wie Krystall.“ Da ließ der König den Schneider herbeiholen, und sagte „wenn nicht Morgen ein Strahl von Wasser in meinem Hof springt, wie du versprochen hast, so soll dich der Scharfrichter auf demselben Hof um einen Kopf kürzer machen.“ Der arme Schneider besann sich nicht lange, und eilte zum Thore hinaus, und weil es ihm diesmal ans Leben gehen sollte, so rollten ihm die Thränen über die Backen herab. Indem er so voll Trauer dahin gieng, kam das Füllen herangesprungen, dem er einmal die Freiheit geschenkt hatte, und aus dem ein hübscher Brauner geworden war. „Jetzt kommt die Stunde,“ sprach es zu ihm, „wo ich dir deine Gutthat vergelten kann. Ich weiß schon was dir fehlt, aber es soll dir bald geholfen werden, sitz nur auf, mein Rücken kann deiner zwei tragen.“ Dem Schneider kam das Herz wieder, er sprang in einem Satz auf, und das Pferd sprang in vollem Lauf zur Stadt hinein und geradezu auf den Schloßhof. Da jagte es dreimal rund herum, schnell wie der Blitz, und beim drittenmal stürzte es nieder. In dem Augenblick aber hörte man einen gewaltigen Krach: ein Stück Erde sprang in der Mitte des Hofs wie eine Kugel in die Luft, und über das Schloß hinaus, und gleich dahinter her erhob sich ein Strahl von Wasser so hoch wie Mann und Pferd, und das Wasser war so rein wie Krystall, und die Sonnenstrahlen fiengen an darauf zu tanzen. Als der König das sah, stand er vor Verwunderung auf, gieng und umarmte das Schneiderlein im Angesicht aller Menschen.</p>
+<p>Aber das Glück dauerte nicht lang. Der König hatte Töchter genug, eine immer schöner als die andere, aber <span class="PageNumber" id="Seite_130" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_130.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 130.jpg">130</a></b>]</span> keinen Sohn. Da begab sich der boshafte Schuster zum viertenmal zu dem Könige, und sprach „Herr König, der Schneider läßt nicht ab von seinem Übermuth. Jetzt hat er sich vermessen, wenn er wolle, so könne er dem Herrn König einen Sohn durch die Lüfte herbeitragen lassen.“ Der König ließ den Schneider rufen, und sprach „wenn du mir binnen neun Tagen einen Sohn bringen läßt, so sollst du meine älteste Tochter zur Frau haben.“ „Der Lohn ist freilich groß,“ dachte das Schneiderlein, „da thäte man wohl ein übriges, aber die Kirschen hängen mir zu hoch: wenn ich danach steige, so bricht unter mir der Ast, und ich falle herab.“ Er gieng nach Haus, setzte sich mit untergeschlagenen Beinen auf seinen Arbeitstisch, und bedachte sich was zu thun wäre. „Es geht nicht,“ rief er endlich aus, „ich will fort, hier kann ich doch nicht in Ruhe leben.“ Er schnürte sein Bündel, und eilte zum Thore hinaus. Als er auf die Wiesen kam, erblickte er seinen alten Freund, den Storch, der da, wie ein Weltweiser, auf und abgieng, zuweilen still stand, einen Frosch in nähere Betrachtung nahm, und ihn endlich verschluckte. Der Storch kam heran, und begrüßte ihn. „Ich sehe,“ hub er an, „du hast deinen Ranzen auf dem Rücken, warum willst du die Stadt verlassen?“ Der Schneider erzählte ihm was der König von ihm verlangt hatte und er nicht erfüllen konnte, und jammerte über sein Misgeschick. „Laß dir darüber keine grauen Haare wachsen,“ sagte der Storch, „ich will dir aus der Noth helfen. Schon lange bringe ich die Wickelkinder in die Stadt, da kann ich auch einmal einen kleinen Prinzen aus dem Brunnen holen. Geh heim und verhalte dich ruhig. Heut über <span class="PageNumber" id="Seite_131" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_II_131.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1843 II 131.jpg">131</a></b>]</span> neun Tage begieb dich in das königliche Schloß, da will ich kommen.“ Das Schneiderlein gieng nach Haus, und war zu rechter Zeit in dem Schloß. Nicht lange, so kam der Storch heran geflogen und klopfte ans Fenster. Der Schneider öffnete ihm, und Vetter Langbein stieg vorsichtig herein, und gieng mit gravitätischen Schritten über den glatten Marmorboden; er hatte aber ein Kind im Schnabel, das schön war wie ein Engel, und seine Händchen nach der Königin ausstreckte. Der Storch nahm, bevor er wieder wegflog, seine Reisetasche von der Schulter herab, und überreichte sie der Königin. Es steckten Düten darin mit bunten Zuckererbsen, die wurden unter die kleinen Prinzessinnen vertheilt. Die älteste aber erhielt nichts, sondern bekam den lustigen jungen Schneider zum Mann. „Es ist mir geradeso,“ sprach der Schneider, „als wenn ich das große Loos gewonnen hätte. Meine Mutter hatte doch recht, die sagte immer wer auf Gott vertraut und nur Glück hat, dem kanns nicht fehlen.“</p>
+<p>Der Schuster mußte die Schuhe machen, in welchen das Schneiderlein auf dem Hochzeitfest tanzte, hernach ward ihm befohlen die Stadt auf immer zu verlassen. Der Weg nach dem Wald führte ihn zu dem Galgen. Von Zorn, Wuth und der Hitze des Tages ermüdet, warf er sich nieder. Als er die Augen zumachte, und schlafen wollte, stürzten die beiden Krähen von den Köpfen der Gehenkten mit lautem Geschrei herab, und hackten ihm die Augen aus. Unsinnig rannte er in den Wald, und muß darin verschmachtet sein, denn es hat ihn niemand wieder gesehen, oder etwas von ihm gehört.</p>
+<p><br /></p>
+</td>
+</tr>
+</table>
+<p><span class="AndereVersion" id="av_Die_beiden_Wanderer_.281850.29" title="Die beiden Wanderer (1850)|Ausgabe 1850" style="display:none;"></span> <span class="AndereVersion" id="av_Die_beiden_Wanderer_.281857.29" title="Die beiden Wanderer (1857)|Ausgabe 1857" style="display:none;"></span> <span class="AndereVersion" title="_line" id="_line" style="display:none;"></span> <span class="AndereVersion" id="av_Kinder-_und_Haus-M.C3.A4rchen_Band_3_.281856.29.2FAnmerkungen.23107" title="Kinder- und Haus-Märchen Band 3 (1856)/Anmerkungen#107|Kommentar 1856" style="display:none;"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 987/1000000
+Post-expand include size: 83705/2048000 bytes
+Template argument size: 4523/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key dewikisource:pcache:idhash:135260-0!1!0!!de!4!edit=0 and timestamp 20101211132931 -->
+<div class="printfooter">
+Von „<a href="http://de.wikisource.org/wiki/Die_beiden_Wanderer_(1843)">http://de.wikisource.org/wiki/Die_beiden_Wanderer_(1843)</a>“</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Spezial:Kategorien" title="Spezial:Kategorien">Kategorien</a>: <span dir='ltr'><a href="/wiki/Kategorie:Fertig" title="Kategorie:Fertig">Fertig</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Werke" title="Kategorie:Werke">Werke</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:1840er_Jahre" title="Kategorie:1840er Jahre">1840er Jahre</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutschland" title="Kategorie:Deutschland">Deutschland</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen" title="Kategorie:Märchen">Märchen</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen_Grimm_(1843)" title="Kategorie:Märchen Grimm (1843)">Märchen Grimm (1843)</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutsche_Philologie" title="Kategorie:Deutsche Philologie">Deutsche Philologie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Neuhochdeutsch" title="Kategorie:Neuhochdeutsch">Neuhochdeutsch</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Persönliche Werkzeuge</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Die_beiden_Wanderer_(1843)" title="Sich anzumelden wird zwar gerne gesehen, ist aber keine Pflicht. [o]" accesskey="o">Anmelden / Benutzerkonto erstellen</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namensräume</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/Die_beiden_Wanderer_(1843)"  title="Seiteninhalt anzeigen [c]" accesskey="c"><span>Quellentext</span></a></li>
+					<li  id="ca-talk" class="new"><a href="/w/index.php?title=Diskussion:Die_beiden_Wanderer_(1843)&amp;action=edit&amp;redlink=1"  title="Diskussion zum Seiteninhalt [t]" accesskey="t"><span>Diskussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Varianten</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Ansichten</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Die_beiden_Wanderer_(1843)" ><span>Lesen</span></a></li>
+					<li id="ca-viewsource"><a href="/w/index.php?title=Die_beiden_Wanderer_(1843)&amp;action=edit"  title="Diese Seite ist geschützt. Der Quelltext kann angesehen werden. [e]" accesskey="e"><span>Quelltext anzeigen</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Die_beiden_Wanderer_(1843)&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h"><span>Versionsgeschichte</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Aktionen</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Suche</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Spezial:Suche"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Wikisource durchsuchen [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Suche nach Seiten, die diesen Text enthalten"><img src="http://bits.wikimedia.org/skins-1.5/vector/images/search-ltr.png?283-16" alt="Suchen" /></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikisource/de/b/bc/Wiki.png);" href="/wiki/Hauptseite"  title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="/wiki/Hauptseite" title="Hauptseite anzeigen [z]" accesskey="z">Hauptseite</a></li>
+					<li id="n-contents"><a href="/wiki/Wikisource:Systematik">Systematischer Einstieg</a></li>
+					<li id="n-authors"><a href="/wiki/Kategorie:Autoren">Autorenindex</a></li>
+					<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite [x]" accesskey="x">Zufällige Seite</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Mitmachen -->
+<div class="portal" id='p-Mitmachen'>
+	<h5>Mitmachen</h5>
+	<div class="body">
+				<ul>
+					<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikisource [r]" accesskey="r">Letzte Änderungen</a></li>
+					<li id="n-Neuer-Artikel"><a href="/wiki/Vorlage:Neuer_Artikel">Neuer Artikel</a></li>
+					<li id="n-Korrekturen-des-Monats"><a href="/wiki/Vorlage:Reviewtext">Korrekturen des Monats</a></li>
+					<li id="n-Portal"><a href="/wiki/Wikisource:Portal">Gemeinschafts-Portal</a></li>
+					<li id="n-Skriptorium"><a href="/wiki/Wikisource:Skriptorium">Skriptorium</a></li>
+					<li id="n-Auskunft"><a href="/wiki/Wikisource:Auskunft">Auskunft</a></li>
+					<li id="n-Hilfe"><a href="/wiki/Wikisource:Hilfe">Hilfe</a></li>
+					<li id="n-Spenden"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=de&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001">Spenden</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /Mitmachen -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Drucken/exportieren</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=book_creator&amp;referer=Die+beiden+Wanderer+%281843%29" title="Ein Buch oder eine Artikelsammlung erstellen" rel="nofollow">Buch erstellen</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=render_article&amp;arttitle=Die+beiden+Wanderer+%281843%29&amp;oldid=1159199&amp;writer=rl" title="Eine PDF-Version dieser Wikiseite herunterladen" rel="nofollow">Als PDF herunterladen</a></li><li id="t-print"><a href="/w/index.php?title=Die_beiden_Wanderer_(1843)&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Werkzeuge</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Die_beiden_Wanderer_(1843)" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Die_beiden_Wanderer_(1843)" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+																																					<li id="t-upload"><a href="http://commons.wikimedia.org/wiki/Special:Upload?uselang=de" title="Dateien hochladen [u]" accesskey="u">Datei hochladen</a></li>
+											<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Die_beiden_Wanderer_(1843)&amp;oldid=1159199" title="Dauerhafter Link zu dieser Seitenversion">dauerhafter Link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Die_beiden_Wanderer_(1843)&amp;id=1159199" title="Hinweis, wie diese Seite zitiert werden kann">Diese Seite zitieren</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 2. Juli 2010 um 22:07 Uhr geändert.</li>
+																							<li id="footer-info-copyright"> </li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://de.wikipedia.org/wiki/Wikipedia:Datenschutz" title="w:Wikipedia:Datenschutz">Datenschutz</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikisource:%C3%9Cber" title="Wikisource:Über">Über Wikisource</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:Impressum" title="Wikisource:Impressum">Impressum</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- Served by srv235 in 0.449 secs. -->			</body>
+</html>

@@ -1,0 +1,523 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" dir="ltr">
+<head>
+<title>Van den Fischer un siine Fru (1837) – Wikisource</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (de)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikisource“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?283-16" type="text/css" media="print" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?117" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://de.wikisource.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Van_den_Fischer_un_siine_Fru_(1837)",
+wgTitle="Van den Fischer un siine Fru (1837)",
+wgAction="view",
+wgArticleId=96127,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="de",
+wgContentLanguage="de",
+wgBreakFrames=false,
+wgCurRevisionId=1364406,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=[",	.", ".	,"],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Hauptseite",
+wgFormattedNamespaces={"-2": "Media", "-1": "Spezial", "0": "", "1": "Diskussion", "2": "Benutzer", "3": "Benutzer Diskussion", "4": "Wikisource", "5": "Wikisource Diskussion", "6": "Datei", "7": "Datei Diskussion", "8": "MediaWiki", "9": "MediaWiki Diskussion", "10": "Vorlage", "11": "Vorlage Diskussion", "12": "Hilfe", "13": "Hilfe Diskussion", "14": "Kategorie", "15": "Kategorie Diskussion", "102": "Seite", "103": "Seite Diskussion", "104": "Index", "105": "Index Diskussion"},
+wgNamespaceIds={"media": -2, "spezial": -1, "": 0, "diskussion": 1, "benutzer": 2, "benutzer_diskussion": 3, "wikisource": 4, "wikisource_diskussion": 5, "datei": 6, "datei_diskussion": 7, "mediawiki": 8, "mediawiki_diskussion": 9, "vorlage": 10, "vorlage_diskussion": 11, "hilfe": 12, "hilfe_diskussion": 13, "kategorie": 14, "kategorie_diskussion": 15, "seite": 102, "seite_diskussion": 103, "index": 104, "index_diskussion": 105, "bild": 6, "bild_diskussion": 7, "ws": 4, "image": 6, "image_talk": 7},
+wgSiteName="Wikisource",
+wgCategories=["Fertig", "Werke", "1830er Jahre", "Deutschland", "Märchen", "Märchen Grimm (1837)", "Deutsche Philologie", "Niederdeutsch"],
+wgDBname="dewikisource",
+wgMWSuggestTemplate="http://de.wikisource.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0, 102, 104],
+wgMWSuggestMessages=["mit Vorschlägen", "keine Vorschläge"],
+wgRestrictionEdit=["autoconfirmed"],
+wgRestrictionMove=["autoconfirmed"],
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+Geo={"city": "", "country": ""},
+wgNoticeProject="wikisource";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?283-16"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="/w/extensions/ProofreadPage/proofread_article.js?26"></script>
+<script type="text/javascript"> 
+var prp_source = "Quelle";
+var prp_source_message = "Zur Erstellung dieses Texts wurde die gescannte Ausgabe benutzt.";
+</script>
+
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?283-16" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'Weitere Sprachen','vector-editwarning-warning':'Das Verlassen dieser Seite kann dazu führen, dass die Änderungen verloren gehen.\nAls angemeldeter Benutzer kann das Anzeigen dieser Warnung im „Bearbeiten“-Bereich der Einstellungen abgeschaltet werden.','vector-simplesearch-search':'Suche','vector-simplesearch-containing':'Volltextsuche nach …'});</script>
+<script src="/w/index.php?title=Spezial:BannerController&amp;cache=/cn.js&amp;283-16" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;283-16" type="text/javascript"></script>
+
+</head>
+<body class="mediawiki ltr capitalize-all-nouns ns-0 ns-subject page-Van_den_Fischer_un_siine_Fru_1837 skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Van den Fischer un siine Fru (1837)</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">aus Wikisource, der freien Quellensammlung</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"><table style="line-height:40%;visibility:hidden;" border=0 cellpadding=0 cellspacing=0 ><tr>
+<td align=center > </td>
+<td align=center class='quality4' width="100"></td>
+<td align=center class='quality3' width="0"></td>
+<td align=center class='quality2' width="0"></td>
+<td align=center class='quality1' width="0"></td>
+<td align=center class='quality0' width="0"></td>
+<!-- <td ><span id=pr_index style="visibility:hidden;"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1837)" title="Index:Kinder- und Haus-Märchen Band 1 (1837)">[index]</a></span></td> -->
+</tr></table></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Wechseln zu: <a href="#mw-head">Navigation</a>,
+					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div id="textdaten" style="float:right;" class="noprint">
+<table width="280px" style="margin:0;margin-left:0.5em;margin-bottom:0.5em;">
+<tr>
+<td>
+<table width="100%" border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse; border-style:1px solid; border-color:#AAAAAA; background-color:#fff; font-size:100%; color:#191919">
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Textdaten</th>
+</tr>
+<tr valign="top">
+<th width="50%" align="left"><a href="/wiki/Strohhalm,_Kohle_und_Bohne_(1837)" title="Strohhalm, Kohle und Bohne (1837)"><b>&lt;&lt;&lt;</b></a></th>
+<th width="50%" align="right"><a href="/wiki/Das_tapfere_Schneiderlein_(1837)" title="Das tapfere Schneiderlein (1837)"><b>&gt;&gt;&gt;</b></a></th>
+</tr>
+<tr valign="top">
+<td width="40%">Autor:</td>
+<td width="60%"><b><a href="/wiki/Philipp_Otto_Runge" title="Philipp Otto Runge">Philipp Otto Runge</a> / <a href="/wiki/Br%C3%BCder_Grimm" title="Brüder Grimm">Brüder Grimm</a></b></td>
+</tr>
+<tr valign="top">
+<td>Titel:</td>
+<td><b>Van den Fischer un siine Fru</b></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Untertitel:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>aus:</td>
+<td><a href="/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1837)" title="Kinder- und Haus-Märchen Band 1 (1837)">Kinder- und Hausmärchen</a>.<br />
+Große Ausgabe.<br />
+Bd. 1, S. 117-124</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Herausgeber:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Auflage:</td>
+<td>3. Auflage</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Entstehungsdatum:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsdatum:</td>
+<td>1837</td>
+</tr>
+<tr valign="top">
+<td>Verlag:</td>
+<td>Dieterichische Buchhandlung</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Drucker:</td>
+<td>{{{DRUCKER}}}</td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsort:</td>
+<td>Göttingen</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Übersetzer:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originaltitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalsubtitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalherkunft:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Quelle:</td>
+<td><a href="http://resolver.sub.uni-goettingen.de/purl?PPN51480114X" class="external text" rel="nofollow">DigiWunschbuch</a> und <a href="http://commons.wikimedia.org/wiki/Category:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1" class="extiw" title="commons:Category:Kinder und Hausmärchen (Grimm) 1837 V1">Scans auf Commons</a></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Kurzbeschreibung:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td colspan="2">seit 1812: KHM 19</td>
+</tr>
+<tr valign="top">
+<td colspan="2">
+<center><a href="/wiki/Datei:Wikipedia-logo.png" class="image"><img alt="Wikipedia-logo.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/20px-Wikipedia-logo.png" width="20" height="20" /></a> <a href="http://de.wikipedia.org/wiki/Von_dem_Fischer_un_syner_Fru" class="extiw" title="w:Von dem Fischer un syner Fru">Artikel in der Wikipedia</a></center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center>[[Bild:|250px]]</center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center><span class="extimg"><a href="/wiki/Datei:Wikimedia-button-for-homepage.png" class="image" title="{{{EXTERNESBILD}}}"><img alt="{{{EXTERNESBILD}}}" src="http://upload.wikimedia.org/wikipedia/commons/8/8b/Wikimedia-button-for-homepage.png" width="250" height="88" /></a></span></center>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Bearbeitungsstand</th>
+</tr>
+<tr>
+<td colspan="2" align="center"><span style="color:#669966;"><b>fertig</b></span></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color: #f3f3f3;" align="justify">
+<div style="font-size:80%; height:auto; color:#669966;"><b>Fertig!</b> Dieser Text wurde zweimal anhand der Quelle <a href="/wiki/Hilfe:Korrekturlesen" title="Hilfe:Korrekturlesen">Korrektur gelesen</a>. Die Schreibweise folgt dem Originaltext.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9"><span style="font-size:85%; color:#009900">Um eine Seite zu bearbeiten, brauchst du nur auf die entsprechende [Seitenzahl] zu klicken. Weitere Informationen findest du hier: <a href="/wiki/Wikisource:Proofread" title="Wikisource:Proofread"><b>Hilfe</b></a></span></th>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9" align="center"><span id="textdaten_index"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1837)" title="Index:Kinder- und Haus-Märchen Band 1 (1837)">Link zur Indexseite</a></span></th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-bottom: solid 1px #aaa; font-size: 95%; padding-bottom:0.5em">
+<table style="background-color: transparent;">
+<tr>
+<td style="width: 50px; vertical-align: middle"><a href="/wiki/Datei:Disambig-dark.svg" class="image" title="Begriffsklärung"><img alt="Begriffsklärung" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Disambig-dark.svg/30px-Disambig-dark.svg.png" width="30" height="23" /></a></td>
+<td>Andere Ausgaben unter diesem Titel siehe unter: <b><a href="/wiki/Vom_Fischer_und_seiner_Frau" title="Vom Fischer und seiner Frau">Vom Fischer und seiner Frau</a></b>.</td>
+</tr>
+</table>
+</div>
+<p><br /></p>
+<table>
+<tr>
+<td valign="top" style="text-align:justify; padding-left:10px; padding-right:10px; position:relative;"><span class="PageNumber" id="Seite_117" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_117.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 117.jpg">117</a></b>]</span>
+<div style="text-align:center"><b>19.</b></div>
+<br />
+<div style="text-align:center"><b>Van den Fischer un siine Fru.</b></div>
+<br />
+<p>Daar was mal eens een Fischer un siine Fru, de waanten tosamen in’n Pispott, dicht an de See, un de Fischer gieng alle Dage hen un angelt, un gieng he hen lange Tid.</p>
+<p>Daar satt he eens an de See bi de Angel, und sach in dat blanke Water, und he sach ümmer na de Angel: daar gieng de Angel to Grun’n, deep unner, un as he se herruttreckt, sa haalt he eenen groten Butt herut. De Butt sed to em „ick bidd di datt du mi lewen lättst: ick bin keen rechte Butt, ick bin een verwünscht Prins, sett mi wedder in dat Water, un laat mi swemmen.“ „Nu,“ sed de Mann, „du bruukst nich so veele Woord to maken, eenen Butt, de spreken kan, hadd ick doch woll swemmen laten.“ Daar sett’t he en wedder in dat Water, un de Butt gieng fuurts weg to Grun’n, un leet eenen langen Stripen Bloot hinner sich.</p>
+<p>De Mann averst gieng to siine Fru in’n Pispott, un vertellt eer, dat he eenen Butt fangen hadd, de hadd to em segt he weer een verwünscht Prins, daar hadd he em wedder swemmen laten. „Hest du di den nix wünscht?“ sed de Fru. „Nee,“ sed de Mann, „wat sull ick mi wünschen?“ „Ach,“ sed de Fru, dat is doch övel, ümmer in’n Pispott to wanen, dat is so <span class="PageNumber" id="Seite_118" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_118.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 118.jpg">118</a></b>]</span> stinkig und dreckig hier, ga du noch hen, un wünsch uns ne lütte Hütt.“ Den Mann was dat nich so recht, doch gieng he hen na de See, un as he hen kamm, so was de See gans geel un grön, da gieng he an dat Water staan, und sed</p>
+<div class="poem">
+<p>„Mandje, Mandje Timpe Te,<br />
+Buttje, Buttje in de See,<br />
+miine Fru, de Ilsebill,<br />
+will nich so as ick wol will.“</p>
+</div>
+<p>Daar kam de Butt answemmen un sed „na, wat will se denn? „Ach!“ sed de Mann, „ick hev di doch fangen hätt, nu sed miine Fru, ich hadd mi doch wat wünschen sullt, se mag nich meer in Pispott wanen, se wull geern ne Hütt hebben.“ „Ga man hen“ sed de Butt, „se is all daar in.“</p>
+<p>Daar gieng de Mann hen, un siine Fru stund in eene Hütt in de Döör, un sed to em „kumm man herin; sü, nu is dat doch veel beter.“ Und daar was eene Stuwe un Kammer un eene Kök daar in, un da achter was een lütte Gaaren mit allerhand Grönigkeiten, un een Hoff, da weeren Höner und Aanten. „Ach,“ sed de Mann, „nu willn wi vergnögt lewen.“ „Ja,“ sed de Fru, „wi willnt versöken.“</p>
+<p>So gieng dat nu woll een acht oder veertein Daag, daar sed de Fru „Mann, de Hütt wart mi to eng, de Hoff un Gaarn is to lütt, ich will in een grot steenern Slott wanen; ga hen tom Butt, he sall uns een Slott schaffen. Ach, Fru,“ sed de Mann, „de Butt hett uns eerst de Hütt gewen, ick mag nu nich all wedder kamen, den Butt mügt et verdreeten.“ „I <span class="PageNumber" id="Seite_119" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_119.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 119.jpg">119</a></b>]</span> watt,“ sed de Fru, „he kann dat recht good, un deit dat geern, ga du man hen.“ Daar gieng der Mann hen, und siin Hart was em so swar; as he awerst bi de See kam, was dat Water gans vigelett und grag und dunkelblag, doch was’t noch still, dar gieng he staan, un sed</p>
+<div class="poem">
+<p>„Mandje, Mandje Timpe Te,<br />
+Buttje, Buttje in de See,<br />
+miine Fru, de Ilsebill,<br />
+will nich so as ick wol will.“</p>
+</div>
+<p>„Na, wat will se denn?“ sed de Butt „Ach,“ sed de Mann, ganz bedrövd, „miine Fru will in een steenern Slott wanen.“ „Ga man hen, se steit vör de Döör,“ sed de Butt.</p>
+<p>Daar gieng de Mann hen, un siine Fru stund vör eenen groten Pallast. „Sü Mann,“ sed se, „wat is dat nu schön!“ Mit des giengen se tosamen herin, daar weeren so veel Bedeenters, un de Wände weeren all blank, un goldne Stööl un Dische weeren in de Stuw, un achter dat Slott was een Gaaren un Holt, woll eene halve Miil lang, daar in weeren Hirsche, Reeh un Hasen, un up den Hoff Köh- und Peerdställ „Ach,“ sed de Mann, nu willn wi ook in dat schöne Slott bliwen, un tofreden sin.“ „Dat willn wi uns bedenken,“ sedd de Fru, „un willn’t beschlapen.“ Mit des giengen se to Bed.</p>
+<p>Den annern Morgen waakt de Fru up, da was’t all Dag: da stödd se den Mann mit den Ellbagen in de Siid, un sed „Mann, stah up, wi möten König warden över all dat Land“ „Ach, Fru,“ sed de Mann, „wat wulln wi König warden, ick <span class="PageNumber" id="Seite_120" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_120.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 120.jpg">120</a></b>]</span> mag nich König sin.“ „Na, denn will ick König sin.“ „Ach, Fru,“ sed de Mann, „wo kannst du König sin, de Butt mügt dat nich doon.“ „Mann,“ sed de Fru, „ga stracks hen, ick möt König sin.“ Daar gieng de Mann, und was gans bedrövd dat siin Fru König warden wull. Un as he an de See kamm, was se all gans swartgrag, un dat Water geert so van unnen up. Daar gieng he staan, und sed</p>
+<div class="poem">
+<p>„Mandje, Mandje Timpe Te,<br />
+Buttje, Buttje in de See,<br />
+miine Fru, de Ilsebill,<br />
+will nich so as ick wol will.“</p>
+</div>
+<p>„Na, wat will se denn?“ sed de Butt. „Ach,“ sed de Mann, „miine Fru will König warden.“ „Ga man hen, se is’t all“ sed de Butt.</p>
+<p>Daar gieng de Mann hen, un as he na den Pallast kamm, da weren daar so veele Soldaten un Pauken un Trumpeten, un siine Fru satt up eenen hogen Troon von Gold un Demant, un had eene goldne Kron up, un up beiden Siiden bi eer daar stunden lös Jumfern, ümmer eene eenen Kops lüttjer as de annre. „Ach,“ sed de Mann, „bist du nu König?“ „Ja,“ sed se, „ick bin König.“ Un as he eer so ne Wile anseen had, so sed he „ach, Fru, wat leet dat schön, wenn du König bist, nu willn wi ook nich mehr wünschen.“ „Nee, Mann,“ sed se, „mi duurt dat all te lang, ick kan dat nich meer uthollen, König bin ick, nu möt ick ook Kaiser warden!“ „Ach, Fru,“ sed de Mann, „wat willst du Kaiser warden.“ „Mann,“ sed se, „ga tom Butt, ick <span class="PageNumber" id="Seite_121" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_121.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 121.jpg">121</a></b>]</span> wull Kaiser sin.“ „Ach, Fru,“ sed de Mann, „Kaiser kann he nich maken, ick mag den Butt dat nich segen.“ „Ick bin König,“ sed de Fru, „un du bist miin Mann, ga gliik hen.“ Daar gieng de Mann weg, un as he so gieng, dacht he „dit geit un geit nich good, Kaiser is to utverschamt, de Butt ward am Ende möde.“ Mit des kamm he an de See, dat Water was gans swart un dick, un et gieng so een Keekwind äver hen, dat dat sik so köret. Daar gieng he staan, un sed</p>
+<div class="poem">
+<p>„Mandje, Mandje Timpe Te,<br />
+Buttje, Buttje in de See,<br />
+miine Fru, de Ilsebill,<br />
+will nich so as ick wol will.“</p>
+</div>
+<p>„Na, wat will se denn?“ sed de Butt. „Ach,“ sed he, „miin Fru will Kaiser warden.“ Ga man hen,“ sed de Butt, „se is’t all.“</p>
+<p>Daar gieng de Mann hen, un as he daar kamm, so satt siine Fru up eenen seer hogen Troon, de was van een Stück Gold, un had eene grote Kroon up, de was wol twee Ellen hoch, bi eer up de Siiden daar stunnen de Trabanten, ümmer een lüttjer as de anner, von den allergrötsten Risen, bet to den lüttsten Dwark, de was man so lang, as miin lüttje Finger. Vor eer daar stunden so veele Fürsten und Graven, daar gieng de Mann unner staan, un sed „Fru, bist du nu Kaiser?“ „Ja,“ sed se, „ick bin Kaiser.“ „Ach,“ sed de Mann un sach se so recht an, „Fru, wat lett dat schön, wenn du Kaiser bist.“ „Mann,“ sed se, „wat steist du daar, ick bin nu Kaiser, nu Will ick äwerst ook Pabst warden.“ „Ach, Fru,“ sed de Mann, „wat <span class="PageNumber" id="Seite_122" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_122.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 122.jpg">122</a></b>]</span> willst du Pabst warden, Pabst is man eemal in de Christenheit. „Mann,“ sed se, „ick möt hüüt noch Pabst warden.“ „Ne Fru,“ sed he, „to Pabst kan de Butt nich maken, dat geit nich good.“ „Mann, wat Snack, kan he Kaiser maken, kan he ook Pabst maken, ga fuurts hen. Daar gieng de Mann hen, un em was gans flau, dee Knee un de Waden slakkerten em, un buten gieng de Wind, un dat Water was as kaakt dat, de Scheep schoten in de Noot, un dansten un sprungen up de Bülgen, doch was de Himmel in de Midde noch so’n beeten blag: awerst an de Siiden, daar toog dat so recht rood up, as een swaar Gewitter. Da gieng he recht vörzufft staan, un sed</p>
+<div class="poem">
+<p>„Mandje, Mandje Timpe Te,<br />
+Buttje, Buttje in de See,<br />
+miine Fru, de Ilsebill,<br />
+will nich so as ick wol will.“</p>
+</div>
+<p>„Na, wat will se denn?“ sed de Butt. „Ach,“ sed de Mann, „miin Fru will Pabst warden.“ „Ga man hen,“ sed de Butt, „se ist all.“</p>
+<p>Daar gieng he hen, un as he daar kamm, satt siine Fru up eenen Troon, de was twee Mil hoch, un had dree groote Kroonen up, un um eer da was so veel van geistlike Staat, un up he Siiden bi eer daar stunden twee Reegen Lichter, dat grötste so dick un grot as de aller grötste Torm, bet to dat alle lüttste Kökenlicht. „Fru,“ sed de Mann, un sach se so recht an, „bist du nu Pabst?“ „Ja,“ sed se, „ick bin Pabst.“ „Ach, Fru, sed de Mann, „wat lett dat schön, wenn du Pabst bist. Fru, nu <span class="PageNumber" id="Seite_123" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_123.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 123.jpg">123</a></b>]</span> wes tofreden, nu du Pabst bist, kannst du nix meer warden.“ „Dat will ick mi bedenken“ sed de Fru, daar giengen see beede to Bed, awerst se was nich tofreden, un de Girigkeit leet eer nich slapen, se dacht ümmer wat se noch wol warden wull. Mit des gieng de Sünn up. „ha,“ dacht se, as se se ut den Fenster so herup kamen sach, „kann ick nich ook de Sünn upgaan laten?“ Daar wurde se recht so grimmig, un stödd eeren Mann an, „Mann, ga hen tom Butt, ick will warden as de lewe Gott.“ De Mann was noch meist im Slap, awerst he verschrack sich so, dat he ut den Bed feel. „Ach, Fru,“ sed he, „ga in di un bliw Pabst.“ „Ne,“ sed de Fru, un reet sich dat Liivken up, „ick bin nich ruhig, un kan dat nich uthollen, wenn ick de Sünn un de Mann upgaan see, un kan se nich ook upgaan laten, ick möt warden as de lewe Gott.“ „Ach, Fru,“ sed de Mann, „dat kan de Butt nich, Kaiser un Pabst kan he maken, awerst dat kan he nich.“ „Mann,“ sed se, un sach so recht gräsig ut, „ick will warden as de lewe Gott, ga gliik hen tom Butt.“</p>
+<p>Dat fuur den Mann so dörch de Gleder, dat he bewt vör Angst, buten awer gieng de Storm, dat alle Böme un Felsen umweigten, un de Himmel was gans swart, un dat dunnert un blitzt: daar sach man in de See so swarte hoge Bülgen as Barg, un hadden haben all eene witte Kroon van Schuum up. Da sed he</p>
+<div class="poem">
+<p>„Mandje, Mandje Timpe Te,<br />
+Buttje, Buttje in de See,</p>
+</div>
+<div style="position:relative;"><span class="seitennummer PageNumber" id="Seite_124">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1837_V1_124.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1837 V1 124.jpg">124</a></b>]</span></div>
+<div class="poem">
+<p>miine Fru, de Ilsebill,<br />
+will nich so as ick wol will.“</p>
+</div>
+<p>Na, wat will se denn?“ sed de Butt. „Ach,“ sed he, „se will warden as de lewe Gott.“ „Ga man hen, se sitt allwedder in’n Pispott.“ Daar sitten se noch hüt up dissen Dag.</p>
+</td>
+</tr>
+</table>
+<p><span class="AndereVersion" id="av_Von_den_Fischer_und_siine_Fru_.281812.29" title="Von den Fischer und siine Fru (1812)|Ausgabe 1812" style="display:none;"></span> <span class="AndereVersion" id="av_Von_dem_Fischer_un_siine_Fru_.281819.29" title="Von dem Fischer un siine Fru (1819)|Ausgabe 1819" style="display:none;"></span> <span class="AndereVersion" id="av_Van_den_Fischer_und_siine_Fru_.281840.29" title="Van den Fischer und siine Fru (1840)|Ausgabe 1840" style="display:none;"></span> <span class="AndereVersion" id="av_Von_dem_Fischer_un_syner_Fru_.281843.29" title="Von dem Fischer un syner Fru (1843)|Ausgabe 1843" style="display:none;"></span> <span class="AndereVersion" id="av_Von_dem_Fischer_un_syner_Fru_.281850.29" title="Von dem Fischer un syner Fru (1850)|Ausgabe 1850" style="display:none;"></span> <span class="AndereVersion" id="av_Von_dem_Fischer_un_syner_Fru_.281857.29" title="Von dem Fischer un syner Fru (1857)|Ausgabe 1857" style="display:none;"></span> <span class="AndereVersion" title="_line" id="_line" style="display:none;"></span> <span class="AndereVersion" id="av_Kinder-_und_Haus-M.C3.A4rchen_Band_3_.281856.29.2FAnmerkungen.2319" title="Kinder- und Haus-Märchen Band 3 (1856)/Anmerkungen#19|Kommentar 1856" style="display:none;"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 854/1000000
+Post-expand include size: 41205/2048000 bytes
+Template argument size: 4272/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key dewikisource:pcache:idhash:96127-0!1!0!!de!4!edit=0 and timestamp 20101211131756 -->
+<div class="printfooter">
+Von „<a href="http://de.wikisource.org/wiki/Van_den_Fischer_un_siine_Fru_(1837)">http://de.wikisource.org/wiki/Van_den_Fischer_un_siine_Fru_(1837)</a>“</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Spezial:Kategorien" title="Spezial:Kategorien">Kategorien</a>: <span dir='ltr'><a href="/wiki/Kategorie:Fertig" title="Kategorie:Fertig">Fertig</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Werke" title="Kategorie:Werke">Werke</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:1830er_Jahre" title="Kategorie:1830er Jahre">1830er Jahre</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutschland" title="Kategorie:Deutschland">Deutschland</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen" title="Kategorie:Märchen">Märchen</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen_Grimm_(1837)" title="Kategorie:Märchen Grimm (1837)">Märchen Grimm (1837)</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutsche_Philologie" title="Kategorie:Deutsche Philologie">Deutsche Philologie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Niederdeutsch" title="Kategorie:Niederdeutsch">Niederdeutsch</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Persönliche Werkzeuge</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Van_den_Fischer_un_siine_Fru_(1837)" title="Sich anzumelden wird zwar gerne gesehen, ist aber keine Pflicht. [o]" accesskey="o">Anmelden / Benutzerkonto erstellen</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namensräume</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/Van_den_Fischer_un_siine_Fru_(1837)"  title="Seiteninhalt anzeigen [c]" accesskey="c"><span>Quellentext</span></a></li>
+					<li  id="ca-talk" class="new"><a href="/w/index.php?title=Diskussion:Van_den_Fischer_un_siine_Fru_(1837)&amp;action=edit&amp;redlink=1"  title="Diskussion zum Seiteninhalt [t]" accesskey="t"><span>Diskussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Varianten</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Ansichten</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Van_den_Fischer_un_siine_Fru_(1837)" ><span>Lesen</span></a></li>
+					<li id="ca-viewsource"><a href="/w/index.php?title=Van_den_Fischer_un_siine_Fru_(1837)&amp;action=edit"  title="Diese Seite ist geschützt. Der Quelltext kann angesehen werden. [e]" accesskey="e"><span>Quelltext anzeigen</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Van_den_Fischer_un_siine_Fru_(1837)&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h"><span>Versionsgeschichte</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Aktionen</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Suche</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Spezial:Suche"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Wikisource durchsuchen [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Suche nach Seiten, die diesen Text enthalten"><img src="http://bits.wikimedia.org/skins-1.5/vector/images/search-ltr.png?283-16" alt="Suchen" /></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikisource/de/b/bc/Wiki.png);" href="/wiki/Hauptseite"  title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="/wiki/Hauptseite" title="Hauptseite anzeigen [z]" accesskey="z">Hauptseite</a></li>
+					<li id="n-contents"><a href="/wiki/Wikisource:Systematik">Systematischer Einstieg</a></li>
+					<li id="n-authors"><a href="/wiki/Kategorie:Autoren">Autorenindex</a></li>
+					<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite [x]" accesskey="x">Zufällige Seite</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Mitmachen -->
+<div class="portal" id='p-Mitmachen'>
+	<h5>Mitmachen</h5>
+	<div class="body">
+				<ul>
+					<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikisource [r]" accesskey="r">Letzte Änderungen</a></li>
+					<li id="n-Neuer-Artikel"><a href="/wiki/Vorlage:Neuer_Artikel">Neuer Artikel</a></li>
+					<li id="n-Korrekturen-des-Monats"><a href="/wiki/Vorlage:Reviewtext">Korrekturen des Monats</a></li>
+					<li id="n-Portal"><a href="/wiki/Wikisource:Portal">Gemeinschafts-Portal</a></li>
+					<li id="n-Skriptorium"><a href="/wiki/Wikisource:Skriptorium">Skriptorium</a></li>
+					<li id="n-Auskunft"><a href="/wiki/Wikisource:Auskunft">Auskunft</a></li>
+					<li id="n-Hilfe"><a href="/wiki/Wikisource:Hilfe">Hilfe</a></li>
+					<li id="n-Spenden"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=de&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001">Spenden</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /Mitmachen -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Drucken/exportieren</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=book_creator&amp;referer=Van+den+Fischer+un+siine+Fru+%281837%29" title="Ein Buch oder eine Artikelsammlung erstellen" rel="nofollow">Buch erstellen</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=render_article&amp;arttitle=Van+den+Fischer+un+siine+Fru+%281837%29&amp;oldid=1364406&amp;writer=rl" title="Eine PDF-Version dieser Wikiseite herunterladen" rel="nofollow">Als PDF herunterladen</a></li><li id="t-print"><a href="/w/index.php?title=Van_den_Fischer_un_siine_Fru_(1837)&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Werkzeuge</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Van_den_Fischer_un_siine_Fru_(1837)" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Van_den_Fischer_un_siine_Fru_(1837)" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+																																					<li id="t-upload"><a href="http://commons.wikimedia.org/wiki/Special:Upload?uselang=de" title="Dateien hochladen [u]" accesskey="u">Datei hochladen</a></li>
+											<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Van_den_Fischer_un_siine_Fru_(1837)&amp;oldid=1364406" title="Dauerhafter Link zu dieser Seitenversion">dauerhafter Link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Van_den_Fischer_un_siine_Fru_(1837)&amp;id=1364406" title="Hinweis, wie diese Seite zitiert werden kann">Diese Seite zitieren</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 3. Dezember 2010 um 12:04 Uhr geändert.</li>
+																							<li id="footer-info-copyright"> </li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://de.wikipedia.org/wiki/Wikipedia:Datenschutz" title="w:Wikipedia:Datenschutz">Datenschutz</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikisource:%C3%9Cber" title="Wikisource:Über">Über Wikisource</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:Impressum" title="Wikisource:Impressum">Impressum</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- Served by srv242 in 0.386 secs. -->			</body>
+</html>

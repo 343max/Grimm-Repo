@@ -1,0 +1,475 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" dir="ltr">
+<head>
+<title>Der Teufel mit den drei goldenen Haaren (1843) – Wikisource</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (de)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikisource“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?283-16" type="text/css" media="print" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?117" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://de.wikisource.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)",
+wgTitle="Der Teufel mit den drei goldenen Haaren (1843)",
+wgAction="view",
+wgArticleId=134826,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="de",
+wgContentLanguage="de",
+wgBreakFrames=false,
+wgCurRevisionId=1168546,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=[",	.", ".	,"],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Hauptseite",
+wgFormattedNamespaces={"-2": "Media", "-1": "Spezial", "0": "", "1": "Diskussion", "2": "Benutzer", "3": "Benutzer Diskussion", "4": "Wikisource", "5": "Wikisource Diskussion", "6": "Datei", "7": "Datei Diskussion", "8": "MediaWiki", "9": "MediaWiki Diskussion", "10": "Vorlage", "11": "Vorlage Diskussion", "12": "Hilfe", "13": "Hilfe Diskussion", "14": "Kategorie", "15": "Kategorie Diskussion", "102": "Seite", "103": "Seite Diskussion", "104": "Index", "105": "Index Diskussion"},
+wgNamespaceIds={"media": -2, "spezial": -1, "": 0, "diskussion": 1, "benutzer": 2, "benutzer_diskussion": 3, "wikisource": 4, "wikisource_diskussion": 5, "datei": 6, "datei_diskussion": 7, "mediawiki": 8, "mediawiki_diskussion": 9, "vorlage": 10, "vorlage_diskussion": 11, "hilfe": 12, "hilfe_diskussion": 13, "kategorie": 14, "kategorie_diskussion": 15, "seite": 102, "seite_diskussion": 103, "index": 104, "index_diskussion": 105, "bild": 6, "bild_diskussion": 7, "ws": 4, "image": 6, "image_talk": 7},
+wgSiteName="Wikisource",
+wgCategories=["Fertig", "Werke", "1840er Jahre", "Deutschland", "Märchen", "Märchen Grimm (1843)", "Deutsche Philologie", "Neuhochdeutsch"],
+wgDBname="dewikisource",
+wgMWSuggestTemplate="http://de.wikisource.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0, 102, 104],
+wgMWSuggestMessages=["mit Vorschlägen", "keine Vorschläge"],
+wgRestrictionEdit=["autoconfirmed"],
+wgRestrictionMove=["autoconfirmed"],
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+Geo={"city": "", "country": ""},
+wgNoticeProject="wikisource";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?283-16"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="/w/extensions/ProofreadPage/proofread_article.js?26"></script>
+<script type="text/javascript"> 
+var prp_source = "Quelle";
+var prp_source_message = "Zur Erstellung dieses Texts wurde die gescannte Ausgabe benutzt.";
+</script>
+
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?283-16" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'Weitere Sprachen','vector-editwarning-warning':'Das Verlassen dieser Seite kann dazu führen, dass die Änderungen verloren gehen.\nAls angemeldeter Benutzer kann das Anzeigen dieser Warnung im „Bearbeiten“-Bereich der Einstellungen abgeschaltet werden.','vector-simplesearch-search':'Suche','vector-simplesearch-containing':'Volltextsuche nach …'});</script>
+<script src="/w/index.php?title=Spezial:BannerController&amp;cache=/cn.js&amp;283-16" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;283-16" type="text/javascript"></script>
+
+</head>
+<body class="mediawiki ltr capitalize-all-nouns ns-0 ns-subject page-Der_Teufel_mit_den_drei_goldenen_Haaren_1843 skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Der Teufel mit den drei goldenen Haaren (1843)</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">aus Wikisource, der freien Quellensammlung</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"><table style="line-height:40%;visibility:hidden;" border=0 cellpadding=0 cellspacing=0 ><tr>
+<td align=center > </td>
+<td align=center class='quality4' width="100"></td>
+<td align=center class='quality3' width="0"></td>
+<td align=center class='quality2' width="0"></td>
+<td align=center class='quality1' width="0"></td>
+<td align=center class='quality0' width="0"></td>
+<!-- <td ><span id=pr_index style="visibility:hidden;"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1843)" title="Index:Kinder- und Haus-Märchen Band 1 (1843)">[index]</a></span></td> -->
+</tr></table></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Wechseln zu: <a href="#mw-head">Navigation</a>,
+					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div id="textdaten" style="float:right;" class="noprint">
+<table width="280px" style="margin:0;margin-left:0.5em;margin-bottom:0.5em;">
+<tr>
+<td>
+<table width="100%" border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse; border-style:1px solid; border-color:#AAAAAA; background-color:#fff; font-size:100%; color:#191919">
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Textdaten</th>
+</tr>
+<tr valign="top">
+<th width="50%" align="left"><a href="/wiki/Der_singende_Knochen_(1843)" title="Der singende Knochen (1843)"><b>&lt;&lt;&lt;</b></a></th>
+<th width="50%" align="right"><a href="/wiki/L%C3%A4uschen_und_Fl%C3%B6hchen_(1843)" title="Läuschen und Flöhchen (1843)"><b>&gt;&gt;&gt;</b></a></th>
+</tr>
+<tr valign="top">
+<td width="40%">Autor:</td>
+<td width="60%"><b><a href="/wiki/Br%C3%BCder_Grimm" title="Brüder Grimm">Brüder Grimm</a></b></td>
+</tr>
+<tr valign="top">
+<td>Titel:</td>
+<td><b>Der Teufel mit den drei goldenen Haaren</b></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Untertitel:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>aus:</td>
+<td><a href="/wiki/Kinder-_und_Hausm%C3%A4rchen" title="Kinder- und Hausmärchen">Kinder- und Hausmärchen</a>. Große Ausgabe. <a href="/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1843)" title="Kinder- und Haus-Märchen Band 1 (1843)">Band 1</a>.<br />
+S. 176-184</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Herausgeber:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Auflage:</td>
+<td>Fünfte, stark vermehrte und verbesserte Auflage</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Entstehungsdatum:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsdatum:</td>
+<td>1843</td>
+</tr>
+<tr valign="top">
+<td>Verlag:</td>
+<td>Verlag der Dieterichschen Buchhandlung</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Drucker:</td>
+<td>{{{DRUCKER}}}</td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsort:</td>
+<td>Göttingen</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Übersetzer:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originaltitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalsubtitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalherkunft:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Quelle:</td>
+<td><a href="http://commons.wikimedia.org/wiki/Category:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1843_I" class="extiw" title="commons:Category:Kinder und Hausmärchen (Grimm) 1843 I">Scans auf Commons</a></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Kurzbeschreibung:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td colspan="2">seit 1812: KHM 29</td>
+</tr>
+<tr valign="top">
+<td colspan="2">
+<center><a href="/wiki/Datei:Wikipedia-logo.png" class="image"><img alt="Wikipedia-logo.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/20px-Wikipedia-logo.png" width="20" height="20" /></a> <a href="http://de.wikipedia.org/wiki/Der_Teufel_mit_den_drei_goldenen_Haaren" class="extiw" title="w:Der Teufel mit den drei goldenen Haaren">Artikel in der Wikipedia</a></center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center>[[Bild:|250px]]</center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center><span class="extimg"><a href="/wiki/Datei:Wikimedia-button-for-homepage.png" class="image" title="{{{EXTERNESBILD}}}"><img alt="{{{EXTERNESBILD}}}" src="http://upload.wikimedia.org/wikipedia/commons/8/8b/Wikimedia-button-for-homepage.png" width="250" height="88" /></a></span></center>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Bearbeitungsstand</th>
+</tr>
+<tr>
+<td colspan="2" align="center"><span style="color:#669966;"><b>fertig</b></span></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color: #f3f3f3;" align="justify">
+<div style="font-size:80%; height:auto; color:#669966;"><b>Fertig!</b> Dieser Text wurde zweimal anhand der Quelle <a href="/wiki/Hilfe:Korrekturlesen" title="Hilfe:Korrekturlesen">Korrektur gelesen</a>. Die Schreibweise folgt dem Originaltext.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9"><span style="font-size:85%; color:#009900">Um eine Seite zu bearbeiten, brauchst du nur auf die entsprechende [Seitenzahl] zu klicken. Weitere Informationen findest du hier: <a href="/wiki/Wikisource:Proofread" title="Wikisource:Proofread"><b>Hilfe</b></a></span></th>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9" align="center"><span id="textdaten_index"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1843)" title="Index:Kinder- und Haus-Märchen Band 1 (1843)">Link zur Indexseite</a></span></th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-bottom: solid 1px #aaa; font-size: 95%; padding-bottom:0.5em">
+<table style="background-color: transparent;">
+<tr>
+<td style="width: 50px; vertical-align: middle"><a href="/wiki/Datei:Disambig-dark.svg" class="image" title="Begriffsklärung"><img alt="Begriffsklärung" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Disambig-dark.svg/30px-Disambig-dark.svg.png" width="30" height="23" /></a></td>
+<td>Andere Ausgaben unter diesem Titel siehe unter: <b><a href="/wiki/Der_Teufel_mit_den_drei_goldenen_Haaren" title="Der Teufel mit den drei goldenen Haaren">Der Teufel mit den drei goldenen Haaren</a></b>.</td>
+</tr>
+</table>
+</div>
+<p><br /></p>
+<table>
+<tr>
+<td valign="top" style="text-align:justify; padding-left:10px; padding-right:10px; position:relative;"><span class="PageNumber" id="Seite_176" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_Grimm_1843_I_176.jpg" title="Seite:Kinder und Hausmärchen Grimm 1843 I 176.jpg">176</a></b>]</span>
+<div style="text-align:center; font-size:100%; line-height:20pt"><b>[29.]<br />
+Der Teufel mit den drei goldenen Haaren.</b></div>
+<p>Es war einmal eine arme Frau, die gebar ein Söhnlein, und weil es eine Glückshaut um hatte, als es zur Welt kam, so ward ihm geweissagt es werde im vierzehnten Jahr die Tochter des Königs zur Frau haben. Es trug sich zu, daß der König bald darauf ins Dorf kam, und niemand wußte daß es der König war, und als er die Leute fragte was es neues gäbe, so antworteten sie „es ist eben ein Kind mit einer Glückshaut geboren, was so einer unternimmt, das schlägt ihm zum Glück aus. Es ist ihm auch voraus gesagt, in seinem vierzehnten Jahre solle er die Tochter des Königs zur Frau haben.“ Der König, der ein böses Herz hatte, und über die Weissagung sich ärgerte, gieng zu den Eltern, that ganz freundlich, und sagte „ihr armen Leute, überlaßt mir euer Kind, ich will es versorgen.“ Anfangs weigerten sie sich, da aber der fremde Mann schweres Gold dafür bot, und sie dachten „es ist ein Glückskind, es muß doch zu seinem Besten ausschlagen,“ so willigten sie endlich ein, und gaben ihm das Kind.</p>
+<p>Der König legte es in eine Schachtel, und ritt damit weiter bis er zu einem tiefen Wasser kam, da warf er die Schachtel hinein, und dachte „von dem unerwarteten <span class="PageNumber" id="Seite_177" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_Grimm_1843_I_177.jpg" title="Seite:Kinder und Hausmärchen Grimm 1843 I 177.jpg">177</a></b>]</span> Freier habe ich meine Tochter geholfen.“ Die Schachtel aber gieng nicht unter, sondern schwamm wie ein Schiffchen, und es drang auch kein Tröpfchen Wasser hinein. Sie schwamm bis zwei Meilen von des Königs Hauptstadt, wo eine Mühle war, an dessen Wehr sie hängen blieb. Ein Mahlbursche, der glücklicherweise dastand und sie bemerkte, zog sie mit einem Haken heran, und dachte große Schätze zu finden, als er sie aber aufmachte, lag ein schöner Knabe darin, der ganz frisch und munter war. Er brachte ihn zu den Müllersleuten, und weil diese keine Kinder hatten, freuten sie sich, und sprachen „Gott hat es uns beschert.“ Sie pflegten den Fündling wohl, und er wuchs in allen Tugenden heran.</p>
+<p>Es trug sich zu, daß der König einmal bei einem Gewitter in die Mühle trat, und die Müllersleute fragte ob der große Junge ihr Sohn wäre. „Nein,“ antworteten sie, „es ist ein Fündling, er ist vor vierzehn Jahren in einer Schachtel ans Wehr geschwommen, und der Mahlbursche hat ihn aus dem Wasser gezogen.“ Da merkte der König daß es niemand anders, als das Glückskind war, das er ins Wasser geworfen hatte, und sprach „ihr guten Leute, könnte der Junge nicht einen Brief an die Frau Königin bringen, ich will ihm zwei Goldstücke zum Lohn geben?“ „Wie der Herr König gebietet,“ antworteten die Leute, und hießen den Jungen sich bereit halten. Da schrieb der König einen Brief an die Königin, worin stand „sobald der Knabe mit diesem Schreiben angelangt ist, soll er getödtet und begraben werden, und das alles soll geschehen sein ehe ich zurückkomme.“</p>
+<p>Der Knabe machte sich mit diesem Briefe auf den <span class="PageNumber" id="Seite_178" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_Grimm_1843_I_178.jpg" title="Seite:Kinder und Hausmärchen Grimm 1843 I 178.jpg">178</a></b>]</span> Weg, verirrte sich aber, und kam Abends in einen großen Wald. In der Dunkelheit sah er ein kleines Licht, gieng darauf zu, und gelangte zu einem Häuschen. Als er hinein trat, saß eine alte Frau beim Feuer ganz allein. Sie erschrak als sie den Knaben erblickte, und sprach „wo kommst du her und wo willst du hin?“ „Ich komme von der Mühle,“ antwortete er, „und will zur Frau Königin, der ich einen Brief bringen soll, weil ich mich aber in dem Walde verirrt habe, so wollte ich hier gerne übernachten.“ „Du armer Junge,“ sprach die Frau, „du bist in ein Räuberhaus gerathen, und wenn sie heim kommen, so bringen sie dich um.“ „Mag kommen wer will,“ sagte der Junge, „ich fürchte mich nicht, ich bin aber so müde, daß ich nicht weiter kann,“ streckte sich auf eine Bank, und schlief ein. Bald hernach kamen die Räuber, und fragten zornig was da für ein fremder Knabe läge. „Ach,“ sagte die Alte, „es ist ein unschuldiges Kind, es hat sich im Walde verirrt, und ich habe ihn aus Barmherzigkeit aufgenommen: er soll einen Brief an die Frau Königin bringen.“ Die Räuber erbrachen den Brief, und lasen ihn, und es stand darin daß der Knabe sogleich, wie er ankäme, sollte ums Leben gebracht werden. Da empfanden die hartherzigen Räuber Mitleid, und der Anführer zerriß den Brief, und schrieb einen andern, und es stand darin so wie der Knabe ankäme, sollte er sogleich mit der Königstochter vermählt werden. Sie ließen ihn dann ruhig bis zum andern Morgen auf der Bank liegen, und als er aufgewacht war, gaben sie ihm den Brief, und zeigten ihm den rechten Weg. Die Königin aber, als sie den Brief empfangen und gelesen hatte, that wie darin <span class="PageNumber" id="Seite_179" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_Grimm_1843_I_179.jpg" title="Seite:Kinder und Hausmärchen Grimm 1843 I 179.jpg">179</a></b>]</span> stand, hieß ein prächtiges Hochzeitsfest anstellen, und die Königstochter ward mit dem Glückskind vermählt, und da der Jüngling schön und freundlich war, so lebte sie vergnügt und zufrieden mit ihm.</p>
+<p>Nach einiger Zeit kam der König wieder in sein Schloß, und sah daß die Weissagung erfüllt und das Glückskind mit seiner Tochter vermählt war. „Wie ist das zugegangen?“ sprach er, „ich habe in meinem Brief einen ganz andern Befehl ertheilt.“ Da reichte ihm die Königin den Brief, und sagte er möchte selbst sehen was darin stände. Der König las den Brief, und merkte wohl daß er mit einem andern war vertauscht worden. Er fragte den Jüngling wie es mit dem anvertrauten Briefe zugegangen wäre, warum er einen andern dafür gebracht hätte. „Ich weiß von nichts,“ antwortete er, „er muß mir in der Nacht vertauscht sein, als ich im Walde geschlafen habe.“ Voll Zorn sprach der König „so leicht soll es dir nicht werden, wer meine Tochter haben will, der muß mir aus der Hölle drei goldene Haare von dem Haupte des Teufels holen; bringst du mir was ich verlange, so sollst du meine Tochter behalten.“ Damit hoffte der König ihn auf immer los zu werden. Das Glückskind aber antwortete „die goldenen Haare will ich wohl holen, ich fürchte mich vor dem Teufel nicht.“ Darauf nahm er Abschied, und begann seine Wanderschaft.</p>
+<p>Der Weg führte ihn zu einer großen Stadt, wo ihn der Wächter an dem Thore ausfragte was für ein Gewerb er verstehe und was er wisse. „Ich weiß alles“ antwortete das Glückskind. „So kannst du uns einen Gefallen thun,“ sagte der Wächter, „wenn du uns sagst <span class="PageNumber" id="Seite_180" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_Grimm_1843_I_180.jpg" title="Seite:Kinder und Hausmärchen Grimm 1843 I 180.jpg">180</a></b>]</span> warum aus unserm Marktbrunnen, aus dem sonst Wein quoll, nicht einmal mehr Wasser quillt.“ „Das sollt ihr erfahren,“ antwortete er, „wartet nur bis ich wiederkomme.“ Da gieng er weiter, und kam vor eine andere Stadt, da fragte der Thorwächter wiederum was für ein Gewerb er verstehe und was er wisse. „Ich weiß alles“ antwortete er. „So kannst du uns einen Gefallen thun, und uns sagen warum ein Baum in unserer Stadt, der sonst goldene Äpfel trug, jetzt nicht einmal Blätter hervor treibt.“ „Das sollt ihr erfahren,“ antwortete er, „wartet nur bis ich wiederkomme.“ Da gieng er weiter, und kam an ein großes Wasser, über das er hinüber mußte. Der Fährmann fragte ihn was er für ein Gewerb verstehe und was er wisse. „Ich weiß alles“ antwortete er. „So kannst du mir einen Gefallen thun,“ sprach der Fährmann, „und mir sagen warum ich immer hin und her fahren muß, und niemals abgelöst werde?“ „Das sollst du erfahren,“ antwortete er, „warte nur bis ich wiederkomme.“</p>
+<p>Als er über das Wasser hinüber war, so fand er den Eingang zur Hölle. Es war schwarz und rußig darin, und der Teufel war nicht zu Haus, aber seine Ellermutter saß da in einem breiten Sorgenstuhl. „Was willst du?“ sprach sie zu ihm, sah aber gar nicht so böse aus. „Ich wollte gerne drei goldene Haare von des Teufels Kopf,“ antwortete er, „sonst kann ich meine Frau nicht behalten.“ „Das ist viel verlangt,“ sagte sie, „wenn der Teufel heim kommt, und findet dich, so geht dirs an den Kragen; aber du dauerst mich, ich will sehen ob ich dir helfen kann.“ Sie verwandelte ihn in eine Ameise, und <span class="PageNumber" id="Seite_181" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_Grimm_1843_I_181.jpg" title="Seite:Kinder und Hausmärchen Grimm 1843 I 181.jpg">181</a></b>]</span> sprach „kriech in meine Rockfalten, da bist du sicher.“ „Ja“ antwortete er, „das ist schon gut, aber drei Dinge möcht ich gerne noch wissen, warum aus einem Brunnen, aus dem sonst Wein quoll, jetzt nicht einmal Wasser quillt, warum ein Baum, der sonst goldene Äpfel trug, nicht einmal mehr Laub treibt, und warum ein Fährmann immer fahren muß und nicht abgelöst wird.“ „Das sind schwere Fragen,“ antwortete sie, „aber halte dich nur still und ruhig, und hab acht was der Teufel spricht, wann ich ihm die drei goldenen Haare ausziehe.“</p>
+<p>Als der Abend einbrach, kam der Teufel nach Haus. Kaum war er eingetreten, so merkte er daß die Luft nicht rein war. „Ich rieche rieche Menschenfleisch,“ sagte er, „es ist hier nicht richtig.“ Dann guckte er in alle Ecken, und suchte, konnte aber nichts finden. Die Ellermutter schalt ihn aus, und sprach „eben ist erst gekehrt, und alles in Ordnung gebracht, nun wirfst du mirs wieder untereinander; immer hast du Menschenfleisch in der Nase! Setz dich nieder, und iß dein Abendbrot.“ Als er gegessen und getrunken hatte, war er müde, legte der Ellermutter seinen Kopf in den Schooß, und sagte sie sollte ihn ein wenig lausen. Es dauerte nicht lange, so schlummerte er ein, blies und schnarchte. Da faßte die Alte ein goldenes Haar, riß es aus, und legte es neben sich. „Autsch!“ schrie der Teufel, „was hast du vor?“ „Ich habe einen schweren Traum gehabt,“ antwortete die Ellermutter. „da hab ich dir in die Haare gefaßt.“ „Was hat dir denn geträumt?“ fragte der Teufel. „Mir hat geträumt ein Marktbrunnen, aus dem sonst Wein quoll, sei versiegt, und es habe nicht einmal Wasser daraus quellen wollen, <span class="PageNumber" id="Seite_182" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_Grimm_1843_I_182.jpg" title="Seite:Kinder und Hausmärchen Grimm 1843 I 182.jpg">182</a></b>]</span> was ist wohl Schuld daran?“ „Ha, wenn sies wüßten!“ antwortete der Teufel, „es sitzt eine Kröte unter einem Stein im Brunnen, wenn sie die tödten, so wird der Wein schon wieder fließen.“ Die Ellermutter lauste ihn wieder, bis er einschlief und schnarchte daß die Fenster zitterten. Da riß sie ihm das zweite Haar aus. „Hu! was machst du?“ schrie der Teufel zornig. „Nimms nicht übel,“ antwortete sie, ich habe es im Traum gethan.“ „Was hat dir wieder geträumt?“ fragte er. „Mir hat geträumt in einem Königreiche ständ ein Obstbaum, der hätte sonst goldene Äpfel getragen, und wollte jetzt nicht einmal Laub treiben. Was war wohl die Ursache davon?“ „He, wenn sies wüßten!“ antwortete der Teufel, „an der Wurzel nagt eine Maus, wenn sie die tödten, so wird er schon wieder goldene Äpfel tragen, nagt sie aber noch länger, so verdorrt der Baum gänzlich. Aber laß mich mit deinen Träumen in Ruhe, wenn du mich noch einmal im Schlafe störst, so kriegst du eine Ohrfeige.“ Die Ellermutter sprach ihn zu gut, und lauste ihn wieder bis er eingeschlafen war und schnarchte. Da faßte sie das dritte goldene Haar, und riß es ihm aus. Der Teufel fuhr in die Höhe, schrie und wollte übel mit ihr wirthschaften, aber sie besänftigte ihn nochmals und sprach, „wer kann für böse Träume!“ „Was hat dir denn geträumt?“ fragte er, und war doch neugierig. „Mir hat von einem Fährmann geträumt, der sich beklagte daß er immer hin und her fahren müsse, und nicht abgelöst werde. Was ist wohl Schuld?“ „He, der Dummbart!“ antwortete der Teufel, „wenn einer kommt und will überfahren, so muß er ihm die Stange in die Hand geben, <span class="PageNumber" id="Seite_183" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_Grimm_1843_I_183.jpg" title="Seite:Kinder und Hausmärchen Grimm 1843 I 183.jpg">183</a></b>]</span> dann muß der andere überfahren, und er ist frei.“ Da die Ellermutter ihm die drei goldenen Haare ausgerissen hatte, und die drei Fragen beantwortet waren, so ließ sie den Teufel in Ruhe, und er schlief bis der Tag anbrach.</p>
+<p>Als der Teufel wieder fortgezogen war, holte die Alte die Ameise aus der Rockfalte, und gab dem Glückskind die menschliche Gestalt zurück. „Da hast du die drei goldenen Haare,“ sprach sie, „was der Teufel zu deinen drei Fragen gesagt hat, wirst du wohl gehört haben.“ „Ja,“ antwortete er, „ich habe es gehört, und wills auch wohl behalten.“ „So ist dir geholfen,“ sagte sie, „und nun kannst du deiner Wege ziehen.“ Er bedankte sich bei der Alten für die Hilfe in der Noth, verließ die Hölle, und war vergnügt daß ihm alles so wohl geglückt war. Als er zu dem Fährmann kam, sollte er ihm die versprochene Antwort geben. „Fahr mich erst hinüber,“ sprach das Glückskind, „so will ich dir sagen wie du erlöst wirst,“ und als er auf dem jenseitigen Ufer angelangt war, gab er ihm des Teufels Rath, „wenn wieder einer kommt, und will übergefahren sein, so gieb ihm die Stange in die Hand.“ Er gieng weiter, und kam zu der Stadt, worin der unfruchtbare Baum stand, und wo der Wächter auch Antwort haben wollte. Da sagte er ihm, wie er vom Teufel gehört hatte, „tödtet die Maus, die an seiner Wurzel nagt, so wird er wieder goldene Äpfel tragen.“ Da dankte ihm der Wächter, und gab ihm zur Belohnung zwei mit Gold beladene Esel, die mußten ihm nachfolgen. Zuletzt kam er zu der Stadt, deren Brunnen versiegt war. Da sprach er zu dem Wächter, wie der Teufel gesprochen hatte, „es sitzt eine Kröte im Brunnen <span class="PageNumber" id="Seite_184" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_Grimm_1843_I_184.jpg" title="Seite:Kinder und Hausmärchen Grimm 1843 I 184.jpg">184</a></b>]</span> unter einem Stein, die müßt ihr aufsuchen und tödten, so wird er wieder reichlich Wein geben.“ Der Wächter dankte ihm, und gab ihm ebenfalls zwei mit Gold beladene Esel.</p>
+<p>Endlich langte das Glückskind daheim bei seiner Frau an, die sich herzlich freute als sie ihn wiedersah, und hörte wie wohl ihm alles gelungen war. Dem König brachte er was er verlangt hatte, die drei goldenen Haare des Teufels, und als dieser die vier Esel mit dem Golde sah, ward er ganz vergnügt, und sprach „nun sind alle Bedingungen erfüllt, und du kannst meine Tochter behalten. Aber, lieber Schwiegersohn, sage mir doch woher ist das viele Gold? das sind ja gewaltige Schätze!“ „Ich bin über einen Fluß gefahren,“ antwortete er, „und da habe ich es mitgenommen, es liegt dort statt des Sandes am Ufer.“ „Kann ich mir auch davon holen?“ sprach der König und war ganz begierig. „So viel ihr nur wollt,“ antwortete er, „es ist ein Fährmann auf dem Fluß, von dem laßt euch überfahren, so könnt ihr drüben eure Säcke füllen.“ Der habsüchtige König machte sich in aller Eile auf den Weg, und als er zu dem Fluß kam, so winkte er dem Fährmann, der sollte ihn übersetzen. Der Fährmann kam, und hieß ihn einsteigen, und als sie an das jenseitige Ufer kamen, gab er ihm die Ruderstange in die Hand, und sprang davon. Der König aber mußte von nun an fahren zur Strafe für seine Sünden.</p>
+<p>„Fährt er wohl noch?“ „Was denn? es wird ihm niemand die Stange abgenommen haben.“</p>
+</td>
+</tr>
+</table>
+<p><span class="AndereVersion" id="av_Von_dem_Teufel_mit_drei_goldenen_Haaren_.281812.29" title="Von dem Teufel mit drei goldenen Haaren (1812)|Ausgabe 1812" style="display:none;"></span> <span class="AndereVersion" id="av_Der_Teufel_mit_den_drei_goldenen_Haaren_.281819.29" title="Der Teufel mit den drei goldenen Haaren (1819)|Ausgabe 1819" style="display:none;"></span> <span class="AndereVersion" id="av_Der_Teufel_mit_den_drei_goldenen_Haaren_.281837.29" title="Der Teufel mit den drei goldenen Haaren (1837)|Ausgabe 1837" style="display:none;"></span> <span class="AndereVersion" id="av_Der_Teufel_mit_den_drei_goldenen_Haaren_.281840.29" title="Der Teufel mit den drei goldenen Haaren (1840)|Ausgabe 1840" style="display:none;"></span> <span class="AndereVersion" id="av_Der_Teufel_mit_den_drei_goldenen_Haaren_.281850.29" title="Der Teufel mit den drei goldenen Haaren (1850)|Ausgabe 1850" style="display:none;"></span> <span class="AndereVersion" id="av_Der_Teufel_mit_den_drei_goldenen_Haaren_.281857.29" title="Der Teufel mit den drei goldenen Haaren (1857)|Ausgabe 1857" style="display:none;"></span> <span class="AndereVersion" title="_line" id="_line" style="display:none;"></span> <span class="AndereVersion" id="av_Kinder-_und_Haus-M.C3.A4rchen_Band_3_.281856.29.2FAnmerkungen.2329" title="Kinder- und Haus-Märchen Band 3 (1856)/Anmerkungen#29|Kommentar 1856" style="display:none;"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 888/1000000
+Post-expand include size: 58457/2048000 bytes
+Template argument size: 4512/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key dewikisource:pcache:idhash:134826-0!1!0!!de!4!edit=0 and timestamp 20101211131921 -->
+<div class="printfooter">
+Von „<a href="http://de.wikisource.org/wiki/Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)">http://de.wikisource.org/wiki/Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)</a>“</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Spezial:Kategorien" title="Spezial:Kategorien">Kategorien</a>: <span dir='ltr'><a href="/wiki/Kategorie:Fertig" title="Kategorie:Fertig">Fertig</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Werke" title="Kategorie:Werke">Werke</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:1840er_Jahre" title="Kategorie:1840er Jahre">1840er Jahre</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutschland" title="Kategorie:Deutschland">Deutschland</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen" title="Kategorie:Märchen">Märchen</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen_Grimm_(1843)" title="Kategorie:Märchen Grimm (1843)">Märchen Grimm (1843)</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutsche_Philologie" title="Kategorie:Deutsche Philologie">Deutsche Philologie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Neuhochdeutsch" title="Kategorie:Neuhochdeutsch">Neuhochdeutsch</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Persönliche Werkzeuge</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)" title="Sich anzumelden wird zwar gerne gesehen, ist aber keine Pflicht. [o]" accesskey="o">Anmelden / Benutzerkonto erstellen</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namensräume</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)"  title="Seiteninhalt anzeigen [c]" accesskey="c"><span>Quellentext</span></a></li>
+					<li  id="ca-talk" class="new"><a href="/w/index.php?title=Diskussion:Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)&amp;action=edit&amp;redlink=1"  title="Diskussion zum Seiteninhalt [t]" accesskey="t"><span>Diskussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Varianten</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Ansichten</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)" ><span>Lesen</span></a></li>
+					<li id="ca-viewsource"><a href="/w/index.php?title=Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)&amp;action=edit"  title="Diese Seite ist geschützt. Der Quelltext kann angesehen werden. [e]" accesskey="e"><span>Quelltext anzeigen</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h"><span>Versionsgeschichte</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Aktionen</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Suche</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Spezial:Suche"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Wikisource durchsuchen [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Suche nach Seiten, die diesen Text enthalten"><img src="http://bits.wikimedia.org/skins-1.5/vector/images/search-ltr.png?283-16" alt="Suchen" /></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikisource/de/b/bc/Wiki.png);" href="/wiki/Hauptseite"  title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="/wiki/Hauptseite" title="Hauptseite anzeigen [z]" accesskey="z">Hauptseite</a></li>
+					<li id="n-contents"><a href="/wiki/Wikisource:Systematik">Systematischer Einstieg</a></li>
+					<li id="n-authors"><a href="/wiki/Kategorie:Autoren">Autorenindex</a></li>
+					<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite [x]" accesskey="x">Zufällige Seite</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Mitmachen -->
+<div class="portal" id='p-Mitmachen'>
+	<h5>Mitmachen</h5>
+	<div class="body">
+				<ul>
+					<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikisource [r]" accesskey="r">Letzte Änderungen</a></li>
+					<li id="n-Neuer-Artikel"><a href="/wiki/Vorlage:Neuer_Artikel">Neuer Artikel</a></li>
+					<li id="n-Korrekturen-des-Monats"><a href="/wiki/Vorlage:Reviewtext">Korrekturen des Monats</a></li>
+					<li id="n-Portal"><a href="/wiki/Wikisource:Portal">Gemeinschafts-Portal</a></li>
+					<li id="n-Skriptorium"><a href="/wiki/Wikisource:Skriptorium">Skriptorium</a></li>
+					<li id="n-Auskunft"><a href="/wiki/Wikisource:Auskunft">Auskunft</a></li>
+					<li id="n-Hilfe"><a href="/wiki/Wikisource:Hilfe">Hilfe</a></li>
+					<li id="n-Spenden"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=de&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001">Spenden</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /Mitmachen -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Drucken/exportieren</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=book_creator&amp;referer=Der+Teufel+mit+den+drei+goldenen+Haaren+%281843%29" title="Ein Buch oder eine Artikelsammlung erstellen" rel="nofollow">Buch erstellen</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=render_article&amp;arttitle=Der+Teufel+mit+den+drei+goldenen+Haaren+%281843%29&amp;oldid=1168546&amp;writer=rl" title="Eine PDF-Version dieser Wikiseite herunterladen" rel="nofollow">Als PDF herunterladen</a></li><li id="t-print"><a href="/w/index.php?title=Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Werkzeuge</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+																																					<li id="t-upload"><a href="http://commons.wikimedia.org/wiki/Special:Upload?uselang=de" title="Dateien hochladen [u]" accesskey="u">Datei hochladen</a></li>
+											<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)&amp;oldid=1168546" title="Dauerhafter Link zu dieser Seitenversion">dauerhafter Link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Der_Teufel_mit_den_drei_goldenen_Haaren_(1843)&amp;id=1168546" title="Hinweis, wie diese Seite zitiert werden kann">Diese Seite zitieren</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 11. Juli 2010 um 14:51 Uhr geändert.</li>
+																							<li id="footer-info-copyright"> </li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://de.wikipedia.org/wiki/Wikipedia:Datenschutz" title="w:Wikipedia:Datenschutz">Datenschutz</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikisource:%C3%9Cber" title="Wikisource:Über">Über Wikisource</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:Impressum" title="Wikisource:Impressum">Impressum</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- Served by srv242 in 0.424 secs. -->			</body>
+</html>

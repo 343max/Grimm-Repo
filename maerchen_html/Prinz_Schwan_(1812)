@@ -1,0 +1,489 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" dir="ltr">
+<head>
+<title>Prinz Schwan (1812) – Wikisource</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16wmf4" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (de)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikisource“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/vector/main-ltr.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/shared.css?283-16" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/common/commonPrint.css?283-16" type="text/css" media="print" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/combined.min.css?117" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Vector.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="vector",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://de.wikisource.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Prinz_Schwan_(1812)",
+wgTitle="Prinz Schwan (1812)",
+wgAction="view",
+wgArticleId=24685,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="de",
+wgContentLanguage="de",
+wgBreakFrames=false,
+wgCurRevisionId=785828,
+wgVersion="1.16wmf4",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=[",	.", ".	,"],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Hauptseite",
+wgFormattedNamespaces={"-2": "Media", "-1": "Spezial", "0": "", "1": "Diskussion", "2": "Benutzer", "3": "Benutzer Diskussion", "4": "Wikisource", "5": "Wikisource Diskussion", "6": "Datei", "7": "Datei Diskussion", "8": "MediaWiki", "9": "MediaWiki Diskussion", "10": "Vorlage", "11": "Vorlage Diskussion", "12": "Hilfe", "13": "Hilfe Diskussion", "14": "Kategorie", "15": "Kategorie Diskussion", "102": "Seite", "103": "Seite Diskussion", "104": "Index", "105": "Index Diskussion"},
+wgNamespaceIds={"media": -2, "spezial": -1, "": 0, "diskussion": 1, "benutzer": 2, "benutzer_diskussion": 3, "wikisource": 4, "wikisource_diskussion": 5, "datei": 6, "datei_diskussion": 7, "mediawiki": 8, "mediawiki_diskussion": 9, "vorlage": 10, "vorlage_diskussion": 11, "hilfe": 12, "hilfe_diskussion": 13, "kategorie": 14, "kategorie_diskussion": 15, "seite": 102, "seite_diskussion": 103, "index": 104, "index_diskussion": 105, "bild": 6, "bild_diskussion": 7, "ws": 4, "image": 6, "image_talk": 7},
+wgSiteName="Wikisource",
+wgCategories=["Fertig", "Werke", "1810er Jahre", "Deutschland", "Märchen", "Märchen Grimm (1812–1815)", "Deutsche Philologie", "Neuhochdeutsch"],
+wgDBname="dewikisource",
+wgMWSuggestTemplate="http://de.wikisource.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgSearchNamespaces=[0, 102, 104],
+wgMWSuggestMessages=["mit Vorschlägen", "keine Vorschläge"],
+wgRestrictionEdit=["autoconfirmed"],
+wgRestrictionMove=["autoconfirmed"],
+wgCollapsibleNavBucketTest=false,
+wgCollapsibleNavForceNewVersion=false,
+wgVectorPreferences={"collapsiblenav": {"enable": 1}, "editwarning": {"enable": 1}, "simplesearch": {"enable": 1, "disablesuggest": 0}},
+wgVectorEnabledModules={"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "simplesearch": true},
+Geo={"city": "", "country": ""},
+wgNoticeProject="wikisource";
+</script><script src="http://bits.wikimedia.org/skins-1.5/common/wikibits.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/jquery.min.js?283-16"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/ajax.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/skins-1.5/common/mwsuggest.js?283-16" type="text/javascript"></script>
+<script type="text/javascript" src="/w/extensions/ProofreadPage/proofread_article.js?26"></script>
+<script type="text/javascript"> 
+var prp_source = "Quelle";
+var prp_source_message = "Zur Erstellung dieses Texts wurde die gescannte Ausgabe benutzt.";
+</script>
+
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?283-16" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?283-16" type="text/javascript"></script>
+<script type="text/javascript">mw.usability.addMessages({'vector-collapsiblenav-more':'Weitere Sprachen','vector-editwarning-warning':'Das Verlassen dieser Seite kann dazu führen, dass die Änderungen verloren gehen.\nAls angemeldeter Benutzer kann das Anzeigen dieser Warnung im „Bearbeiten“-Bereich der Einstellungen abgeschaltet werden.','vector-simplesearch-search':'Suche','vector-simplesearch-containing':'Volltextsuche nach …'});</script>
+<script src="/w/index.php?title=Spezial:BannerController&amp;cache=/cn.js&amp;283-16" type="text/javascript"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.5/vector/csshover.htc")}</style><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=vector&amp;283-16" type="text/javascript"></script>
+
+</head>
+<body class="mediawiki ltr capitalize-all-nouns ns-0 ns-subject page-Prinz_Schwan_1812 skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Prinz Schwan (1812)</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">aus Wikisource, der freien Quellensammlung</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"><table style="line-height:40%;visibility:hidden;" border=0 cellpadding=0 cellspacing=0 ><tr>
+<td align=center > </td>
+<td align=center class='quality4' width="100"></td>
+<td align=center class='quality3' width="0"></td>
+<td align=center class='quality2' width="0"></td>
+<td align=center class='quality1' width="0"></td>
+<td align=center class='quality0' width="0"></td>
+<!-- <td ><span id=pr_index style="visibility:hidden;"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1812)" title="Index:Kinder- und Haus-Märchen Band 1 (1812)">[index]</a></span></td> -->
+</tr></table></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Wechseln zu: <a href="#mw-head">Navigation</a>,
+					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div id="textdaten" style="float:right;" class="noprint">
+<table width="280px" style="margin:0;margin-left:0.5em;margin-bottom:0.5em;">
+<tr>
+<td>
+<table width="100%" border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse; border-style:1px solid; border-color:#AAAAAA; background-color:#fff; font-size:100%; color:#191919">
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Textdaten</th>
+</tr>
+<tr valign="top">
+<th width="50%" align="left"><a href="/wiki/Vom_treuen_Gevatter_Sperling_(1812)" title="Vom treuen Gevatter Sperling (1812)"><b>&lt;&lt;&lt;</b></a></th>
+<th width="50%" align="right"><a href="/wiki/Das_Goldei_(1812)" title="Das Goldei (1812)"><b>&gt;&gt;&gt;</b></a></th>
+</tr>
+<tr valign="top">
+<td width="40%">Autor:</td>
+<td width="60%"><b><a href="/wiki/Br%C3%BCder_Grimm" title="Brüder Grimm">Brüder Grimm</a></b></td>
+</tr>
+<tr valign="top">
+<td>Titel:</td>
+<td><b>Prinz Schwan</b></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Untertitel:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>aus:</td>
+<td><a href="/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1812)" title="Kinder- und Haus-Märchen Band 1 (1812)">Kinder- und Haus-Märchen Band 1</a>, Große Ausgabe.<br />
+S. <a href="http://commons.wikimedia.org/wiki/Image:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_273.jpg" class="extiw" title="commons:Image:Kinder und Hausmärchen (Grimm) 1812 I 273.jpg">273</a>-278</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Herausgeber:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Auflage:</td>
+<td>1. Auflage</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Entstehungsdatum:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsdatum:</td>
+<td>1812</td>
+</tr>
+<tr valign="top">
+<td>Verlag:</td>
+<td>Realschulbuchhandlung</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Drucker:</td>
+<td>{{{DRUCKER}}}</td>
+</tr>
+<tr valign="top">
+<td>Erscheinungsort:</td>
+<td>Berlin</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Übersetzer:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originaltitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalsubtitel:</td>
+<td></td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td>Originalherkunft:</td>
+<td></td>
+</tr>
+<tr valign="top">
+<td>Quelle:</td>
+<td><a href="http://www.grimms.de/khm/khmhexa.php" class="external text" rel="nofollow">grimms.de</a> und <a href="http://commons.wikimedia.org/wiki/Category:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I" class="extiw" title="commons:Category:Kinder und Hausmärchen (Grimm) 1812 I">Scans auf Commons</a></td>
+</tr>
+<tr valign="top">
+<td>Kurzbeschreibung:</td>
+<td>nur 1812: KHM 59</td>
+</tr>
+<tr valign="top" class="hiddenStructure">
+<td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td colspan="2">
+<center><a href="/wiki/Datei:Wikipedia-logo.png" class="image"><img alt="Wikipedia-logo.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/20px-Wikipedia-logo.png" width="20" height="20" /></a> <a href="http://de.wikipedia.org/wiki/Prinz_Schwan" class="extiw" title="w:Prinz Schwan">Artikel in der Wikipedia</a></center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center>[[Bild:|250px]]</center>
+</td>
+</tr>
+<tr class="hiddenStructure">
+<th colspan="2" bgcolor="#F9F9F9">Bild</th>
+</tr>
+<tr class="hiddenStructure">
+<td colspan="2">
+<center><span class="extimg"><a href="/wiki/Datei:Wikimedia-button-for-homepage.png" class="image" title="{{{EXTERNESBILD}}}"><img alt="{{{EXTERNESBILD}}}" src="http://upload.wikimedia.org/wikipedia/commons/8/8b/Wikimedia-button-for-homepage.png" width="250" height="88" /></a></span></center>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9">Bearbeitungsstand</th>
+</tr>
+<tr>
+<td colspan="2" align="center"><span style="color:#669966;"><b>fertig</b></span></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color: #f3f3f3;" align="justify">
+<div style="font-size:80%; height:auto; color:#669966;"><b>Fertig!</b> Dieser Text wurde zweimal anhand der Quelle <a href="/wiki/Hilfe:Korrekturlesen" title="Hilfe:Korrekturlesen">Korrektur gelesen</a>. Die Schreibweise folgt dem Originaltext.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9"><span style="font-size:85%; color:#009900">Um eine Seite zu bearbeiten, brauchst du nur auf die entsprechende [Seitenzahl] zu klicken. Weitere Informationen findest du hier: <a href="/wiki/Wikisource:Proofread" title="Wikisource:Proofread"><b>Hilfe</b></a></span></th>
+</tr>
+<tr>
+<th colspan="2" bgcolor="#F9F9F9" align="center"><span id="textdaten_index"><a href="/wiki/Index:Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1812)" title="Index:Kinder- und Haus-Märchen Band 1 (1812)">Link zur Indexseite</a></span></th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<table>
+<tr>
+<td valign="top" style="text-align:justify; padding-left:10px; padding-right:10px; position:relative;"><span class="PageNumber" id="Seite_273" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_273.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 273.jpg">273</a></b>]</span>
+<div style="text-align:center"><b>59.</b></div>
+<br />
+<div style="text-align:center"><b>Prinz Schwan.</b></div>
+<br />
+<p>Es war ein Mädchen mitten in einem großen Wald, da kam ein Schwan auf es zugegangen, der hatte einen Knauel Garn, und sprach zu ihm: „ich bin kein Schwan, sondern ein verzauberter Prinz, aber du kannst mich erlösen, wenn du den Knauel Garn abwickelst, an dem ich fortfliege; doch hüte dich, daß du den Faden nicht entzwei brichst, sonst komm’ ich nicht bis in mein Königreich, und werde nicht erlöst; wickelst du aber den Knauel ganz ab, dann bist du meine Braut.“ Das Mädchen nahm den Knauel, und der Schwan stieg auf in die Luft, und das Garn wickelte sich leichtlich ab. Es wickelte und wickelte den ganzen Tag, und am Abend war schon das Ende des Fadens zu sehen, da blieb er unglücklicherweise an einem Dornstrauch hängen und brach ab. Das Mädchen war sehr betrübt und weinte, es wollt’ auch Nacht werden, der Wind ging so laut in dem Wald, daß ihm Angst ward, und es anfing zu laufen, was es nur konnte. Und als es lang gelaufen war, sah es ein kleines <span class="PageNumber" id="Seite_274" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_274.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 274.jpg">274</a></b>]</span> Licht, darauf eilte es zu, und fand ein Haus und klopfte an. Ein altes Mütterchen kam heraus, das verwunderte sich, wie es sah, daß ein Mädchen vor der Thüre war: „ei mein Kind, wo kommst du so spät her?“ – „Gebt mir doch heut Nacht eine Herberg, sprach es, ich habe mich in dem Wald verirrt; auch ein wenig Brod zu essen.“ – „Das ist ein schweres Ding, sagte die Alte ich gäbe dirs gern, aber mein Mann ist ein Menschenfresser, wenn der dich findet, so frißt er dich auf, da ist keine Gnade; doch, wenn du draußen bleibst, fressen dich die wilden Thiere, ich will sehen, ob ich dir durchhelfen kann.“ Da ließ sie es herein, und gab ihm ein wenig Brod zu essen, und versteckte es dann unter das Bett. Der Menschenfresser aber kam allemal vor Mitternacht, wenn die Sonne ganz untergegangen ist, nach Haus, und ging Morgens, ehe sie aufsteigt, wieder fort. Es dauerte nicht lang, so kam er herein: „ich wittre, ich wittre Menschenfleisch!“ sprach er und suchte in der Stube, endlich griff er auch unter das Bett und zog das Mädchen hervor: „das ist noch ein guter Bissen!“ Die Frau aber bat und bat, bis er versprach, die Nacht über es noch leben zu lassen, und morgen erst zum Frühstück zu essen. Vor Sonnenaufgang aber weckte die Alte das Mädchen: „eil dich, daß du fortkommst, eh mein Mann <span class="PageNumber" id="Seite_275" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_275.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 275.jpg">275</a></b>]</span> aufwacht, da schenk ich dir ein goldenes Spinnrädchen, das halt in Ehren: ich heiße <i>Sonne.</i>“ Das Mädchen ging fort und kam Abends an ein Haus, da war alles, wie am vorigen Abend, und die zweite Alte gab ihm beim Abschied eine goldene Spindel und sprach: „ich heiße <i>Mond.</i>“ Und am dritten Abend kam es an ein drittes Haus, da schenkte ihm die Alte einen goldenen Haspel und sagte: „ich heiße <i>Stern,</i> und der Prinz Schwan, ob gleich der Faden noch nicht ganz abgewickelt war, war doch schon so weit, daß er in sein Reich gelangen konnte, dort ist er König und hat sich schon verheirathet, und wohnt in großer Herrlichkeit auf dem Glasberg; du wirst heut Abend hinkommen, aber ein Drache und ein Löwe liegen davor und bewahren ihn, darum nimm das Brod und den Speck und besänftige sie damit.“ So geschahe es auch. Das Mädchen warf den Ungeheuern das Brod und den Speck in den Rachen, da ließen sie es durch, und es kam bis an das Schloßthor, aber in das Schloß selber ließen es die Wächter nicht hinein. Da setzte es sich vor das Thor, und fing an auf seinem goldenen Rädchen zu spinnen; die Königin sah von oben zu, ihr gefiel das schöne Rädchen, und sie kam herunter und wollte es haben. Das Mädchen sagte, sie solle es haben, wenn sie erlauben wollte, daß es eine <span class="PageNumber" id="Seite_276" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_276.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 276.jpg">276</a></b>]</span> Nacht neben dem Schlafzimmer des Königs zubrächte. Die Königin sagte es zu, und das Mädchen ward hinaufgeführt, was aber in der Stube gesprochen wurde, das konnte man alles in dem Schlafzimmer hören. Wie es nun Nacht ward, und der König im Bett lag, sang es:</p>
+<div class="poem">
+<p>„Denkt der König Schwan<br />
+noch an seine versprochene Braut Julian’?<br />
+die ist gegangen durch Sonne, Mond und Stern,<br />
+durch Löwen und durch Drachen:<br />
+will der König Schwan denn gar nicht erwachen?“</p>
+</div>
+<p>Aber der König hörte es nicht, denn die listige Königin hatte sich vor dem Mädchen gefürchtet, und ihm einen Schlaftrunk gegeben, da schlief er so fest, und hätte das Mädchen nicht gehört, und wenn es vor ihm gestanden wäre. Am Morgen war alles verloren, und es mußte wieder vor das Thor, da setzte es sich hin und spann mit seiner Spindel, die gefiel der Königin auch, und es gab sie unter derselben Bedingung weg, daß es eine Nacht neben des Königs Schlafzimmer zubringen dürfe. Da sang es wieder:</p>
+<div class="poem">
+<p>„Denkt der König Schwan,<br />
+nicht an seine versprochene Braut Julian’?<br />
+die ist gegangen durch Sonne, Mond und Stern,</p>
+</div>
+<div style="position:relative;"><span class="seitennummer PageNumber" id="Seite_277">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_277.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 277.jpg">277</a></b>]</span></div>
+<div class="poem">
+<p>durch Löwen und durch Drachen:<br />
+will der König Schwan denn gar nicht erwachen?“</p>
+</div>
+<p>Der König aber schlief wieder fest von einem Schlaftrunk, und das Mädchen hatte auch seine Spindel verloren. Da setzte es sich am dritten Morgen mit seinem goldenen Haspel vor das Thor und haspelte. Die Königin wollte auch die Kostbarkeit haben, und versprach dem Mädchen, es sollte dafür noch eine Nacht neben dem Schlafzimmer bleiben. Es hatte aber den Betrug gemerkt, und bat den Diener des Königs, er mögte diesem heut Abend was anderes zu trinken geben. Da sang es noch einmal:</p>
+<div class="poem">
+<p>„Denkt der König Schwan<br />
+nicht an seine versprochene Braut Julian’?<br />
+die ist gegangen durch Sonne, Mond und Stern,<br />
+durch Löwen und durch Drachen:<br />
+will der König Schwan, denn gar nicht erwachen?“</p>
+</div>
+<p>Da erwachte der König; wie er ihre Stimme hörte, erkannte sie und fragte die Königin: „wenn man einen Schlüssel verloren hat und ihn wieder findet, behält man dann den alten oder den neugemachten?“ Die Königin sagte: „ganz gewiß den alten.“ – „Nun, dann kannst du meine Gemahlin nicht länger seyn, ich habe <span class="PageNumber" id="Seite_278" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_278.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 278.jpg">278</a></b>]</span> meine erste Braut wieder gefunden.“ Da mußte am andern Morgen die Königin zu ihrem Vater wieder heimgehen, und der König vermählte sich mit seiner rechten Braut, und die lebten so lang vergnügt, bis sie gestorben sind.</p>
+<h2><span class="mw-headline" id="Anhang">Anhang</span></h2>
+<span class="PageNumber" id="Seite_XXXVII" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_425.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 425.jpg">XXXVII</a></b>]</span>
+<div style="text-align:center"><b>Zu Prinz Schwan. No. 59.</b></div>
+<br />
+<p>Aehnlich damit das Märchen von den drei Gürteln in der Braunschw. Samml. S. 122-150. Die Königin erhält von einer Fee, der sie als einer alten bösen Hexe unermüdlich Beistand geleistet, drei Gürtel, so lang die nicht entzwei gingen, könne sie an die Liebe und Treue ihres abwesenden Gemahls glauben. Als zwei davon geplatzt sind, verkleidet sie sich in eine Pilgerin und zieht ihm nach. In einem großen Wald, durch den sie geht, fallen ihr nach einander drei goldne Nüsse vor die Füße, die sie aufhebt und mitnimmt. Sie kommt zu einem Müller, der sie für seine Base ausgeben will, und ihr einen andern Namen giebt. Hier findet sie der König, und ohne sie wiederzuerkennen, verliebt er sich in sie. Sie zeigt sich ihm geneigt, wie er sie aber umarmen will, platzt der dritte Gürtel, sie erschrickt und bittet ihn die Hausthüre zuzumachen, deren Schlagen sie nicht hören könne. Wie er aber eine zumacht, <span class="PageNumber" id="Seite_XXXVIII" style="color:#666666; display:inline; margin:0px; padding:0px;">[<b><a href="/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1812_I_426.jpg" title="Seite:Kinder und Hausmärchen (Grimm) 1812 I 426.jpg">XXXVIII</a></b>]</span> springt eine andere wieder auf und so fort, daß er die ganze Nacht nichts zu thun hat, als Thüren zuzumachen. Der König ist dadurch gekränkt, kommt nicht wieder, und will sich mit der Prinzessin, die seine Braut ist, vermählen. Die Königin macht ihre erste Goldnuß auf, da ist das prächtigste Nähzeug und Nähkästchen darin, damit geht sie zum Schloß, setzt sich den Fenstern der Prinzessin gegenüber und näht. Die Prinzessin sieht sie und trägt großen Gefallen an dem Nähzeug, sie tauscht es für das Recht ein, die erste Nacht bei dem König zubringen zu dürfen. Am andern Tag öffnet diese die zweite Nuß, findet eine köstliche Spindel darin, spinnt damit vor der Prinzessin und vertauscht sie für die zweite Nacht, endlich auch das Geschmeide, welches die dritte Nuß in sich faßte, für die dritte Nacht. Wie der Hochzeitstag nun vorbei ist, wird die Königin zum König geführt, da entdeckt sie sich als seine Gemahlin; am dritten Morgen beruft er einen Rath und legt die Frage von dem Schlüssel vor, den er zu einem goldnen Vorlegeschloß verloren, und wiedergefunden, ob er den alten oder den neuen gebrauchen solle. Die Prinzessin entscheidet selber für den alten und demnach für ihre Trennung.</p>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 874/1000000
+Post-expand include size: 32600/2048000 bytes
+Template argument size: 3483/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key dewikisource:pcache:idhash:24685-0!1!0!!de!4!edit=0 and timestamp 20101211132316 -->
+<div class="printfooter">
+Von „<a href="http://de.wikisource.org/wiki/Prinz_Schwan_(1812)">http://de.wikisource.org/wiki/Prinz_Schwan_(1812)</a>“</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Spezial:Kategorien" title="Spezial:Kategorien">Kategorien</a>: <span dir='ltr'><a href="/wiki/Kategorie:Fertig" title="Kategorie:Fertig">Fertig</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Werke" title="Kategorie:Werke">Werke</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:1810er_Jahre" title="Kategorie:1810er Jahre">1810er Jahre</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutschland" title="Kategorie:Deutschland">Deutschland</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen" title="Kategorie:Märchen">Märchen</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:M%C3%A4rchen_Grimm_(1812%E2%80%931815)" title="Kategorie:Märchen Grimm (1812–1815)">Märchen Grimm (1812–1815)</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Deutsche_Philologie" title="Kategorie:Deutsche Philologie">Deutsche Philologie</a></span> | <span dir='ltr'><a href="/wiki/Kategorie:Neuhochdeutsch" title="Kategorie:Neuhochdeutsch">Neuhochdeutsch</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Persönliche Werkzeuge</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Prinz_Schwan_(1812)" title="Sich anzumelden wird zwar gerne gesehen, ist aber keine Pflicht. [o]" accesskey="o">Anmelden / Benutzerkonto erstellen</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namensräume</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="/wiki/Prinz_Schwan_(1812)"  title="Seiteninhalt anzeigen [c]" accesskey="c"><span>Quellentext</span></a></li>
+					<li  id="ca-talk" class="new"><a href="/w/index.php?title=Diskussion:Prinz_Schwan_(1812)&amp;action=edit&amp;redlink=1"  title="Diskussion zum Seiteninhalt [t]" accesskey="t"><span>Diskussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Varianten</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Ansichten</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="/wiki/Prinz_Schwan_(1812)" ><span>Lesen</span></a></li>
+					<li id="ca-viewsource"><a href="/w/index.php?title=Prinz_Schwan_(1812)&amp;action=edit"  title="Diese Seite ist geschützt. Der Quelltext kann angesehen werden. [e]" accesskey="e"><span>Quelltext anzeigen</span></a></li>
+					<li id="ca-history" class="collapsible "><a href="/w/index.php?title=Prinz_Schwan_(1812)&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h"><span>Versionsgeschichte</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Aktionen</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Suche</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Spezial:Suche"/>
+				<div id="simpleSearch">
+			<input id="searchInput" name="search" type="text"  title="Wikisource durchsuchen [f]" accesskey="f"  value="" />
+			<button id="searchButton" type='submit' name='button'  title="Suche nach Seiten, die diesen Text enthalten"><img src="http://bits.wikimedia.org/skins-1.5/vector/images/search-ltr.png?283-16" alt="Suchen" /></button>
+		</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikisource/de/b/bc/Wiki.png);" href="/wiki/Hauptseite"  title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="/wiki/Hauptseite" title="Hauptseite anzeigen [z]" accesskey="z">Hauptseite</a></li>
+					<li id="n-contents"><a href="/wiki/Wikisource:Systematik">Systematischer Einstieg</a></li>
+					<li id="n-authors"><a href="/wiki/Kategorie:Autoren">Autorenindex</a></li>
+					<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite [x]" accesskey="x">Zufällige Seite</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Mitmachen -->
+<div class="portal" id='p-Mitmachen'>
+	<h5>Mitmachen</h5>
+	<div class="body">
+				<ul>
+					<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikisource [r]" accesskey="r">Letzte Änderungen</a></li>
+					<li id="n-Neuer-Artikel"><a href="/wiki/Vorlage:Neuer_Artikel">Neuer Artikel</a></li>
+					<li id="n-Korrekturen-des-Monats"><a href="/wiki/Vorlage:Reviewtext">Korrekturen des Monats</a></li>
+					<li id="n-Portal"><a href="/wiki/Wikisource:Portal">Gemeinschafts-Portal</a></li>
+					<li id="n-Skriptorium"><a href="/wiki/Wikisource:Skriptorium">Skriptorium</a></li>
+					<li id="n-Auskunft"><a href="/wiki/Wikisource:Auskunft">Auskunft</a></li>
+					<li id="n-Hilfe"><a href="/wiki/Wikisource:Hilfe">Hilfe</a></li>
+					<li id="n-Spenden"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA1&amp;language=de&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB001">Spenden</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /Mitmachen -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Drucken/exportieren</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=book_creator&amp;referer=Prinz+Schwan+%281812%29" title="Ein Buch oder eine Artikelsammlung erstellen" rel="nofollow">Buch erstellen</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=render_article&amp;arttitle=Prinz+Schwan+%281812%29&amp;oldid=785828&amp;writer=rl" title="Eine PDF-Version dieser Wikiseite herunterladen" rel="nofollow">Als PDF herunterladen</a></li><li id="t-print"><a href="/w/index.php?title=Prinz_Schwan_(1812)&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Werkzeuge</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Prinz_Schwan_(1812)" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Prinz_Schwan_(1812)" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+																																					<li id="t-upload"><a href="http://commons.wikimedia.org/wiki/Special:Upload?uselang=de" title="Dateien hochladen [u]" accesskey="u">Datei hochladen</a></li>
+											<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Prinz_Schwan_(1812)&amp;oldid=785828" title="Dauerhafter Link zu dieser Seitenversion">dauerhafter Link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Prinz_Schwan_(1812)&amp;id=785828" title="Hinweis, wie diese Seite zitiert werden kann">Diese Seite zitieren</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 17. Juli 2009 um 16:38 Uhr geändert.</li>
+																							<li id="footer-info-copyright"> </li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://de.wikipedia.org/wiki/Wikipedia:Datenschutz" title="w:Wikipedia:Datenschutz">Datenschutz</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikisource:%C3%9Cber" title="Wikisource:Über">Über Wikisource</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:Impressum" title="Wikisource:Impressum">Impressum</a></li>
+															</ul>
+										<ul id="footer-icons" class="noprint">
+								<li id="footer-icon-poweredby"><a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></li>
+												<li id="footer-icon-copyright"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+							</ul>
+			<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- Served by srv277 in 0.472 secs. -->			</body>
+</html>
