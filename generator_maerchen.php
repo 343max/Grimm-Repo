@@ -13,7 +13,7 @@ function getText($html) {
 	return $matches[1];
 }
 
-function createMaerchen($file) {
+function createMaerchen($file, $destDir) {
 	$sourceHtml = file_get_contents($file);
 	$headline = getHeadline($sourceHtml);
 	$text = gettext($sourceHtml);
@@ -32,5 +32,5 @@ function createMaerchen($file) {
 	</body>
 	</html>';
 
-	file_put_contents(dirname(__FILE__) . '/book/' . $headline . '.html', $html);
+	file_put_contents($destDir . $headline . '.html', $html);
 }

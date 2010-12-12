@@ -2,14 +2,14 @@
 
 require_once('generator_maerchen.php');
 
-$year = $_SERVER['argv'][1];
+function generateYear($year, $destDir) {
+	$sourceDir = dirname(__FILE__) . '/maerchen_sources/';
 
-$sourceDir = dirname(__FILE__) . '/maerchen_sources/';
+	$dir = dir($sourceDir);
+	while (false !== ($entry = $dir->read())) {
+	   if(stripos($entry, "($year)") === false) continue;
 
-$dir = dir($sourceDir);
-while (false !== ($entry = $dir->read())) {
-   if(stripos($entry, "($year)") === false) continue;
-
-   createMaerchen($sourceDir . $entry);
+	   createMaerchen($sourceDir . $entry, $destDir);
+	}
+	$dir->close();
 }
-$dir->close();
