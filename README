@@ -1,0 +1,24 @@
+Grimm Repository
+
+Dies ist eine Scriptsammlung, die ein git-Repository mit allen Auflagen der Grimm'schen "Kinder- und Hausmärchen" http://de.wikisource.org/wiki/Kinder-_und_Hausm%C3%A4rchen erstellt. Mithilfe dieses Repositories kann man dann die einzelnen Auflagen der Märchen recht komfortabel mit geeigneten Werkzeugen vergleichen und sich Unterschiede hervorheben zu lassen. Dazu werden die einzelnen Märchen aus wikisource heruntergeladen. Für jede Auflage gibt es einen Commit ins Repository.
+
+So gehts:
+
+Märchen aus der Wikipedia herunterladen:
+sh get_maerchen.sh
+legt einen Ordner "maerchen_source" an, in dem der 1:1 HTML Quelltext aller Märchen aus Wikisources liegt.
+
+php generate_book.php
+legt im Ordner "book" ein leeres Repository an, kopiert jedes Märchen der jeweiligen Auflage hinein, und führt ein git-commit mit Auflagennummer und Jahreszahl durch. Im Ergebnis hat man 8 Commits: 2 für die erste Auflage, gentrennt nach den Jahren 1812 und 1815 sowie einen weiteren Commit für jede weitere Auflage.
+
+Bugs:
+- zwischen den einzelnen Auflagen wird kein "git delete" ausgeführt, sodass Märchen, die in der nächsten Auflage nicht mehr vorhanden waren dennoch im Repository sind.
+
+Todo:
+- Metadaten raus: in den Märchen sind noch einige Metadaten wie URLs und Seitenzahlen die Unterschiede zwischen den Versionen größer erscheinen lassen, als sie sind.
+
+- HTML-Quellcode vereinheitlichen: es gibt doch recht große Unterschiede zwischen den Auflagen, wie z.B. Überschriften formatiert sind. Dadurch kommt es zu mehr unterschieden, als tatsächlich vorhanden sind.
+
+- Verwendung einer leichter lesbaren Markupsprache wie Markdown anstatt von HTML
+
+- git-Tool zur guten Darstellung der Unterschiede zwischen Versionen finden und hier empfehlen.
